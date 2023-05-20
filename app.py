@@ -1,6 +1,6 @@
 from flask import Flask
-from housing.logger import logging
-from housing.exception import HousingException
+from src.logger import logging
+from src.exception import CustomException
 import sys
 app = Flask(__name__)
 

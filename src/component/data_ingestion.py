@@ -1,7 +1,10 @@
 import os
 import sys
-from housing.exception import CustomException
-from housing.logger import logging
+from pathlib import Path
+sys.path.append(str(Path(__file__).parent.parent.parent))
+
+from src.logger import logging
+from src.exception import CustomException
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
@@ -13,6 +16,7 @@ class DataIngestionConfig:
     raw_data_path:str = os.path.join('artifact','data.csv')
 
 
+
 class DataIngestion:
     def __init__(self):
         self.ingestion_config = DataIngestionConfig()
@@ -20,7 +24,7 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         logging.info("Entered the data ingestion")
         try:
-            df = pd.read_csv("notebook\dataset\xgb_dataset.csv")
+            df = pd.read_csv("https://raw.githubusercontent.com/PratikBorkar04/consignment_pricing/main/notebook/dataset/xgb_dataset.csv")
             logging.info("Entered the dataset")
 
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path),exist_ok=True)
