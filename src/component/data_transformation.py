@@ -26,7 +26,7 @@ class DataTransformation:
 
     def get_data_transformer_object(self):
         try:
-            numerical_columns = ['unit_of_measure', 'line_item_quantity', 'line_item_value', 'pack_price', 'unit_price', 'weight', 'freight_cost', 'distance']
+            numerical_columns = ['unit_of_measure', 'line_item_quantity', 'line_item_value', 'pack_price', 'unit_price', 'weight', 'distance']
             categorical_columns = ['country', 'fulfill_via', 'vendor', 'shipment_mode', 'location']
 
             num_pipeline= Pipeline(
@@ -69,8 +69,9 @@ class DataTransformation:
 
         try:
             train_df=pd.read_csv(train_path)
+            print(train_df.isnull().sum())
             test_df=pd.read_csv(test_path)
-
+           
             logging.info("Read train and test data completed")
 
             logging.info("Obtaining preprocessing object")
@@ -78,12 +79,12 @@ class DataTransformation:
             preprocessing_obj=self.get_data_transformer_object()
 
             target_column_name="freight_cost"
-            numerical_columns = ['unit_of_measure', 'line_item_quantity', 'line_item_value', 'pack_price', 'unit_price', 'weight', 'freight_cost', 'distance']
+            numerical_columns = ['unit_of_measure', 'line_item_quantity', 'line_item_value', 'pack_price', 'unit_price', 'weight', 'distance']
 
 
-            input_feature_train_df=train_df.drop(columns=[target_column_name],axis=1)
-            
+            input_feature_train_df=train_df.drop(columns=[target_column_name],axis=1) 
             target_feature_train_df=train_df[target_column_name]
+            
 
             input_feature_test_df=test_df.drop(columns=[target_column_name],axis=1)
             target_feature_test_df=test_df[target_column_name]
@@ -98,8 +99,9 @@ class DataTransformation:
             train_arr = np.c_[
                 input_feature_train_arr, np.array(target_feature_train_df)
             ]
+            print(train_arr.shape)
             test_arr = np.c_[input_feature_test_arr, np.array(target_feature_test_df)]
-
+            print(test_arr)
             logging.info(f"Saved preprocessing object.")
 
             save_object(
