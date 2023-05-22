@@ -84,23 +84,38 @@ class DataTransformation:
 
             input_feature_train_df=train_df.drop(columns=[target_column_name],axis=1) 
             target_feature_train_df=train_df[target_column_name]
-            
+           # print("====00000000")
+            #
+           
 
             input_feature_test_df=test_df.drop(columns=[target_column_name],axis=1)
             target_feature_test_df=test_df[target_column_name]
-
+            print(target_feature_test_df.shape)
             logging.info(
                 f"Applying preprocessing object on training dataframe and testing dataframe."
             )
 
             input_feature_train_arr=preprocessing_obj.fit_transform(input_feature_train_df)
             input_feature_test_arr=preprocessing_obj.transform(input_feature_test_df)
+            print("======================")
 
-            train_arr = np.c_[
-                input_feature_train_arr, np.array(target_feature_train_df)
-            ]
-            print(train_arr.shape)
+            print(input_feature_train_arr)
+            z = pd.DataFrame(input_feature_train_arr)
+            z.to_csv("input_feature_train_arr.csv")
+            input_feature_test_arr.to_csv("input_feature_test_arr.csv")
+            print(target_feature_train_df.shape)
+            input_feature_train_arr = np.array(input_feature_train_arr)
+            #print("======================")
+
+            #print(input_feature_test_arr.shape)
+            
+            train_arr = np.c_[input_feature_train_arr, np.array(target_feature_train_df)]
+
+            print("+++++++++++")
+
             test_arr = np.c_[input_feature_test_arr, np.array(target_feature_test_df)]
+
+
             print(test_arr)
             logging.info(f"Saved preprocessing object.")
 
