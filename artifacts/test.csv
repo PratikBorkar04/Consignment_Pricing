@@ -1,1252 +1,1252 @@
-country,fulfill_via,vendor,shipment_mode,unit_of_measure,line_item_quantity,line_item_value,pack_price,unit_price,weight,freight_cost,location,distance
-South Africa,Direct Drop,DDP,Ocean,30,91772,390948,4,0.14,7797,6292,India,8074
-Nigeria,From RDC,RDC,Air Charter,30,249986,2787343,11,0.37,3622,9181, Nashik,7134
-Zimbabwe,From RDC,RDC,Truck,60,53733,148303,2,0.05,2232,5933, Nashik,6420
-Haiti,From RDC,RDC,Air,60,1057,3593,3,0.06,100,651,India,14446
-South Africa,Direct Drop,DDP,Truck,200,1200,2796,2,0.01,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,240,8,141,17,0.07,3622,9181,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,240,5527,11606,2,0.01,5317,10005,India,9091
-Nigeria,From RDC,RDC,Air Charter,60,234519,1810486,7,0.13,51833,106573,India,7633
-"Congo, DRC",From RDC,RDC,Air,60,715,8029,11,0.19,116,-109, Nashik,6020
-Nigeria,From RDC,RDC,Air Charter,30,29349,258858,8,0.29,2808,12398, Nashik,7134
-Tanzania,Direct Drop,CIP,Air,30,2597,61470,23,0.79,117,-355,France,6771
-Zambia,From RDC,RDC,Truck,30,5000,60050,12,0.4,4247,7231, Nashik,6339
-South Africa,Direct Drop,DDP,Truck,240,40,656,16,0.07,3622,9181,Canada,15035
-"Congo, DRC",From RDC,RDC,Air,60,820,4173,5,0.08,3622,9181,India,6583
-Haiti,From RDC,RDC,Air,240,2135,4205,1,0.01,3622,9181,India,14446
-Haiti,Direct Drop,EXW,Air,60,1217,8239,6,0.11,124,-24,India,14446
-Côte d'Ivoire,Direct Drop,CIP,Air,60,546,3822,7,0.12,108,9181,France,4338
-Vietnam,Direct Drop,EXW,Air,60,800,1400,1,0.03,3622,9181,India,3157
-Nigeria,From RDC,RDC,Air Charter,120,56260,1137577,20,0.17,12427,19225,Germany,4614
-South Africa,Direct Drop,DDP,Truck,30,42,507,12,0.4,3622,9181,India,8074
-Uganda,From RDC,RDC,Truck,60,6384,22982,3,0.06,382,587, Nashik,4961
-Zimbabwe,From RDC,RDC,Truck,60,11574,119096,10,0.17,3622,9181, Nashik,6420
-Haiti,From RDC,RDC,Air,60,32850,95265,2,0.05,3917,38223,India,14446
-Vietnam,Direct Drop,FCA,Air,30,450,10467,23,0.78,3622,9181,Germany,9157
-Rwanda,Direct Drop,EXW,Air,60,912,18240,20,0.33,102,600,India,5921
-South Africa,Direct Drop,DDP,Air,30,54247,424211,7,0.26,3728,2646,India,8074
-Vietnam,Direct Drop,EXW,Air,30,150,1950,13,0.43,30,3111,India,3157
-South Africa,Direct Drop,DDP,Air,200,40,48,1,0.01,3622,9181,France,8670
-Uganda,Direct Drop,FCA,Air,60,1000,5940,5,0.1,116,105,Germany,5868
-Côte d'Ivoire,Direct Drop,CIP,Air,60,5721,145885,25,0.42,1232,9181,France,4338
-Nigeria,From RDC,RDC,Air Charter,30,240,2820,11,0.39,22,8341, Nashik,7134
-Tanzania,Direct Drop,FCA,Air,120,7145,258363,36,0.3,1604,8915,Germany,6837
-Uganda,From RDC,RDC,Truck,60,4226,34906,8,0.14,8,9891,India,5524
-Zambia,From RDC,RDC,Truck,30,100000,2625000,26,0.88,88190,10519, Port Elizabeth,2162
-Tanzania,From RDC,RDC,Truck,120,25024,733453,29,0.24,30606,8601, Nashik,5091
-Nigeria,From RDC,RDC,Air Charter,30,18354,151053,8,0.27,1794,20326, Nashik,7134
-Vietnam,Direct Drop,EXW,Air,60,1416,10266,7,0.12,3622,9181, Nashik,3641
-Tanzania,From RDC,RDC,Truck,30,75000,900750,12,0.4,15566,8330,India,5659
-Uganda,From RDC,RDC,Air,60,2084,19798,9,0.16,237,154,India,5524
-Tanzania,From RDC,RDC,Air,120,3000,123300,41,0.34,1422,3198,Germany,6837
-Nigeria,Direct Drop,EXW,Air,30,10717,192906,18,0.6,1400,10732,India,7633
-Vietnam,Direct Drop,EXW,Air,60,4000,9000,2,0.04,3622,9181,India,3157
-Côte d'Ivoire,From RDC,RDC,Truck,60,4800,10704,2,0.04,216,3017,India,9091
-South Africa,Direct Drop,DDP,Air,30,500,8820,17,0.59,3622,9181, Port Elizabeth,573
-South Africa,Direct Drop,DDP,Truck,240,3,15,5,0.02,3622,9181,India,8074
-Rwanda,From RDC,RDC,Truck,90,2900,23954,8,0.09,5621,9640,India,5921
-South Africa,Direct Drop,DDP,Truck,60,16,499,31,0.52,3622,9181,India,8074
-Tanzania,Direct Drop,EXW,Air,60,6934,18028,2,0.04,820,17044,India,5659
-Côte d'Ivoire,From RDC,RDC,Air,240,5536,10629,1,0.01,3622,9181,India,9091
-Uganda,Direct Drop,EXW,Air,100,10368,13478,1,0.01,3622,9181,India,5524
-Haiti,Direct Drop,FCA,Air,60,200,1900,9,0.16,94,-243,France,7294
-Vietnam,Direct Drop,FCA,Air,120,1435,117957,82,0.68,355,4101,Germany,9157
-Vietnam,Direct Drop,EXW,Air,60,20000,129800,6,0.11,1748,2868, Nashik,3641
-Nigeria,From RDC,RDC,Air Charter,60,306992,2369978,7,0.13,3622,9181,India,7633
-Vietnam,Direct Drop,FCA,Air,30,450,10467,23,0.78,56,-480,Germany,9157
-Mozambique,From RDC,RDC,Truck,240,9400,18988,2,0.01,3642,4678,India,6624
-Mozambique,From RDC,RDC,Air,60,17618,126849,7,0.12,3622,9181,India,6624
-Vietnam,Direct Drop,EXW,Air,240,500,950,1,0.01,3622,9181,India,3157
-Côte d'Ivoire,From RDC,RDC,Air,30,39144,174190,4,0.15,3622,9181,India,9091
-Rwanda,Direct Drop,FCA,Air,60,1395,10755,7,0.13,188,2035,Germany,6174
-Côte d'Ivoire,From RDC,RDC,Air,60,7744,297059,38,0.64,3622,9181,India,9091
-Vietnam,Direct Drop,EXW,Air,240,1000,2100,2,0.01,3622,9181,India,3157
-"Congo, DRC",From RDC,RDC,Air,60,22,56,2,0.04,3622,9181,India,6583
-Haiti,Direct Drop,EXW,Air,60,19835,160663,8,0.13,2866,16036,India,14446
-Tanzania,From RDC,RDC,Truck,60,13499,58045,4,0.07,3622,9181,India,5659
-Rwanda,From RDC,RDC,Air,30,720,3470,4,0.16,49,110, Nashik,5355
-Vietnam,Direct Drop,FCA,Air,120,4800,291936,60,0.51,1175,779,Germany,9157
-Côte d'Ivoire,From RDC,RDC,Air,120,403,16563,41,0.34,88,603,Germany,5008
-South Africa,Direct Drop,DDP,Ocean,30,128467,581955,4,0.15,11033,10203,India,8074
-Nigeria,From RDC,RDC,Air Charter,60,64995,163137,2,0.04,4618,12398,India,7633
-Uganda,From RDC,RDC,Truck,60,6000,11520,1,0.03,11732,9181,India,5524
-Zimbabwe,From RDC,RDC,Truck,60,20000,48800,2,0.04,3622,9181,India,6980
-Nigeria,From RDC,RDC,Air Charter,30,41665,296238,7,0.24,5110,17461,India,7633
-South Africa,Direct Drop,DDP,Truck,60,1,61,61,1.02,3622,9181, Haarlem,9211
-Côte d'Ivoire,From RDC,RDC,Truck,30,9920,108326,10,0.36,3622,9181, Nashik,8608
-South Africa,Direct Drop,DDP,Air,60,20213,50734,2,0.04,3622,9181,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,240,7284,14713,2,0.01,3622,9181,India,9091
-Vietnam,Direct Drop,EXW,Air,30,19000,323000,17,0.57,1520,18044,India,3157
-Tanzania,Direct Drop,EXW,Air,60,33022,268468,8,0.14,4190,15066,India,5659
-Uganda,Direct Drop,CIP,Air,180,153,7650,50,0.28,34,-605, Haarlem,6190
-South Africa,Direct Drop,DDP,Truck,60,300,6758,22,0.38,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air Charter,60,40000,440000,11,0.18,3622,9181,India,7633
-Nigeria,From RDC,RDC,Air,60,11837,153407,12,0.22,1319,14459, Nashik,7134
-Côte d'Ivoire,From RDC,RDC,Air,60,3564,55242,15,0.26,3622,9181, Nashik,8608
-Vietnam,Direct Drop,FCA,Air,120,5200,316264,60,0.51,1272,2824,Germany,9157
-South Africa,Direct Drop,DDP,Truck,30,60,2368,39,1.32,3622,9181, Port Elizabeth,573
-Nigeria,From RDC,RDC,Air Charter,60,95000,214700,2,0.04,12686,40332,India,7633
-South Africa,Direct Drop,DDP,Truck,120,18,1254,69,0.58,3622,9181, Latina,7877
-Zambia,From RDC,RDC,Air,30,66667,828004,12,0.41,5253,17856, Nashik,6339
-Côte d'Ivoire,From RDC,RDC,Truck,30,2095,7583,3,0.12,3622,9181, Nashik,8608
-Uganda,From RDC,RDC,Air,60,1155,13109,11,0.19,147,848, Nashik,4961
-Côte d'Ivoire,Direct Drop,EXW,Air,60,7228,33248,4,0.08,338,2845,India,9091
-Nigeria,From RDC,RDC,Air,30,2063,24178,11,0.39,176,2680,India,7633
-South Africa,Direct Drop,DDP,Truck,30,560,10506,18,0.63,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,30,6,66,11,0.37,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Ocean,30,86843,577505,6,0.22,8106,9748,India,8074
-Tanzania,From RDC,RDC,Air,30,5000,60050,12,0.4,379,188, Nashik,5091
-Zambia,Direct Drop,EXW,Air,30,100000,735000,7,0.24,9389,50294,India,6906
-Zimbabwe,From RDC,RDC,Truck,60,7150,21092,2,0.05,3622,9181,India,6980
-Tanzania,Direct Drop,FCA,Air,60,5273,31321,5,0.1,668,3835,Germany,6837
-Tanzania,From RDC,RDC,Air,60,40000,109200,2,0.05,6240,26922,India,5659
-Zimbabwe,From RDC,RDC,Truck,30,4000,20520,5,0.17,3622,9181,India,6980
-Nigeria,From RDC,RDC,Air Charter,60,8820,21520,2,0.04,420,9181,India,7633
-South Africa,Direct Drop,DDP,Truck,30,40,678,16,0.57,3622,9181,France,8670
-Haiti,From RDC,RDC,Air,60,58,110,1,0.03,3622,9181,India,14446
-Haiti,Direct Drop,EXW,Air,60,482,2410,5,0.08,50,342,India,14446
-Zambia,From RDC,RDC,Truck,30,25511,303325,11,0.4,3041,2526,India,6906
-Haiti,Direct Drop,EXW,Air,60,4095,16380,4,0.07,176,2456,India,14446
-Côte d'Ivoire,From RDC,RDC,Air,60,45000,347400,7,0.13,4050,10592,India,9091
-Nigeria,From RDC,RDC,Air Charter,60,3190,36366,11,0.19,361,6329,India,7633
-Nigeria,From RDC,RDC,Air Charter,30,7500,35625,4,0.16,662,8736,India,7633
-South Africa,Direct Drop,DDP,Truck,90,10,170,17,0.19,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,90,6,47,7,0.09,3622,9181,France,8670
-Côte d'Ivoire,From RDC,RDC,Truck,30,2600,35152,13,0.45,235,-186,India,9091
-Haiti,From RDC,RDC,Air,240,1760,3696,2,0.01,3622,9181,India,14446
-Zimbabwe,From RDC,RDC,Truck,60,10893,21677,1,0.03,735,5331,India,6980
-South Africa,Direct Drop,DDP,Truck,60,1500,7965,5,0.09,3622,9181,South Africa,0
-South Africa,Direct Drop,DDP,Truck,30,1,19,19,0.64,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Ocean,30,79250,527012,6,0.22,7397,7809,India,8074
-Zambia,From RDC,RDC,Truck,60,3480,7864,2,0.04,424,10941,India,6906
-South Africa,Direct Drop,DDP,Air,240,19098,60158,3,0.01,7367,2444,India,8074
-South Africa,Direct Drop,DDP,Truck,60,7,174,24,0.42,3622,9181,India,8074
-Mozambique,From RDC,RDC,Air,60,7044,83119,11,0.2,3622,9181, Nashik,6074
-Haiti,Direct Drop,EXW,Air,90,2440,22692,9,0.1,163,659,India,14446
-Tanzania,From RDC,RDC,Truck,60,926,1759,1,0.03,3622,9181,India,5659
-Zambia,From RDC,RDC,Truck,30,167825,1105966,6,0.22,26199,33356, Nashik,6339
-Tanzania,From RDC,RDC,Air,30,15331,68222,4,0.15,4729,17390,India,5659
-Haiti,Direct Drop,EXW,Ocean,60,3300,13035,3,0.07,16350,15028, Nashik,14325
-Côte d'Ivoire,From RDC,RDC,Air,60,10480,39824,3,0.06,786,10032,India,9091
-South Africa,Direct Drop,DDP,Ocean,30,127904,579405,4,0.15,10980,14331,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,30,576,15120,26,0.88,3622,9181, Port Elizabeth,5690
-Uganda,From RDC,RDC,Air,60,5000,56000,11,0.19,690,4410, Nashik,4961
-Côte d'Ivoire,From RDC,RDC,Truck,60,10620,119262,11,0.19,3622,9181,India,9091
-Haiti,Direct Drop,CIP,Air,60,17,943,55,0.92,3622,9181, Haarlem,7467
-South Africa,Direct Drop,DDP,Truck,30,9,21,2,0.08,3622,9181,India,8074
-Rwanda,Direct Drop,CIP,Air,240,2468,7231,2,0.01,907,-350,India,5921
-Mozambique,From RDC,RDC,Truck,60,648,1127,1,0.03,39,-970,India,6624
-South Africa,Direct Drop,DDP,Ocean,90,19271,192324,9,0.11,2555,1347,India,8074
-Nigeria,From RDC,RDC,Air Charter,30,36390,121178,3,0.11,17455,19666,India,7633
-Zimbabwe,From RDC,RDC,Truck,60,23090,52183,2,0.04,394,10133,India,6980
-South Africa,Direct Drop,DDP,Truck,30,400,1468,3,0.12,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air Charter,60,1140,3306,2,0.05,3622,9181,India,7633
-Mozambique,From RDC,RDC,Air,60,30000,222000,7,0.12,3622,9181,India,6624
-South Africa,Direct Drop,DDP,Air,60,24150,59892,2,0.04,3622,9181,India,8074
-Vietnam,Direct Drop,EXW,Air,60,14500,24940,1,0.03,3622,9181,India,3157
-South Africa,Direct Drop,DDP,Air,60,1325,3339,2,0.04,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,240,171,4623,27,0.11,3622,9181,India,8074
-Zambia,Direct Drop,EXW,Air,60,20000,43000,2,0.04,1044,4145,India,6906
-Mozambique,From RDC,RDC,Truck,60,85490,693323,8,0.14,3622,9181,India,6624
-Côte d'Ivoire,From RDC,RDC,Air,60,560,840,1,0.02,3622,9181,India,9091
-Côte d'Ivoire,Direct Drop,FCA,Air,120,6000,216960,36,0.3,1523,9051,Germany,5008
-Zimbabwe,From RDC,RDC,Truck,30,4000,48040,12,0.4,342,648,India,6980
-Tanzania,Direct Drop,EXW,Air,30,216755,2653081,12,0.41,28678,117541, Nashik,5091
-Haiti,From RDC,RDC,Air,240,4704,9031,1,0.01,3622,9181,India,14446
-Vietnam,Direct Drop,FCA,Air,120,1785,146727,82,0.68,266,5937,Germany,9157
-Uganda,From RDC,RDC,Truck,60,30000,336600,11,0.19,4050,14759,India,5524
-Uganda,Direct Drop,CIP,Air,60,223,20404,91,1.52,21,-239, Haarlem,6190
-Uganda,Direct Drop,EXW,Air,30,16716,76893,4,0.15,1874,6487,India,5524
-South Africa,Direct Drop,DDP,Truck,240,89,2406,27,0.11,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Ocean,30,100591,455677,4,0.15,8635,10203,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,120,12107,497597,41,0.34,2647,8307,Germany,5008
-Vietnam,Direct Drop,EXW,Air,30,5451,76859,14,0.47,1675,2401, Nashik,3641
-Zimbabwe,From RDC,RDC,Truck,60,35000,148750,4,0.07,2032,3428, Nashik,6420
-Zambia,From RDC,RDC,Air,240,10000,18000,1,0.01,3637,8499,India,6906
-South Africa,Direct Drop,DDP,Truck,30,7,137,19,0.66,3622,9181,India,8074
-Zambia,From RDC,RDC,Truck,30,120000,960000,8,0.27,9022,3506, Nashik,6339
-South Africa,Direct Drop,DDP,Truck,90,46,1196,26,0.29,3622,9181,India,8074
-"Congo, DRC",From RDC,RDC,Air,30,27,111,4,0.14,3622,9181,India,6583
-Zimbabwe,From RDC,RDC,Truck,60,1884,6123,3,0.05,3622,9181,India,6980
-Côte d'Ivoire,From RDC,RDC,Air,60,1059,1588,1,0.02,3622,9181,India,9091
-Vietnam,Direct Drop,EXW,Air,240,300,555,1,0.01,3622,9181,India,3157
-Tanzania,Direct Drop,EXW,Air,60,20172,109533,5,0.09,1104,4765,India,5659
-Nigeria,From RDC,RDC,Air,30,3392,89040,26,0.88,298,1922, Port Elizabeth,5168
-Zambia,From RDC,RDC,Truck,60,96800,223608,2,0.04,11808,16650,India,6906
-Vietnam,Direct Drop,EXW,Air,60,168,1260,7,0.12,9,1793, Nashik,3641
-Vietnam,Direct Drop,FCA,Air,120,7067,429814,60,0.51,3622,9181,Germany,9157
-Rwanda,Direct Drop,EXW,Air,240,9690,14631,1,0.01,3790,65260,India,5921
-South Africa,Direct Drop,DDP,Truck,30,60,1147,19,0.64,3622,9181, Nashik,7527
-Zimbabwe,From RDC,RDC,Air,30,1600,3200,2,0.07,3622,9181,India,6980
-Uganda,From RDC,RDC,Air,60,2250,6525,2,0.05,3622,9181,India,5524
-South Africa,Direct Drop,DDP,Air,60,6000,32520,5,0.09,3622,9181,India,8074
-Uganda,Direct Drop,FCA,Air,60,2565,15236,5,0.1,304,1808,Germany,5868
-South Africa,Direct Drop,DDP,Truck,60,97,6627,68,1.14,3622,9181,India,8074
-Haiti,Direct Drop,EXW,Air,100,200,70000,350,3.5,480,8334,Thailand,16167
-Zambia,From RDC,RDC,Air,60,50000,170000,3,0.06,4733,5002,India,6906
-Vietnam,Direct Drop,EXW,Air,60,1123,4660,4,0.07,3622,9181, Nashik,3641
-"Congo, DRC",From RDC,RDC,Air,30,897,4314,4,0.16,3622,9181,India,6583
-South Africa,Direct Drop,DDP,Truck,60,3000,16350,5,0.09,3622,9181,South Africa,0
-Zimbabwe,From RDC,RDC,Truck,60,3600,26172,7,0.12,3622,9181,India,6980
-Côte d'Ivoire,From RDC,RDC,Air,240,672,9139,13,0.06,2979,2365,India,9091
-Côte d'Ivoire,From RDC,RDC,Truck,60,1700,3791,2,0.04,75,556,India,9091
-Zambia,From RDC,RDC,Truck,60,17045,270845,15,0.26,20752,16520,India,6906
-South Africa,Direct Drop,DDP,Ocean,30,105278,740104,7,0.23,7225,5038,India,8074
-South Africa,Direct Drop,DDP,Truck,60,57,1123,19,0.33,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,60,11,198,18,0.3,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,120,1,27,27,0.23,3622,9181, Latina,7877
-Zimbabwe,From RDC,RDC,Truck,60,4136,9347,2,0.04,394,7600,India,6980
-Rwanda,Direct Drop,CIP,Air,30,599,7966,13,0.44,41,-283,India,5921
-Rwanda,Direct Drop,CIP,Air,60,10620,205284,19,0.32,1050,17475,India,5921
-Nigeria,From RDC,RDC,Air,60,215,2296,10,0.18,3622,9181,India,7633
-South Africa,Direct Drop,DDP,Truck,30,4,78,19,0.66,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,30,2000,25040,12,0.42,3622,9181,India,8074
-Vietnam,Direct Drop,EXW,Air,60,21000,50400,2,0.04,3622,9181,India,3157
-Vietnam,Direct Drop,EXW,Air,240,1000,1920,1,0.01,960,12762,India,3157
-Vietnam,Direct Drop,EXW,Air,60,1440,10440,7,0.12,128,1147,India,3157
-Nigeria,From RDC,RDC,Air Charter,30,168,971,5,0.19,15,10637,India,7633
-Haiti,From RDC,RDC,Air,60,190,5230,27,0.46,3622,9181, Nashik,14325
-Zimbabwe,From RDC,RDC,Air,60,37240,275576,7,0.12,3622,9181,India,6980
-Vietnam,Direct Drop,EXW,Air,60,10762,87172,8,0.13,1485,1702,India,3157
-Zimbabwe,From RDC,RDC,Air,120,2390,56762,23,0.2,533,4623,Germany,7939
-Nigeria,From RDC,RDC,Air Charter,60,42751,374498,8,0.15,3409,10637, Nashik,7134
-Zimbabwe,From RDC,RDC,Truck,60,70000,376600,5,0.09,5154,11956,India,6980
-South Africa,Direct Drop,DDP,Air,60,300,1212,4,0.07,3622,9181,France,8670
-South Africa,Direct Drop,DDP,Ocean,30,32280,146228,4,0.15,7017,10372,India,8074
-Zimbabwe,From RDC,RDC,Truck,60,3345,26024,7,0.13,3622,9181, Nashik,6420
-Côte d'Ivoire,From RDC,RDC,Air,100,2352,11760,5,0.05,3189,211,India,9091
-Uganda,Direct Drop,EXW,Air,120,102,9180,90,0.75,15,-155, Port Elizabeth,3989
-Zambia,From RDC,RDC,Truck,30,42768,85536,2,0.07,2493,3887,India,6906
-Uganda,From RDC,RDC,Air,30,1685,9267,5,0.18,137,834,India,5524
-South Africa,Direct Drop,DDP,Truck,30,11,240,21,0.73,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Air,30,83238,650921,7,0.26,5663,4298,India,8074
-Uganda,From RDC,RDC,Truck,60,15107,124783,8,0.14,1409,9928,India,5524
-South Africa,Direct Drop,DDP,Truck,90,59,1535,26,0.29,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Air,60,294346,756469,2,0.04,14550,19706,India,8074
-Uganda,From RDC,RDC,Air,30,1000,5130,5,0.17,95,2549,India,5524
-South Africa,Direct Drop,DDP,Truck,30,11,332,30,1.01,3622,9181,India,8074
-Rwanda,From RDC,RDC,Air,240,2125,4462,2,0.01,796,4603,India,5921
-South Africa,Direct Drop,DDP,Truck,30,140,3996,28,0.95,3622,9181,France,8670
-Nigeria,From RDC,RDC,Air Charter,60,1268,14455,11,0.19,143,6445,India,7633
-Uganda,From RDC,RDC,Air,30,24966,88878,3,0.12,5391,27382,India,5524
-South Africa,Direct Drop,DDP,Air,240,1800,10512,5,0.02,3622,9181,Canada,15035
-Uganda,From RDC,RDC,Truck,30,52500,168525,3,0.11,10119,5852,India,5524
-Zimbabwe,From RDC,RDC,Air,30,1900,9747,5,0.17,4000,2302,India,6980
-Tanzania,Direct Drop,EXW,Air,30,4779,107527,22,0.75,643,3142, Nashik,5091
-Zimbabwe,From RDC,RDC,Truck,60,14217,59000,4,0.07,3622,9181, Nashik,6420
-Côte d'Ivoire,From RDC,RDC,Air,120,479,19686,41,0.34,421,4947,Germany,5008
-Mozambique,From RDC,RDC,Truck,30,4837,65396,13,0.45,1102,7406, Nashik,6074
-Uganda,From RDC,RDC,Air,30,20201,111913,5,0.18,3865,18667,India,5524
-Zimbabwe,From RDC,RDC,Truck,30,4000,48040,12,0.4,8523,34673,India,6980
-Mozambique,From RDC,RDC,Truck,30,66956,704377,10,0.35,5810,12649, Nashik,6074
-Tanzania,Direct Drop,FCA,Air,120,10680,438948,41,0.34,2724,11620,Germany,6837
-Haiti,Direct Drop,EXW,Ocean,30,43065,128333,2,0.1,3622,9181,India,14446
-"Congo, DRC",Direct Drop,EXW,Air,1000,1370,37401,27,0.03,1125,8693,China,9399
-Zambia,From RDC,RDC,Truck,30,150000,2509500,16,0.56,17001,7510, Nashik,6339
-Nigeria,From RDC,RDC,Air Charter,60,85722,221162,2,0.04,3622,9181,India,7633
-Uganda,From RDC,RDC,Air,30,280,2800,10,0.33,3622,9181, Nashik,4961
-Uganda,From RDC,RDC,Truck,30,5147,56617,11,0.37,3622,9181,India,5524
-South Africa,Direct Drop,DDP,Truck,30,132,1487,11,0.38,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Ocean,30,120,541,4,0.15,10,18518,India,8074
-Haiti,From RDC,RDC,Air,240,3635,6979,1,0.01,1345,13489,India,14446
-Mozambique,From RDC,RDC,Air,60,16990,229365,13,0.22,3622,9181,India,6624
-Haiti,From RDC,RDC,Air,30,26712,154395,5,0.19,2342,11016,India,14446
-South Africa,Direct Drop,DDP,Air,240,8474,25422,3,0.01,3206,1154,India,8074
-Tanzania,From RDC,RDC,Truck,30,80,440,5,0.18,841,2549, Nashik,5091
-Mozambique,From RDC,RDC,Truck,60,25312,216417,8,0.14,4988,6960,India,6624
-Vietnam,Direct Drop,EXW,Air,30,3686,25802,7,0.23,255,5518, Nashik,3641
-Côte d'Ivoire,From RDC,RDC,Air,60,2000,2820,1,0.02,98,1201,India,9091
-Uganda,From RDC,RDC,Air,60,10453,30313,2,0.05,1001,2228,India,5524
-Mozambique,From RDC,RDC,Air,200,500,700,1,0.01,3622,9181,India,6624
-Haiti,From RDC,RDC,Air,240,1440,3024,2,0.01,538,6100,India,14446
-Uganda,From RDC,RDC,Truck,60,750,1830,2,0.04,3622,9181,India,5524
-Vietnam,Direct Drop,EXW,Air,60,10780,15631,1,0.02,502,6575,India,3157
-Vietnam,Direct Drop,EXW,Air,30,40890,175827,4,0.14,3329,9455, Nashik,3641
-Uganda,From RDC,RDC,Air,60,240,1680,7,0.12,23,173,India,5524
-Haiti,From RDC,RDC,Air,60,3690,5387,1,0.02,177,5036,India,14446
-Vietnam,Direct Drop,EXW,Air,60,28496,39894,1,0.02,3622,9181,India,3157
-Tanzania,From RDC,RDC,Truck,60,163735,695873,4,0.07,9208,2825, Nashik,5091
-Côte d'Ivoire,From RDC,RDC,Air,100,284,1420,5,0.05,22,211,India,9091
-South Africa,Direct Drop,DDP,Truck,30,90,369,4,0.14,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air Charter,60,100000,1122000,11,0.19,11725,9181,India,7633
-Nigeria,From RDC,RDC,Air Charter,30,170780,1639488,9,0.32,3622,9181, Nashik,7134
-Uganda,From RDC,RDC,Air,30,36007,119903,3,0.11,19158,105022,India,5524
-Rwanda,From RDC,RDC,Air,30,59989,796054,13,0.44,7242,4825, Nashik,5355
-Vietnam,Direct Drop,EXW,Air,30,6720,77145,11,0.38,522,2796, Nashik,3641
-Vietnam,Direct Drop,FCA,Air,120,5600,340592,60,0.51,1368,3489,Germany,9157
-Zambia,From RDC,RDC,Truck,60,9474,89529,9,0.16,3622,9181,India,6906
-Côte d'Ivoire,From RDC,RDC,Air,100,2604,12603,4,0.05,675,702,India,9091
-Côte d'Ivoire,From RDC,RDC,Truck,30,56228,204669,3,0.12,6242,16129,India,9091
-Vietnam,Direct Drop,EXW,Air,60,380,8930,23,0.39,3622,9181,India,3157
-Côte d'Ivoire,From RDC,RDC,Truck,30,2160,11880,5,0.18,1122,5009, Nashik,8608
-Vietnam,Direct Drop,EXW,Air,60,10416,15103,1,0.02,3622,9181,India,3157
-Nigeria,From RDC,RDC,Air Charter,60,61,87,1,0.02,4,9181,India,7633
-"Congo, DRC",From RDC,RDC,Air,60,450,3717,8,0.14,3622,9181,India,6583
-Haiti,Direct Drop,EXW,Ocean,60,1080,4266,3,0.07,3622,9181, Nashik,14325
-South Africa,Direct Drop,DDP,Ocean,240,50000,103000,2,0.01,3622,9181,India,8074
-Côte d'Ivoire,Direct Drop,EXW,Air,60,4448,133440,30,0.5,693,4066, Nashik,8608
-South Africa,Direct Drop,DDP,Truck,60,268,18310,68,1.14,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Air,60,10,94,9,0.16,3622,9181,France,8670
-South Africa,Direct Drop,DDP,Truck,60,14,270,19,0.32,3622,9181,India,8074
-Vietnam,Direct Drop,EXW,Air,60,16300,181745,11,0.19,2011,10648,India,3157
-South Africa,Direct Drop,DDP,Truck,30,5,55,11,0.37,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,30,6715,127912,19,0.64,3622,9181,India,8074
-Tanzania,From RDC,RDC,Truck,30,18732,41959,2,0.07,1090,698,India,5659
-Zambia,From RDC,RDC,Truck,30,88000,968000,11,0.37,7579,5759,India,6906
-South Africa,Direct Drop,DDP,Truck,120,2,51,25,0.21,3622,9181, Latina,7877
-Haiti,Direct Drop,EXW,Air,100,25,8750,350,3.5,60,2097,Thailand,16167
-Mozambique,From RDC,RDC,Truck,120,10040,189756,18,0.16,3622,9181,Germany,8163
-Côte d'Ivoire,From RDC,RDC,Air,240,5000,10500,2,0.01,1841,8447,India,9091
-Haiti,From RDC,RDC,Air,240,128,2112,16,0.07,3622,9181,India,14446
-South Africa,Direct Drop,DDP,Ocean,30,3619,25007,6,0.23,338,5147,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,60,69684,542141,7,0.13,6798,25205, Nashik,8608
-Zambia,Direct Drop,EXW,Air,60,42813,96329,2,0.04,4369,21508,India,6906
-South Africa,Direct Drop,DDP,Ocean,60,122743,303175,2,0.04,3622,9181,India,8074
-Haiti,From RDC,RDC,Air,90,420,6409,15,0.17,199,2133,India,14446
-Côte d'Ivoire,From RDC,RDC,Truck,30,9800,31262,3,0.11,622,3958,India,9091
-Haiti,From RDC,RDC,Air,30,10065,97831,9,0.32,3622,9181,India,14446
-Zimbabwe,From RDC,RDC,Truck,60,36100,220571,6,0.1,3955,12208,India,6980
-Zambia,From RDC,RDC,Truck,30,70156,267294,3,0.13,6022,17219,India,6906
-Tanzania,From RDC,RDC,Truck,60,25836,55547,2,0.04,5467,2567, Nashik,5091
-Haiti,From RDC,RDC,Air,240,3168,6336,2,0.01,1765,17473,India,14446
-Vietnam,Direct Drop,EXW,Air,60,20520,49248,2,0.04,3622,9181,India,3157
-Zambia,From RDC,RDC,Truck,30,176213,2283720,12,0.43,19962,30401, Nashik,6339
-Nigeria,From RDC,RDC,Air Charter,60,25712,198496,7,0.13,3622,9181,India,7633
-Zambia,From RDC,RDC,Truck,60,120000,1026000,8,0.14,11057,11049,India,6906
-South Africa,Direct Drop,DDP,Truck,30,20,723,36,1.21,3622,9181, Port Elizabeth,573
-Côte d'Ivoire,From RDC,RDC,Air,30,1571,35347,22,0.75,151,2545, Nashik,8608
-Zimbabwe,From RDC,RDC,Air,60,1973,7892,4,0.07,8894,-898,India,6980
-South Africa,Direct Drop,DDP,Truck,120,150,6083,40,0.34,3622,9181,Germany,8973
-Uganda,From RDC,RDC,Air,60,4200,11466,2,0.05,3622,9181,India,5524
-Nigeria,From RDC,RDC,Air,30,15000,393750,26,0.88,1309,6463, Port Elizabeth,5168
-Uganda,From RDC,RDC,Air,30,2060,25585,12,0.41,196,381,India,5524
-Mozambique,From RDC,RDC,Air,60,16524,144750,8,0.15,1488,3764,India,6624
-South Africa,Direct Drop,DDP,Truck,60,39,746,19,0.32,3622,9181,Poland,8994
-Nigeria,From RDC,RDC,Air Charter,30,87744,370279,4,0.14,7194,11601, Nashik,7134
-Mozambique,From RDC,RDC,Truck,240,7150,15015,2,0.01,2778,18730,India,6624
-Uganda,From RDC,RDC,Truck,30,3330,66333,19,0.66,370,1886, Nashik,4961
-Côte d'Ivoire,From RDC,RDC,Air,60,4140,68061,16,0.27,3622,9181, Nashik,8608
-Côte d'Ivoire,Direct Drop,CIP,Air,60,6000,57000,9,0.16,1278,742,France,4338
-Nigeria,From RDC,RDC,Air,90,2548,21046,8,0.09,370,14459,India,7633
-Rwanda,Direct Drop,CIP,Air,30,31,185,5,0.2,4,-111,India,5921
-Zambia,From RDC,RDC,Truck,60,20000,54600,2,0.05,1946,2379,India,6906
-Zambia,From RDC,RDC,Truck,60,5432,61001,11,0.19,506,-365, Nashik,6339
-Côte d'Ivoire,From RDC,RDC,Truck,60,75000,735750,9,0.16,14413,10874, Nashik,8608
-Vietnam,Direct Drop,FCA,Air,120,500,41095,82,0.68,117,767,Germany,9157
-Nigeria,From RDC,RDC,Air Charter,30,52000,1035840,19,0.66,5701,8736, Nashik,7134
-South Africa,Direct Drop,DDP,Truck,30,11,332,30,1.01,3622,9181,India,8074
-Zambia,From RDC,RDC,Truck,60,4636,52664,11,0.19,458,3130,India,6906
-Uganda,Direct Drop,EXW,Air,60,384,10018,26,0.43,40,-10,India,5524
-South Africa,Direct Drop,DDP,Truck,240,44,311,7,0.03,3622,9181,India,8074
-Zimbabwe,From RDC,RDC,Truck,30,78082,432574,5,0.18,14314,14219, Nashik,6420
-South Africa,Direct Drop,DDP,Ocean,30,12722,89435,7,0.23,875,5038,India,8074
-Uganda,Direct Drop,EXW,Air,30,56,112,2,0.07,3622,9181,India,5524
-Tanzania,From RDC,RDC,Truck,60,112191,1060204,9,0.16,10453,7831,India,5659
-Vietnam,Direct Drop,EXW,Air,30,3696,24948,6,0.22,314,3885, Nashik,3641
-"Congo, DRC",From RDC,RDC,Air,120,11,371,33,0.28,3622,9181,India,6583
-Nigeria,From RDC,RDC,Air Charter,60,189393,1462113,7,0.13,24904,50677, Nashik,7134
-South Africa,Direct Drop,DDP,Air,240,30,312,10,0.04,3622,9181,Germany,8973
-Nigeria,From RDC,RDC,Air,30,12304,322980,26,0.88,5197,20895, Port Elizabeth,5168
-Nigeria,From RDC,RDC,Air Charter,60,140000,1570800,11,0.19,16424,9181,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,60,5184,77760,15,0.25,1103,2296,India,9091
-Zimbabwe,From RDC,RDC,Truck,60,7150,21092,2,0.05,3622,9181,India,6980
-Tanzania,Direct Drop,EXW,Air,30,5000,28700,5,0.19,449,1865, Nashik,5091
-Haiti,Direct Drop,CIP,Air,180,6705,113716,16,0.09,1979,-147,Canada,5426
-Nigeria,From RDC,RDC,Air Charter,60,488,4274,8,0.15,39,8736, Nashik,7134
-Côte d'Ivoire,From RDC,RDC,Air,60,20000,175200,8,0.15,1807,20347,India,9091
-Haiti,Direct Drop,EXW,Ocean,90,3680,20240,5,0.06,6385,7768,India,14446
-Nigeria,From RDC,RDC,Air Charter,30,156,1024,6,0.22,9,11601, Nashik,7134
-Nigeria,From RDC,RDC,Air,90,500,4855,9,0.11,60,9181,India,7633
-Haiti,Direct Drop,EXW,Ocean,60,2550,5074,1,0.03,199,4215,India,14446
-Côte d'Ivoire,From RDC,RDC,Truck,90,3400,28084,8,0.09,3622,9181,India,9091
-"Congo, DRC",From RDC,RDC,Air,60,4355,15678,3,0.06,3622,9181, Nashik,6020
-Côte d'Ivoire,From RDC,RDC,Truck,240,156,327,2,0.01,100,-604,India,9091
-Nigeria,From RDC,RDC,Air,60,2100,6090,2,0.05,153,280,India,7633
-"Congo, DRC",From RDC,RDC,Air,100,1330,1729,1,0.01,416,4347,India,6583
-"Congo, DRC",From RDC,RDC,Air,30,1540,5821,3,0.13,3622,9181, Nashik,6020
-Uganda,Direct Drop,CIP,Air,60,231,21136,91,1.52,23,-750, Haarlem,6190
-Zimbabwe,From RDC,RDC,Truck,30,36,396,11,0.37,3622,9181,India,6980
-Nigeria,From RDC,RDC,Air,60,12984,266172,20,0.34,3286,17208,India,7633
-Nigeria,From RDC,RDC,Air Charter,60,200000,1622000,8,0.14,51698,27812,India,7633
-Tanzania,Direct Drop,CIP,Air,30,24963,1258135,50,1.68,2462,2451, Haarlem,7164
-Côte d'Ivoire,From RDC,RDC,Truck,30,7640,27809,3,0.12,3622,9181,India,9091
-Nigeria,Direct Drop,EXW,Air,240,416,2579,6,0.03,3622,9181,India,7633
-South Africa,Direct Drop,DDP,Truck,60,118,8980,76,1.27,3622,9181,India,8074
-Mozambique,From RDC,RDC,Truck,30,8283,26588,3,0.11,3622,9181,India,6624
-Vietnam,Direct Drop,FCA,Air,60,104,1581,15,0.25,18,-388,Germany,9157
-Zambia,From RDC,RDC,Truck,60,13535,88248,6,0.11,3704,3562,India,6906
-Nigeria,From RDC,RDC,Air,60,645,2134,3,0.06,3622,9181,India,7633
-Uganda,Direct Drop,EXW,Air,60,4250,34170,8,0.13,424,488,India,5524
-Zambia,From RDC,RDC,Air,60,8251,227150,27,0.46,822,2303,India,6906
-Nigeria,From RDC,RDC,Air Charter,30,3000,19710,6,0.22,263,12398,India,7633
-Tanzania,From RDC,RDC,Truck,30,19086,112034,5,0.2,3622,9181,India,5659
-Nigeria,From RDC,RDC,Air,60,9180,67932,7,0.12,3622,9181,India,7633
-Zambia,From RDC,RDC,Truck,30,13154,262027,19,0.66,1456,2949, Nashik,6339
-Côte d'Ivoire,From RDC,RDC,Air,30,22400,105280,4,0.16,3622,9181,India,9091
-South Africa,Direct Drop,DDP,Truck,60,3000,19702,6,0.11,3622,9181,South Africa,0
-Tanzania,From RDC,RDC,Truck,60,32544,94703,2,0.05,1608,700,India,5659
-Mozambique,From RDC,RDC,Truck,60,26700,66483,2,0.04,1307,482,India,6624
-Zambia,From RDC,RDC,Truck,30,129998,1419578,10,0.36,11115,15482, Nashik,6339
-Côte d'Ivoire,From RDC,RDC,Air,60,9300,106578,11,0.19,3622,9181,India,9091
-Nigeria,From RDC,RDC,Air Charter,30,799,7990,10,0.33,65,9181, Nashik,7134
-Vietnam,Direct Drop,EXW,Air,60,1700,17850,10,0.18,356,13982,India,3157
-Vietnam,Direct Drop,EXW,Air,60,20500,228575,11,0.19,2904,13223,India,3157
-South Africa,Direct Drop,DDP,Truck,200,500,3894,7,0.04,3622,9181,Canada,15035
-South Africa,Direct Drop,DDP,Truck,200,600,870,1,0.01,3622,9181,France,8670
-Haiti,Direct Drop,EXW,Air,100,55,19250,350,3.5,132,2013,Thailand,16167
-Vietnam,Direct Drop,EXW,Air,30,10080,103219,10,0.34,3622,9181, Nashik,3641
-Zimbabwe,From RDC,RDC,Air,60,5287,17447,3,0.06,357,1001,India,6980
-Nigeria,From RDC,RDC,Air,30,44295,203757,4,0.15,3045,9181,India,7633
-South Africa,Direct Drop,DDP,Truck,60,5000,41300,8,0.14,3622,9181,India,8074
-Uganda,From RDC,RDC,Air,30,2000,20000,10,0.33,168,1990, Nashik,4961
-Côte d'Ivoire,From RDC,RDC,Truck,30,74064,269592,3,0.12,3622,9181,India,9091
-South Africa,Direct Drop,DDP,Truck,30,400,8416,21,0.7,3622,9181,France,8670
-Zimbabwe,From RDC,RDC,Truck,240,442,5339,12,0.05,118,7600,India,6980
-Nigeria,From RDC,RDC,Air,120,9980,204590,20,0.17,2846,12873, Port Elizabeth,5168
-Tanzania,From RDC,RDC,Air,60,60332,446456,7,0.12,3622,9181,India,5659
-Uganda,From RDC,RDC,Air,240,13993,27286,1,0.01,5262,26823,India,5524
-Nigeria,From RDC,RDC,Air Charter,60,1697,12778,7,0.13,6725,32279,India,7633
-Uganda,From RDC,RDC,Air,30,200,2000,10,0.33,44,483, Nashik,4961
-Uganda,From RDC,RDC,Air,30,11852,198283,16,0.56,1342,5340, Nashik,4961
-Côte d'Ivoire,Direct Drop,CIP,Air,60,4245,40327,9,0.16,833,134,France,4338
-Côte d'Ivoire,Direct Drop,FCA,Air,60,3000,20550,6,0.11,385,2765,Germany,5008
-Vietnam,Direct Drop,EXW,Air,90,1000,7000,7,0.08,3622,9181,India,3157
-Uganda,From RDC,RDC,Air,120,42,1726,41,0.34,123,-155,Germany,5868
-Côte d'Ivoire,From RDC,RDC,Air,240,2000,3800,1,0.01,688,211,India,9091
-Nigeria,From RDC,RDC,Air Charter,60,99999,243997,2,0.04,13437,20347, Nashik,7134
-Tanzania,From RDC,RDC,Truck,60,9301,21392,2,0.04,3622,9181,India,5659
-Zambia,From RDC,RDC,Truck,30,10015,89834,8,0.3,819,1882, Nashik,6339
-Zimbabwe,From RDC,RDC,Truck,30,51,561,11,0.37,6,-91,India,6980
-Uganda,Direct Drop,EXW,Air,120,1270,26670,21,0.18,201,262, Port Elizabeth,3989
-Zambia,From RDC,RDC,Truck,60,6258,40802,6,0.11,3622,9181, Nashik,6339
-South Africa,Direct Drop,DDP,Truck,30,80,1830,22,0.76,3622,9181, Port Elizabeth,573
-South Africa,Direct Drop,DDP,Truck,30,4292,17235,4,0.13,3622,9181,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,240,1200,2520,2,0.01,448,1605,India,9091
-Côte d'Ivoire,From RDC,RDC,Truck,30,2832,13650,4,0.16,159,984, Nashik,8608
-Zambia,From RDC,RDC,Truck,60,60000,432000,7,0.12,3622,9181,India,6906
-Côte d'Ivoire,From RDC,RDC,Air,60,5800,22562,3,0.06,248,1431,India,9091
-Uganda,Direct Drop,FCA,Air,120,160,5785,36,0.3,47,238,Germany,5868
-South Africa,Direct Drop,DDP,Truck,120,36,2509,69,0.58,3622,9181, Latina,7877
-"Congo, DRC",From RDC,RDC,Air,120,9,303,33,0.28,3622,9181,India,6583
-Nigeria,From RDC,RDC,Air Charter,60,10383,19727,1,0.03,767,2963,India,7633
-Nigeria,From RDC,RDC,Air Charter,60,50,73,1,0.02,3622,9181,India,7633
-Haiti,Direct Drop,FCA,Air,120,1470,60417,41,0.34,362,1490,Germany,7877
-Nigeria,From RDC,RDC,Air Charter,60,1000,5560,5,0.09,3622,9181,India,7633
-Côte d'Ivoire,From RDC,RDC,Truck,60,5624,18446,3,0.05,3622,9181, Nashik,8608
-Haiti,From RDC,RDC,Air,240,4000,8400,2,0.01,1587,15163,India,14446
-Vietnam,Direct Drop,EXW,Air,60,15360,113664,7,0.12,1360,4412,India,3157
-South Africa,Direct Drop,DDP,Truck,60,91,6925,76,1.27,3622,9181,India,8074
-Uganda,From RDC,RDC,Truck,60,3173,22211,7,0.12,3622,9181,India,5524
-Rwanda,From RDC,RDC,Air,60,600,21480,35,0.6,55,-87,India,5921
-Haiti,Direct Drop,EXW,Ocean,60,34080,318648,9,0.16,4726,6208, Nashik,14325
-Zimbabwe,From RDC,RDC,Truck,30,10114,61493,6,0.2,3622,9181, Nashik,6420
-Côte d'Ivoire,From RDC,RDC,Air,60,50000,561000,11,0.19,5997,7379,India,9091
-Mozambique,From RDC,RDC,Truck,30,1000,10520,10,0.35,3622,9181, Nashik,6074
-Côte d'Ivoire,From RDC,RDC,Air,60,6000,14640,2,0.04,3622,9181, Nashik,8608
-Côte d'Ivoire,From RDC,RDC,Air,240,4340,8376,1,0.01,3622,9181,India,9091
-Haiti,From RDC,RDC,Air,120,2000,40960,20,0.17,3622,9181, Nashik,14325
-Tanzania,From RDC,RDC,Air,60,4776,170980,35,0.6,3622,9181,India,5659
-Côte d'Ivoire,From RDC,RDC,Air,240,3181,6043,1,0.01,3622,9181,India,9091
-Haiti,From RDC,RDC,Air,240,2304,4423,1,0.01,3622,9181,India,14446
-Nigeria,From RDC,RDC,Air Charter,60,6,48,8,0.14,6589,25731,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,240,5700,11970,2,0.01,2845,9943,India,9091
-Nigeria,Direct Drop,FCA,Air,60,448,3068,6,0.11,68,123,Germany,4614
-Mozambique,From RDC,RDC,Truck,240,10070,19636,1,0.01,3787,1451,India,6624
-Vietnam,Direct Drop,EXW,Air,60,8500,94775,11,0.19,3099,4018,India,3157
-South Africa,Direct Drop,DDP,Truck,200,60,360,6,0.03,3622,9181,Canada,15035
-Nigeria,From RDC,RDC,Air,30,196,2677,13,0.46,12,-100, Nashik,7134
-Mozambique,From RDC,RDC,Air,60,570,20235,35,0.59,3622,9181,India,6624
-South Africa,Direct Drop,DDP,Truck,60,14,300,21,0.36,3622,9181,India,8074
-Zambia,From RDC,RDC,Air,60,40245,382327,9,0.16,3254,12267,India,6906
-Mozambique,From RDC,RDC,Air,60,630,976,1,0.03,42,217,India,6624
-Mozambique,From RDC,RDC,Truck,30,3400,47464,13,0.47,315,981, Nashik,6074
-Uganda,Direct Drop,EXW,Air,60,6349,12380,1,0.03,3622,9181,India,5524
-Tanzania,From RDC,RDC,Air,60,75318,114483,1,0.03,5040,21965,India,5659
-Zambia,From RDC,RDC,Truck,60,7130,38787,5,0.09,3622,9181,India,6906
-Nigeria,From RDC,RDC,Air Charter,30,51140,221947,4,0.14,3622,9181,India,7633
-"Congo, DRC",From RDC,RDC,Air,60,17,248,14,0.24,3622,9181, Nashik,6020
-Nigeria,From RDC,RDC,Air Charter,60,21765,154966,7,0.12,1984,6329,India,7633
-Tanzania,From RDC,RDC,Truck,120,4389,148084,33,0.28,880,2175,Germany,6837
-Côte d'Ivoire,From RDC,RDC,Truck,120,10000,267000,26,0.22,3622,9181, Nashik,8608
-Zimbabwe,From RDC,RDC,Truck,60,3687,7005,1,0.03,212,1143,India,6980
-Côte d'Ivoire,From RDC,RDC,Air,60,12833,94964,7,0.12,1316,2056,India,9091
-Côte d'Ivoire,From RDC,RDC,Truck,60,75235,610155,8,0.14,9080,33551,India,9091
-Nigeria,From RDC,RDC,Air Charter,60,5000,43800,8,0.15,452,9181,India,7633
-Uganda,From RDC,RDC,Truck,30,47312,199656,4,0.14,20230,78938, Nashik,4961
-Vietnam,Direct Drop,EXW,Air,30,18616,188952,10,0.34,2101,3384, Nashik,3641
-South Africa,Direct Drop,DDP,Ocean,30,125247,567368,4,0.15,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Ocean,30,108677,722702,6,0.22,10144,7809,India,8074
-South Africa,Direct Drop,DDP,Truck,30,200,9382,46,1.56,3622,9181, Port Elizabeth,573
-Rwanda,Direct Drop,EXW,Air,30,4011,72198,18,0.6,3622,9181,India,5921
-Vietnam,Direct Drop,EXW,Air,60,3434,7726,2,0.04,876,1183, Nashik,3641
-Mozambique,From RDC,RDC,Air,30,23035,385836,16,0.56,3622,9181,India,6624
-South Africa,Direct Drop,DDP,Ocean,60,37870,103006,2,0.05,4121,3957,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,60,4149,11326,2,0.05,394,83,India,9091
-Mozambique,From RDC,RDC,Truck,240,4584,8526,1,0.01,3622,9181,India,6624
-Haiti,From RDC,RDC,Air,60,8520,19851,2,0.04,3622,9181,India,14446
-South Africa,Direct Drop,DDP,Truck,60,86,6545,76,1.27,3622,9181,India,8074
-"Congo, DRC",From RDC,RDC,Air,60,1296,9421,7,0.12,3622,9181, Nashik,6020
-Zimbabwe,From RDC,RDC,Truck,60,37963,136666,3,0.06,3622,9181,India,6980
-Nigeria,From RDC,RDC,Air Charter,60,10340,37224,3,0.06,3622,9181, Nashik,7134
-"Congo, DRC",From RDC,RDC,Air,60,170,392,2,0.04,3622,9181,India,6583
-"Congo, DRC",From RDC,RDC,Air,60,3460,28060,8,0.14,3622,9181, Nashik,6020
-Nigeria,From RDC,RDC,Air Charter,60,41949,478218,11,0.19,4724,6445,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,30,1235,13585,11,0.37,649,191,India,9091
-Zambia,From RDC,RDC,Truck,30,100000,2625000,26,0.88,9000,13036, Port Elizabeth,2162
-Mozambique,From RDC,RDC,Truck,60,39096,284227,7,0.12,3591,6733,India,6624
-South Africa,Direct Drop,DDP,Ocean,60,130828,316603,2,0.04,6525,9984,India,8074
-Côte d'Ivoire,From RDC,RDC,Truck,120,228,4788,21,0.18,3622,9181,India,9091
-Vietnam,Direct Drop,EXW,Air,30,20142,99702,4,0.16,6142,12850, Nashik,3641
-Vietnam,Direct Drop,EXW,Air,90,702,3102,4,0.05,3622,9181,India,3157
-Uganda,From RDC,RDC,Truck,60,19705,50838,2,0.04,1095,3405,India,5524
-South Africa,Direct Drop,DDP,Truck,30,26,777,29,1.0,3622,9181,India,8074
-Côte d'Ivoire,Direct Drop,CIP,Air,60,1389,7833,5,0.09,3622,9181,France,4338
-Zimbabwe,From RDC,RDC,Truck,60,76000,562400,7,0.12,3622,9181,India,6980
-Nigeria,From RDC,RDC,Air,240,1622,10056,6,0.03,3622,9181,India,7633
-Zimbabwe,From RDC,RDC,Truck,60,9262,18431,1,0.03,3622,9181,India,6980
-Nigeria,From RDC,RDC,Air,60,2000,11120,5,0.09,209,1136,India,7633
-Nigeria,From RDC,RDC,Air Charter,60,20518,230211,11,0.19,2407,9181,India,7633
-South Africa,Direct Drop,DDP,Truck,60,220,2011,9,0.15,3622,9181,India,8074
-"Congo, DRC",Direct Drop,EXW,Air,60,150,322,2,0.04,25,765,India,6583
-Nigeria,From RDC,RDC,Air Charter,60,105160,1179895,11,0.19,28277,20326,India,7633
-Côte d'Ivoire,Direct Drop,CIP,Air,60,1577,14981,9,0.16,309,9181,France,4338
-Vietnam,Direct Drop,EXW,Air,30,14119,46592,3,0.11,3622,9181,India,3157
-Haiti,From RDC,RDC,Air,240,2112,4055,1,0.01,3622,9181,India,14446
-South Africa,Direct Drop,DDP,Truck,60,12,212,17,0.3,3622,9181,India,8074
-Zimbabwe,Direct Drop,EXW,Air,60,813,2845,3,0.06,60,344, Nashik,6420
-Zambia,From RDC,RDC,Truck,30,99714,410821,4,0.14,6005,4447,India,6906
-Haiti,Direct Drop,FCA,Air,60,46,472,10,0.17,10,-107,Germany,7877
-Tanzania,From RDC,RDC,Truck,30,20000,341600,17,0.57,2302,9181, Nashik,5091
-Mozambique,Direct Drop,CIP,Air,30,44,859,19,0.65,3622,9181,France,8017
-Haiti,Direct Drop,FCA,Air,60,612,3635,5,0.1,76,259,Germany,7877
-Uganda,From RDC,RDC,Truck,60,14893,123016,8,0.14,3622,9181,India,5524
-South Africa,Direct Drop,DDP,Truck,30,7,99,14,0.47,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air Charter,90,10230,56265,5,0.06,1505,9060,India,7633
-Uganda,From RDC,RDC,Air,60,46113,332474,7,0.12,2534,15629,India,5524
-Nigeria,From RDC,RDC,Air,30,56404,748481,13,0.44,6886,14459, Nashik,7134
-Mozambique,From RDC,RDC,Truck,60,145400,1247532,8,0.14,10673,14392, Nashik,6074
-Côte d'Ivoire,From RDC,RDC,Truck,120,20000,420000,21,0.18,5633,16548,India,9091
-Nigeria,From RDC,RDC,Air Charter,90,1050,10174,9,0.11,3622,9181,India,7633
-Côte d'Ivoire,From RDC,RDC,Truck,60,36240,310939,8,0.14,13509,35857,India,9091
-South Africa,Direct Drop,DDP,Truck,30,9,137,15,0.51,3622,9181,India,8074
-Haiti,Direct Drop,EXW,Ocean,30,46500,499410,10,0.36,5342,8195, Nashik,14325
-Zimbabwe,From RDC,RDC,Air,60,5900,19352,3,0.05,3622,9181,India,6980
-South Africa,Direct Drop,DDP,Truck,30,4,119,29,1.0,3622,9181,India,8074
-Vietnam,Direct Drop,EXW,Air,30,46802,537754,11,0.38,5281,12625, Nashik,3641
-South Africa,Direct Drop,DDP,Air,60,16000,85280,5,0.09,3622,9181,India,8074
-Rwanda,Direct Drop,EXW,Air,30,8249,185602,22,0.75,2800,11595,India,5921
-Nigeria,From RDC,RDC,Air Charter,240,806,1531,1,0.01,3622,9181,India,7633
-Mozambique,Direct Drop,FCA,Air,60,400,2740,6,0.11,62,-358,Germany,8163
-Zimbabwe,From RDC,RDC,Truck,60,560,4905,8,0.15,3622,9181,India,6980
-Nigeria,From RDC,RDC,Air,60,20000,150000,7,0.12,1096,9181,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,240,3119,0,0,0.0,1088,1951,India,9091
-Vietnam,Direct Drop,EXW,Air,30,1344,18359,13,0.46,1537,12507, Nashik,3641
-Uganda,From RDC,RDC,Air,30,1166,30607,26,0.88,145,742, Port Elizabeth,3989
-Haiti,From RDC,RDC,Air Charter,180,123,2086,16,0.09,3622,9181, Haarlem,7467
-Vietnam,Direct Drop,EXW,Air,60,112,1618,14,0.24,1701,3288,India,3157
-Côte d'Ivoire,From RDC,RDC,Truck,60,2050,57400,28,0.47,312,1128, Nashik,8608
-South Africa,Direct Drop,DDP,Truck,240,30,328,10,0.05,3622,9181,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,60,1481,3184,2,0.04,141,400,India,9091
-South Africa,Direct Drop,DDP,Truck,30,228,7598,33,1.11,3622,9181,India,8074
-Vietnam,Direct Drop,FCA,Air,120,5000,304000,60,0.51,3622,9181,Germany,9157
-Côte d'Ivoire,From RDC,RDC,Air,60,99957,1121517,11,0.19,3622,9181,India,9091
-Vietnam,Direct Drop,FCA,Air,120,3434,208855,60,0.51,826,2315,Germany,9157
-South Africa,Direct Drop,DDP,Truck,30,98,2214,22,0.75,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air,90,400,6400,16,0.18,38,161,India,7633
-Uganda,From RDC,RDC,Air,30,71991,320359,4,0.15,7187,15285,India,5524
-Nigeria,From RDC,RDC,Air,60,3000,17550,5,0.1,419,9181,India,7633
-South Africa,Direct Drop,DDP,Truck,200,12,150,12,0.06,3622,9181,France,8670
-Nigeria,From RDC,RDC,Air Charter,60,137900,1139054,8,0.14,12766,11601,India,7633
-South Africa,Direct Drop,DDP,Truck,200,500,1303,2,0.01,3622,9181,India,8074
-Vietnam,Direct Drop,EXW,Air,30,2865,32918,11,0.38,332,5973, Nashik,3641
-Uganda,From RDC,RDC,Air,60,15584,174852,11,0.19,6843,14170,India,5524
-Vietnam,Direct Drop,EXW,Air,60,23040,146995,6,0.11,9,3620,India,3157
-Nigeria,From RDC,RDC,Air Charter,60,155,1357,8,0.15,14,9181,India,7633
-Côte d'Ivoire,From RDC,RDC,Truck,60,2085,8340,4,0.07,699,7127, Nashik,8608
-Nigeria,From RDC,RDC,Air Charter,60,213502,1648235,7,0.13,31271,61693,India,7633
-Nigeria,From RDC,RDC,Air Charter,60,98,737,7,0.13,3622,9181,India,7633
-Mozambique,From RDC,RDC,Truck,60,45000,384750,8,0.14,4171,2936,India,6624
-Côte d'Ivoire,From RDC,RDC,Truck,60,1512,1995,1,0.02,360,2274,India,9091
-Nigeria,From RDC,RDC,Air,90,1132,18112,16,0.18,3622,9181,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,60,29593,281133,9,0.16,10877,29167,India,9091
-Mozambique,Direct Drop,EXW,Air,30,800,6064,7,0.25,77,-21,India,6624
-"Congo, DRC",From RDC,RDC,Air,60,147,2150,14,0.24,3622,9181, Nashik,6020
-South Africa,Direct Drop,DDP,Ocean,30,77473,515195,6,0.22,7228,7809,India,8074
-Nigeria,From RDC,RDC,Air,60,4500,36000,8,0.13,3622,9181,India,7633
-Rwanda,From RDC,RDC,Truck,30,2381,11047,4,0.15,3703,7469,India,5921
-Zimbabwe,From RDC,RDC,Truck,60,76000,506160,6,0.11,8280,14328,India,6980
-Nigeria,From RDC,RDC,Air Charter,60,820,2238,2,0.05,79,9181,India,7633
-South Africa,Direct Drop,DDP,Ocean,60,75000,181500,2,0.04,2915,5012,India,8074
-Nigeria,From RDC,RDC,Air Charter,30,28839,159768,5,0.18,3622,9181, Nashik,7134
-Vietnam,Direct Drop,FCA,Air,120,1114,67753,60,0.51,266,5568,Germany,9157
-Nigeria,From RDC,RDC,Air,30,4,105,26,0.88,1,-538, Port Elizabeth,5168
-South Africa,Direct Drop,DDP,Truck,30,14,472,33,1.12,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Air,30,64771,506509,7,0.26,4398,4298,India,8074
-South Africa,Direct Drop,DDP,Ocean,30,58143,386650,6,0.22,5427,6905,India,8074
-South Africa,Direct Drop,DDP,Air,60,25637,63323,2,0.04,3622,9181,India,8074
-Uganda,From RDC,RDC,Truck,30,5403,73048,13,0.45,490,1016, Nashik,4961
-Vietnam,Direct Drop,EXW,Air,60,100,894,8,0.15,6,1794,India,3157
-Uganda,From RDC,RDC,Truck,30,3680,36800,10,0.33,328,2522, Nashik,4961
-Mozambique,From RDC,RDC,Truck,60,135900,1524798,11,0.19,3622,9181,India,6624
-Zimbabwe,From RDC,RDC,Truck,60,60096,135816,2,0.04,3622,9181,India,6980
-Côte d'Ivoire,From RDC,RDC,Air,200,3229,4520,1,0.01,3622,9181,India,9091
-Nigeria,From RDC,RDC,Air,30,16,420,26,0.88,3622,9181, Port Elizabeth,5168
-Uganda,From RDC,RDC,Air,60,72107,707369,9,0.16,9348,80100, Nashik,4961
-Tanzania,From RDC,RDC,Truck,60,17600,40480,2,0.04,3526,7977,India,5659
-Haiti,Direct Drop,EXW,Ocean,30,11194,51380,4,0.15,3622,9181,India,14446
-Uganda,From RDC,RDC,Air,60,39792,356934,8,0.15,4658,40595,India,5524
-Uganda,Direct Drop,EXW,Air,30,1262,28395,22,0.75,173,-65, Nashik,4961
-Côte d'Ivoire,From RDC,RDC,Truck,120,16000,336000,21,0.18,3893,16548,India,9091
-Nigeria,From RDC,RDC,Air,60,20000,54600,2,0.05,1370,9181,India,7633
-South Africa,Direct Drop,DDP,Truck,60,4553,13659,3,0.05,3622,9181,India,8074
-Haiti,Direct Drop,EXW,Ocean,240,675,4610,6,0.03,3622,9181,India,14446
-Haiti,From RDC,RDC,Air,100,504,2766,5,0.05,3622,9181,India,14446
-Mozambique,From RDC,RDC,Air,60,11980,46722,3,0.06,3622,9181, Nashik,6074
-Tanzania,Direct Drop,EXW,Air,30,5925,9243,1,0.05,394,2245,India,5659
-South Africa,Direct Drop,DDP,Ocean,60,515000,1251450,2,0.04,23655,36401,India,8074
-South Africa,Direct Drop,DDP,Truck,30,8,241,30,1.01,3622,9181,India,8074
-Haiti,From RDC,RDC,Air,30,60,242,4,0.13,6528,62922, Nashik,14325
-Zambia,From RDC,RDC,Truck,60,50000,122000,2,0.04,7567,15697, Nashik,6339
-South Africa,Direct Drop,DDP,Ocean,60,25000,210500,8,0.14,2303,2790,India,8074
-Zambia,From RDC,RDC,Truck,30,109226,450011,4,0.14,6636,9598,India,6906
-Zambia,From RDC,RDC,Truck,60,3926,8558,2,0.04,477,-465,India,6906
-"Congo, DRC",From RDC,RDC,Air,120,23,776,33,0.28,3622,9181,India,6583
-Côte d'Ivoire,From RDC,RDC,Truck,30,8250,37867,4,0.15,821,5695,India,9091
-South Africa,Direct Drop,DDP,Truck,60,94,6070,64,1.08,3622,9181,India,8074
-Tanzania,From RDC,RDC,Truck,240,2176,27200,12,0.05,821,698,India,5659
-Mozambique,From RDC,RDC,Truck,30,44840,499966,11,0.37,5065,4419, Nashik,6074
-Haiti,From RDC,RDC,Air,60,3850,5390,1,0.02,230,1936,India,14446
-South Africa,Direct Drop,DDP,Air,60,1000,2920,2,0.05,3622,9181,India,8074
-Vietnam,Direct Drop,EXW,Air,30,3000,6720,2,0.07,436,238,India,3157
-Uganda,From RDC,RDC,Truck,60,157,1540,9,0.16,836,3911,India,5524
-"Congo, DRC",From RDC,RDC,Air,120,50,1687,33,0.28,3622,9181,India,6583
-Uganda,From RDC,RDC,Truck,120,27048,504174,18,0.16,3622,9181,Germany,5868
-Uganda,From RDC,RDC,Air,60,4730,35616,7,0.13,260,898,India,5524
-South Africa,Direct Drop,DDP,Ocean,240,20000,185600,9,0.04,7293,5560,Canada,15035
-South Africa,Direct Drop,DDP,Ocean,60,19836,167019,8,0.14,1820,-302,India,8074
-Vietnam,Direct Drop,EXW,Air,60,1300,10075,7,0.13,270,2850,India,3157
-South Africa,Direct Drop,DDP,Ocean,60,57925,157556,2,0.05,6220,6175,India,8074
-Tanzania,Direct Drop,FCA,Air,60,407,2592,6,0.11,68,264,Germany,6837
-Nigeria,From RDC,RDC,Air Charter,30,32562,127317,3,0.13,3622,9181,India,7633
-South Africa,Direct Drop,DDP,Truck,60,7,126,18,0.3,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air Charter,60,3322,9069,2,0.05,377,5147,India,7633
-Nigeria,Direct Drop,EXW,Air,60,2221,13192,5,0.1,252,1969,Germany,4614
-Haiti,From RDC,RDC,Air,60,180,968,5,0.09,37,221,India,14446
-Uganda,Direct Drop,EXW,Air,30,252,504,2,0.07,9,26,India,5524
-Nigeria,From RDC,RDC,Air,60,1672,5684,3,0.06,3622,9181,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,60,3000,76740,25,0.43,187,4110, Nashik,8608
-Uganda,From RDC,RDC,Truck,60,8193,15730,1,0.03,3622,9181,India,5524
-Vietnam,Direct Drop,FCA,Air,120,6,493,82,0.68,9,1709,Germany,9157
-Nigeria,From RDC,RDC,Air,30,2500,18250,7,0.24,3622,9181, Nashik,7134
-Uganda,From RDC,RDC,Truck,30,2950,12449,4,0.14,3622,9181, Nashik,4961
-Haiti,From RDC,RDC,Air,120,6160,152521,24,0.21,3622,9181, Nashik,14325
-Zimbabwe,From RDC,RDC,Air,60,5880,42394,7,0.12,3622,9181,India,6980
-"Congo, DRC",From RDC,RDC,Air,240,7003,13655,1,0.01,3622,9181,India,6583
-South Africa,Direct Drop,DDP,Truck,30,240,6944,28,0.96,3622,9181, Port Elizabeth,573
-Côte d'Ivoire,From RDC,RDC,Air,60,15000,173400,11,0.19,3622,9181,India,9091
-Rwanda,From RDC,RDC,Air,30,1883,31069,16,0.55,752,3436,India,5921
-Vietnam,Direct Drop,EXW,Air,30,8388,54522,6,0.22,544,8141, Nashik,3641
-Vietnam,Direct Drop,EXW,Air,30,435,974,2,0.07,25,3,India,3157
-Tanzania,From RDC,RDC,Truck,240,24977,48705,1,0.01,9174,6185,India,5659
-Rwanda,From RDC,RDC,Air,240,1965,26920,13,0.06,724,3520,India,5921
-Tanzania,From RDC,RDC,Truck,60,9312,21417,2,0.04,1221,3847,India,5659
-Rwanda,Direct Drop,CIP,Air,30,558,8174,14,0.49,1297,22760,India,5921
-South Africa,Direct Drop,DDP,Truck,30,34,383,11,0.38,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air Charter,60,30415,346731,11,0.19,3415,14128,India,7633
-Mozambique,From RDC,RDC,Truck,240,60968,118887,1,0.01,53692,28683,India,6624
-Côte d'Ivoire,From RDC,RDC,Air,60,24765,200844,8,0.14,2666,10186,India,9091
-Tanzania,Direct Drop,EXW,Air,60,11500,62445,5,0.09,632,3168,India,5659
-Nigeria,From RDC,RDC,Air Charter,30,50040,500400,10,0.33,4161,10637, Nashik,7134
-Côte d'Ivoire,From RDC,RDC,Truck,60,15120,41731,2,0.05,959,3424, Nashik,8608
-South Africa,Direct Drop,DDP,Ocean,60,5360,14579,2,0.05,583,4824,India,8074
-Uganda,From RDC,RDC,Air,120,13164,266176,20,0.17,2722,7604,Germany,5868
-Côte d'Ivoire,From RDC,RDC,Air,60,2200,8250,3,0.06,192,2649,India,9091
-Tanzania,From RDC,RDC,Truck,120,7995,174131,21,0.18,1946,11382,India,5659
-Vietnam,Direct Drop,EXW,Air,200,1000,1450,1,0.01,3622,9181,India,3157
-Nigeria,From RDC,RDC,Air Charter,60,100000,858000,8,0.14,38992,48199,India,7633
-Côte d'Ivoire,From RDC,RDC,Truck,60,5701,23659,4,0.07,338,2487, Nashik,8608
-South Africa,Direct Drop,DDP,Ocean,60,77143,565458,7,0.12,3894,2161,India,8074
-Nigeria,From RDC,RDC,Air,60,957,2775,2,0.05,3622,9181,India,7633
-Vietnam,Direct Drop,EXW,Air,90,400,3128,7,0.09,3622,9181,India,3157
-Uganda,Direct Drop,DDP,Air,120,100,6660,66,0.55,14,-473, Port Elizabeth,3989
-Côte d'Ivoire,From RDC,RDC,Truck,120,21497,422631,19,0.16,21,21007, Nashik,8608
-Haiti,From RDC,RDC,Air,60,7560,10659,1,0.02,2027,18372,India,14446
-South Africa,Direct Drop,DDP,Truck,60,13,328,25,0.42,3622,9181,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,60,1437,4167,2,0.05,138,211,India,9091
-Uganda,From RDC,RDC,Air,120,12022,243084,20,0.17,3622,9181,Germany,5868
-Rwanda,Direct Drop,CIP,Air,30,768,4369,5,0.19,55,-607,India,5921
-South Africa,Direct Drop,DDP,Truck,30,250,5315,21,0.71,3622,9181, Port Elizabeth,573
-South Africa,Direct Drop,DDP,Air,60,2160,23133,10,0.18,3622,9181,France,8670
-Rwanda,From RDC,RDC,Air,240,10401,15705,1,0.01,3880,27001,India,5921
-Nigeria,From RDC,RDC,Air,30,1000,50400,50,1.68,108,12353, Haarlem,4754
-Vietnam,Direct Drop,EXW,Air,60,18000,43200,2,0.04,3622,9181,India,3157
-South Africa,Direct Drop,DDP,Air,60,8366,62159,7,0.12,458,697,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,240,628,1224,1,0.01,232,794,India,9091
-Nigeria,From RDC,RDC,Air,30,17933,470741,26,0.88,1564,15864, Port Elizabeth,5168
-Nigeria,From RDC,RDC,Air Charter,30,59615,772610,12,0.43,7722,13547,India,7633
-Tanzania,From RDC,RDC,Air,120,32294,610356,18,0.16,20132,96918,Germany,6837
-Nigeria,From RDC,RDC,Air Charter,240,833,1582,1,0.01,3622,9181,India,7633
-"Congo, DRC",From RDC,RDC,Air,60,489,5555,11,0.19,2045,15083,India,6583
-Mozambique,From RDC,RDC,Truck,60,17500,68250,3,0.06,1292,588, Nashik,6074
-Côte d'Ivoire,From RDC,RDC,Air,240,1417,2593,1,0.01,538,1195,India,9091
-Uganda,From RDC,RDC,Truck,30,22872,139061,6,0.2,3622,9181, Nashik,4961
-South Africa,Direct Drop,DDP,Air,60,10000,56800,5,0.09,3622,9181,South Africa,0
-Nigeria,From RDC,RDC,Air Charter,60,4050,5913,1,0.02,3622,9181,India,7633
-South Africa,Direct Drop,DDP,Truck,30,6,85,14,0.47,3622,9181,India,8074
-Uganda,From RDC,RDC,Air,30,5000,25650,5,0.17,3622,9181, Nashik,4961
-Uganda,From RDC,RDC,Air,30,3014,79117,26,0.88,291,755, Port Elizabeth,3989
-Tanzania,From RDC,RDC,Truck,60,36576,94366,2,0.04,4145,647,India,5659
-Vietnam,Direct Drop,EXW,Air,30,42392,597727,14,0.47,3622,9181, Nashik,3641
-South Africa,Direct Drop,DDP,Truck,60,50,2492,49,0.83,3622,9181,India,8074
-Zambia,From RDC,RDC,Truck,60,60000,237000,3,0.07,2484,2613, Nashik,6339
-Côte d'Ivoire,From RDC,RDC,Air,240,352,5280,15,0.06,125,328,India,9091
-Haiti,From RDC,RDC,Air,60,4725,7182,1,0.03,1154,11508,India,14446
-Vietnam,Direct Drop,EXW,Air,60,7600,15808,2,0.03,1292,1800,India,3157
-Uganda,From RDC,RDC,Air,60,105,809,7,0.13,6,53,India,5524
-Uganda,From RDC,RDC,Air,60,12974,31656,2,0.04,3622,9181, Nashik,4961
-Zambia,From RDC,RDC,Air,30,84,1043,12,0.41,3622,9181,India,6906
-Zimbabwe,From RDC,RDC,Air,60,34732,257016,7,0.12,3622,9181,India,6980
-Vietnam,Direct Drop,EXW,Air,30,27608,389272,14,0.47,3622,9181, Nashik,3641
-Nigeria,From RDC,RDC,Air,30,20000,200000,10,0.33,1801,9181, Nashik,7134
-South Africa,Direct Drop,DDP,Ocean,30,128620,547921,4,0.14,10643,6292,India,8074
-Rwanda,From RDC,RDC,Air,60,8766,21389,2,0.04,447,3257,India,5921
-Mozambique,From RDC,RDC,Air,60,27150,105885,3,0.06,3622,9181, Nashik,6074
-Côte d'Ivoire,Direct Drop,CIP,Air,180,3559,60360,16,0.09,1061,1454, Haarlem,5009
-Mozambique,From RDC,RDC,Truck,60,660,4798,7,0.12,3622,9181,India,6624
-Nigeria,From RDC,RDC,Air Charter,120,13130,244743,18,0.16,3232,3495,Germany,4614
-Zambia,From RDC,RDC,Truck,60,14653,96709,6,0.11,1413,325,India,6906
-South Africa,Direct Drop,DDP,Truck,60,1,24,24,0.42,3622,9181,India,8074
-Haiti,From RDC,RDC,Air,30,19656,71547,3,0.12,1679,17028,India,14446
-Haiti,From RDC,RDC,Air,60,960,6921,7,0.12,3622,9181,India,14446
-Nigeria,From RDC,RDC,Air Charter,60,60000,681000,11,0.19,6949,10637,India,7633
-Mozambique,From RDC,RDC,Truck,60,150000,1216500,8,0.14,3622,9181, Nashik,6074
-Nigeria,From RDC,RDC,Air Charter,30,80000,266400,3,0.11,4847,13547,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,30,3859,15590,4,0.13,242,2128, Nashik,8608
-Vietnam,Direct Drop,EXW,Air,60,400,3352,8,0.14,23,1149,India,3157
-Côte d'Ivoire,From RDC,RDC,Air,30,4269,44995,10,0.35,3622,9181, Nashik,8608
-Uganda,From RDC,RDC,Air,60,5919,69844,11,0.2,3622,9181,India,5524
-Nigeria,From RDC,RDC,Air,240,35,217,6,0.03,3622,9181,India,7633
-Côte d'Ivoire,From RDC,RDC,Truck,60,4200,16338,3,0.06,180,965,India,9091
-Nigeria,From RDC,RDC,Air Charter,60,88433,730456,8,0.14,8935,20326,India,7633
-Zambia,From RDC,RDC,Air,60,11209,145268,12,0.22,1143,876, Nashik,6339
-Uganda,Direct Drop,CIP,Air,60,274,25071,91,1.52,28,-499, Haarlem,6190
-Vietnam,Direct Drop,EXW,Air,60,1247,3167,2,0.04,71,3035,India,3157
-"Congo, DRC",From RDC,RDC,Air,90,710,6624,9,0.1,3622,9181,India,6583
-South Africa,Direct Drop,DDP,Truck,240,6,42,7,0.03,3622,9181,India,8074
-Rwanda,From RDC,RDC,Air,60,10530,25693,2,0.04,544,4029,India,5921
-Uganda,Direct Drop,EXW,Air,60,7445,16676,2,0.04,574,2868,India,5524
-Mozambique,From RDC,RDC,Truck,60,6275,71911,11,0.19,3622,9181, Nashik,6074
-South Africa,Direct Drop,DDP,Truck,90,3,51,17,0.19,3622,9181,India,8074
-Mozambique,From RDC,RDC,Air,60,19000,256500,13,0.22,3622,9181,India,6624
-Nigeria,From RDC,RDC,Air Charter,30,60756,640368,10,0.35,5481,11601, Nashik,7134
-Uganda,From RDC,RDC,Truck,60,14476,57180,3,0.07,839,7402,India,5524
-Mozambique,From RDC,RDC,Truck,30,720,2908,4,0.13,52,-496, Nashik,6074
-Haiti,Direct Drop,EXW,Ocean,60,960,1651,1,0.03,8385,11336,India,14446
-Uganda,From RDC,RDC,Truck,60,19942,223749,11,0.19,3622,9181,India,5524
-Zimbabwe,From RDC,RDC,Truck,60,4451,13130,2,0.05,228,6423,India,6980
-Nigeria,From RDC,RDC,Air Charter,60,63,91,1,0.02,3622,9181,India,7633
-Rwanda,From RDC,RDC,Air,60,10000,36000,3,0.06,558,2989, Nashik,5355
-Tanzania,From RDC,RDC,Truck,60,9243,235234,25,0.42,936,1233,India,5659
-Zambia,From RDC,RDC,Truck,60,13127,32948,2,0.04,1252,5079,India,6906
-Côte d'Ivoire,From RDC,RDC,Truck,60,2200,8800,4,0.07,105,1151,India,9091
-Mozambique,From RDC,RDC,Truck,60,43020,302000,7,0.12,22479,5483, Nashik,6074
-Haiti,From RDC,RDC,Air,240,5216,10014,1,0.01,3622,9181,India,14446
-Zambia,From RDC,RDC,Air,90,1093,16679,15,0.17,133,759,India,6906
-Uganda,From RDC,RDC,Air,30,5277,63904,12,0.4,1366,7507, Nashik,4961
-Rwanda,From RDC,RDC,Air,90,2434,22636,9,0.1,3622,9181,India,5921
-Côte d'Ivoire,From RDC,RDC,Truck,240,3000,6300,2,0.01,1159,4405,India,9091
-Rwanda,From RDC,RDC,Truck,60,288,921,3,0.05,28,-104,India,5921
-Tanzania,Direct Drop,EXW,Air,60,39360,281424,7,0.12,3421,14241,India,5659
-Zimbabwe,Direct Drop,CIP,Air,60,579,14764,25,0.42,3622,9181,France,7729
-Zimbabwe,From RDC,RDC,Truck,60,22074,122731,5,0.09,3622,9181,India,6980
-Nigeria,From RDC,RDC,Air Charter,60,15000,97800,6,0.11,1547,2410,India,7633
-Mozambique,From RDC,RDC,Truck,60,30630,175509,5,0.1,3622,9181,India,6624
-Zimbabwe,From RDC,RDC,Truck,30,10114,83238,8,0.27,3622,9181, Nashik,6420
-South Africa,Direct Drop,DDP,Truck,30,600,11761,19,0.65,3622,9181,India,8074
-Vietnam,Direct Drop,EXW,Air,60,672,940,1,0.02,32,701,India,3157
-Zambia,From RDC,RDC,Truck,60,29011,98637,3,0.06,2717,3060,India,6906
-Côte d'Ivoire,From RDC,RDC,Air,60,14000,24500,1,0.03,989,2452,India,9091
-Uganda,From RDC,RDC,Air,30,3713,40843,11,0.37,3622,9181,India,5524
-Nigeria,From RDC,RDC,Air Charter,60,5426,61856,11,0.19,610,9181,India,7633
-Mozambique,Direct Drop,FCA,Air,60,168,1150,6,0.11,23,-149,Germany,8163
-Vietnam,Direct Drop,EXW,Air,60,12816,103809,8,0.13,3622,9181, Nashik,3641
-Nigeria,Direct Drop,FCA,Air,120,159,6534,41,0.34,3622,9181,Germany,4614
-Mozambique,From RDC,RDC,Truck,60,232476,1885380,8,0.14,3622,9181,India,6624
-South Africa,Direct Drop,DDP,Truck,200,600,858,1,0.01,3622,9181,France,8670
-Côte d'Ivoire,From RDC,RDC,Truck,240,4157,5944,1,0.01,1385,5437,India,9091
-Haiti,Direct Drop,CIP,Air,200,32,402,12,0.06,3622,9181,France,7294
-Nigeria,From RDC,RDC,Air Charter,60,6000,67320,11,0.19,789,5147,India,7633
-Vietnam,Direct Drop,EXW,Air,30,46749,560520,11,0.4,7500,18116, Nashik,3641
-Haiti,Direct Drop,FCA,Air,60,272,1863,6,0.11,37,-278,Germany,7877
-Uganda,From RDC,RDC,Air,30,667,2968,4,0.15,3622,9181, Nashik,4961
-"Congo, DRC",From RDC,RDC,Air,120,17,573,33,0.28,3622,9181,India,6583
-Rwanda,From RDC,RDC,Truck,60,157062,347107,2,0.04,15302,11757,India,5921
-Tanzania,From RDC,RDC,Air,30,80000,1593600,19,0.66,3622,9181, Nashik,5091
-Côte d'Ivoire,From RDC,RDC,Air,90,2520,32079,12,0.14,3622,9181,India,9091
-Nigeria,Direct Drop,EXW,Air,30,10150,228375,22,0.75,1360,6665, Nashik,7134
-Vietnam,Direct Drop,EXW,Air,60,16645,39115,2,0.04,742,4440,India,3157
-Vietnam,Direct Drop,EXW,Air,60,3500,39025,11,0.19,1804,5341,India,3157
-Zambia,From RDC,RDC,Truck,60,20000,77800,3,0.06,117,4900, Nashik,6339
-Vietnam,Direct Drop,EXW,Air,30,14500,166605,11,0.38,1640,1503, Nashik,3641
-Côte d'Ivoire,From RDC,RDC,Truck,30,611,8260,13,0.45,55,335, Nashik,8608
-Zimbabwe,From RDC,RDC,Truck,60,76000,506160,6,0.11,8701,14332,India,6980
-Tanzania,From RDC,RDC,Truck,30,90000,400500,4,0.15,7397,27022, Nashik,5091
-South Africa,Direct Drop,DDP,Truck,120,76,5844,76,0.64,3622,9181, Latina,7877
-Zambia,Direct Drop,CIP,Air,60,545,3815,7,0.12,3622,9181,France,7240
-South Africa,Direct Drop,DDP,Truck,30,100,2733,27,0.91,3622,9181, Port Elizabeth,573
-Uganda,From RDC,RDC,Air,60,5131,60545,11,0.2,691,7252,India,5524
-Vietnam,Direct Drop,FCA,Air,30,100,2326,23,0.78,3622,9181,Germany,9157
-"Congo, DRC",From RDC,RDC,Air,120,1156,22726,19,0.16,2187,23532, Nashik,6020
-South Africa,Direct Drop,DDP,Air,60,3675,9371,2,0.04,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,30,4,60,15,0.51,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air Charter,60,4026,29269,7,0.12,410,9181,India,7633
-Tanzania,From RDC,RDC,Truck,30,26000,152620,5,0.2,3888,7057, Nashik,5091
-Uganda,From RDC,RDC,Air,60,4564,13235,2,0.05,847,3999,India,5524
-Haiti,From RDC,RDC,Air,60,1680,12650,7,0.13,3622,9181, Nashik,14325
-Zimbabwe,From RDC,RDC,Truck,60,20451,47037,2,0.04,10118,8251,India,6980
-Rwanda,From RDC,RDC,Air,60,15000,131400,8,0.15,1364,20215,India,5921
-Nigeria,From RDC,RDC,Air Charter,120,3831,83439,21,0.18,1094,19761,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,240,2976,5713,1,0.01,209,4463,India,9091
-Zambia,From RDC,RDC,Truck,30,107180,857440,8,0.27,7995,9181, Nashik,6339
-South Africa,Direct Drop,DDP,Ocean,30,116000,815480,7,0.23,7965,12688,India,8074
-Nigeria,From RDC,RDC,Air Charter,60,17000,193800,11,0.19,1914,8341,India,7633
-Uganda,Direct Drop,CIP,Air,30,8215,110820,13,0.45,805,3, Nashik,4961
-Côte d'Ivoire,Direct Drop,EXW,Air,30,2245,51635,23,0.77,226,1911,India,9091
-South Africa,Direct Drop,DDP,Truck,60,20,428,21,0.36,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,60,18,561,31,0.52,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,60,22,433,19,0.33,3622,9181,India,8074
-Uganda,From RDC,RDC,Air,120,2427,72033,29,0.25,647,6263, Nashik,4961
-Zambia,From RDC,RDC,Truck,60,132000,871200,6,0.11,10615,21520, Nashik,6339
-Tanzania,From RDC,RDC,Truck,30,68235,1359241,19,0.66,3622,9181, Nashik,5091
-Tanzania,From RDC,RDC,Air,60,155319,1149360,7,0.12,28334,79239,India,5659
-Haiti,From RDC,RDC,Air,120,240,9864,41,0.34,52,422,Germany,7877
-Zimbabwe,From RDC,RDC,Truck,30,42444,366291,8,0.29,1423,5623, Nashik,6420
-South Africa,Direct Drop,DDP,Truck,60,48,4062,84,1.41,3622,9181, Haarlem,9211
-"Congo, DRC",From RDC,RDC,Air,90,312,2277,7,0.08,3622,9181,India,6583
-Côte d'Ivoire,From RDC,RDC,Air,60,864,1296,1,0.02,3622,9181,India,9091
-Nigeria,From RDC,RDC,Air,60,37742,246077,6,0.11,3322,20533, Nashik,7134
-Zimbabwe,From RDC,RDC,Truck,60,112100,642333,5,0.1,3622,9181,India,6980
-Côte d'Ivoire,Direct Drop,CIP,Air,60,300,2850,9,0.16,3622,9181,France,4338
-Mozambique,From RDC,RDC,Truck,240,2047,3684,1,0.01,3622,9181,India,6624
-South Africa,Direct Drop,DDP,Air,60,2000,10460,5,0.09,3622,9181,South Africa,0
-Tanzania,From RDC,RDC,Truck,30,2178,12784,5,0.2,2304,4989,India,5659
-South Africa,Direct Drop,DDP,Air,240,6395,19185,3,0.01,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Ocean,240,10603,23962,2,0.01,3818,10234,India,8074
-Nigeria,From RDC,RDC,Air Charter,60,15000,108150,7,0.12,823,11601,India,7633
-Vietnam,Direct Drop,FCA,Air,120,5000,304000,60,0.51,3622,9181,Germany,9157
-South Africa,Direct Drop,DDP,Air,60,1140,4286,3,0.06,3622,9181,France,8670
-South Africa,Direct Drop,DDP,Air,240,1200,7248,6,0.03,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,60,537,14023,26,0.44,3622,9181,India,8074
-Haiti,From RDC,RDC,Air,60,2610,3680,1,0.02,3622,9181,India,14446
-Haiti,Direct Drop,CIP,Air,180,2295,38923,16,0.09,687,4293, Haarlem,7467
-Nigeria,From RDC,RDC,Air Charter,30,1590,31672,19,0.66,174,8736, Nashik,7134
-South Africa,Direct Drop,DDP,Truck,60,14,270,19,0.32,3622,9181,India,8074
-Zimbabwe,From RDC,RDC,Truck,60,66268,490383,7,0.12,6606,21666,India,6980
-Vietnam,Direct Drop,FCA,Air,30,429,9978,23,0.78,43,-579,Germany,9157
-South Africa,Direct Drop,DDP,Air,30,29380,137204,4,0.16,3622,9181,India,8074
-Tanzania,From RDC,RDC,Air,30,18451,229161,12,0.41,1636,5195,India,5659
-Nigeria,From RDC,RDC,Air Charter,30,23000,305210,13,0.44,2437,17461, Nashik,7134
-South Africa,Direct Drop,DDP,Air,30,80,2336,29,0.97,3622,9181, Port Elizabeth,573
-Zambia,From RDC,RDC,Air,60,10000,79000,7,0.13,581,2238,India,6906
-Zambia,From RDC,RDC,Truck,60,50000,136500,2,0.05,3622,9181,India,6906
-Haiti,From RDC,RDC,Air,30,13577,78475,5,0.19,3622,9181,India,14446
-Haiti,Direct Drop,EXW,Air,240,3528,6526,1,0.01,1296,8230,India,14446
-Zambia,From RDC,RDC,Truck,60,12873,90111,7,0.12,3622,9181,India,6906
-Côte d'Ivoire,From RDC,RDC,Air,30,26710,259621,9,0.32,1866,5111,India,9091
-Nigeria,Direct Drop,EXW,Air,100,8,3200,400,4.0,3622,9181,Thailand,10046
-South Africa,Direct Drop,DDP,Ocean,30,146670,975355,6,0.22,13690,14213,India,8074
-Vietnam,Direct Drop,EXW,Air,100,1400,7686,5,0.05,106,1869,India,3157
-South Africa,Direct Drop,DDP,Truck,30,132,1823,13,0.46,3622,9181, Nashik,7527
-Zambia,From RDC,RDC,Truck,60,5125,77080,15,0.25,523,2949, Nashik,6339
-Mozambique,From RDC,RDC,Truck,60,100000,1122000,11,0.19,3622,9181,India,6624
-Rwanda,From RDC,RDC,Air,60,25000,280500,11,0.19,2930,41573,India,5921
-Mozambique,From RDC,RDC,Truck,60,100000,811000,8,0.14,3622,9181,India,6624
-Uganda,Direct Drop,CIP,Air,60,786,43623,55,0.92,79,1158, Haarlem,6190
-Vietnam,Direct Drop,EXW,Air,60,540,8100,15,0.25,3622,9181, Nashik,3641
-Vietnam,Direct Drop,EXW,Air,60,1652,10721,6,0.11,146,-254, Nashik,3641
-Côte d'Ivoire,From RDC,RDC,Air,60,915,6889,7,0.13,51,702,India,9091
-South Africa,Direct Drop,DDP,Truck,30,328,976,2,0.1,3622,9181,India,8074
-Mozambique,From RDC,RDC,Truck,60,164250,1409265,8,0.14,19164,13509,India,6624
-Zimbabwe,Direct Drop,FCA,Air,60,14322,85072,5,0.1,3622,9181,Germany,7939
-"Congo, DRC",From RDC,RDC,Air,30,1240,5009,4,0.13,3622,9181, Nashik,6020
-Côte d'Ivoire,From RDC,RDC,Truck,120,20440,418611,20,0.17,5450,22701, Nashik,8608
-Tanzania,Direct Drop,CIP,Air,240,132,3300,25,0.1,3622,9181,Canada,13251
-"Congo, DRC",From RDC,RDC,Air,60,28,308,11,0.18,13,-88, Nashik,6020
-"Congo, DRC",From RDC,RDC,Air,30,42,462,11,0.37,3622,9181,India,6583
-South Africa,Direct Drop,DDP,Truck,60,3,206,68,1.15,3622,9181,India,8074
-Mozambique,From RDC,RDC,Truck,60,13100,61570,4,0.08,3622,9181,India,6624
-Vietnam,Direct Drop,EXW,Air,30,23389,268739,11,0.38,2741,3802, Nashik,3641
-South Africa,Direct Drop,DDP,Air,240,26000,392080,15,0.06,3622,6707,Canada,15035
-Vietnam,Direct Drop,EXW,Air,60,408,5911,14,0.24,42,3388, Nashik,3641
-South Africa,Direct Drop,DDP,Truck,90,8,136,17,0.19,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air Charter,30,30000,291600,9,0.32,3364,6329,India,7633
-Nigeria,From RDC,RDC,Air Charter,30,10944,46183,4,0.14,726,14322,India,7633
-Haiti,From RDC,RDC,Air,60,30000,247800,8,0.14,3622,9181, Nashik,14325
-Mozambique,From RDC,RDC,Truck,60,5320,34101,6,0.11,273,4496,India,6624
-South Africa,Direct Drop,DDP,Truck,120,200,8396,41,0.35,3622,9181,Germany,8973
-Vietnam,Direct Drop,CIP,Air,60,520,3640,7,0.12,104,1658,France,9916
-Uganda,Direct Drop,EXW,Air,60,22500,52875,2,0.04,2145,7143,India,5524
-South Africa,Direct Drop,DDP,Truck,60,18,247,13,0.23,3622,9181,India,8074
-"Congo, DRC",From RDC,RDC,Air,60,1976,3438,1,0.03,3622,9181,India,6583
-Vietnam,Direct Drop,EXW,Air,30,1760,3555,2,0.07,126,-202,India,3157
-"Congo, DRC",From RDC,RDC,Air,240,10,19,1,0.01,71,334,India,6583
-Côte d'Ivoire,From RDC,RDC,Air,30,1596,3575,2,0.07,3622,9181,India,9091
-Nigeria,From RDC,RDC,Air,60,3000,22500,7,0.12,165,9181,India,7633
-Zimbabwe,From RDC,RDC,Air,60,47390,277231,5,0.1,7112,2833,India,6980
-Mozambique,From RDC,RDC,Air,60,30000,525000,17,0.29,3622,9181,India,6624
-Nigeria,From RDC,RDC,Air,60,15000,40950,2,0.05,1444,123350,India,7633
-South Africa,Direct Drop,DDP,Truck,60,408,1608,3,0.07,3622,9181,India,8074
-Côte d'Ivoire,From RDC,RDC,Air Charter,30,2340,52650,22,0.75,263,1330, Nashik,8608
-Nigeria,From RDC,RDC,Air Charter,60,80,700,8,0.15,8,9181,India,7633
-Vietnam,Direct Drop,EXW,Air,30,63421,272710,4,0.14,5101,12241, Nashik,3641
-Vietnam,Direct Drop,EXW,Air,60,12937,29755,2,0.04,875,1181,India,3157
-Uganda,Direct Drop,EXW,Air,30,205042,2458453,11,0.4,24556,145850, Nashik,4961
-Uganda,From RDC,RDC,Truck,120,8760,177127,20,0.17,1798,4856,Germany,5868
-South Africa,Direct Drop,DDP,Truck,30,7242,148900,20,0.69,3622,9181,India,8074
-Rwanda,From RDC,RDC,Air,60,373,746,2,0.03,14,284, Nashik,5355
-Haiti,From RDC,RDC,Air,240,2415,4588,1,0.01,3622,9181,India,14446
-Zambia,From RDC,RDC,Truck,30,8200,36490,4,0.15,3622,9181,India,6906
-Vietnam,Direct Drop,CIP,Air,60,320,2240,7,0.12,3622,9181,France,9916
-Zimbabwe,From RDC,RDC,Truck,60,15120,135626,8,0.15,5754,9075,India,6980
-Haiti,Direct Drop,EXW,Air,240,375,2561,6,0.03,300,1949,India,14446
-South Africa,Direct Drop,DDP,Truck,120,41,1049,25,0.21,3622,9181, Latina,7877
-Zambia,From RDC,RDC,Truck,30,16099,198017,12,0.41,2004,3356, Nashik,6339
-Nigeria,From RDC,RDC,Air Charter,60,6100,79056,12,0.22,681,15532, Nashik,7134
-Vietnam,Direct Drop,EXW,Air,60,1966,4423,2,0.04,91,143, Nashik,3641
-Zambia,Direct Drop,CIP,Air,60,5408,68952,12,0.21,1072,9181,France,7240
-South Africa,Direct Drop,DDP,Truck,30,5000,185776,37,1.24,3622,9181, Nashik,7527
-Haiti,Direct Drop,EXW,Ocean,240,1295,1955,1,0.01,536,893,India,14446
-Haiti,Direct Drop,FCA,Air,120,10,411,41,0.34,9,-193,Germany,7877
-Nigeria,Direct Drop,EXW,Air,540,34,1547,45,0.08,3622,9181,Switzerland,4123
-Côte d'Ivoire,Direct Drop,EXW,Air,30,1461,29950,20,0.68,154780,664,India,9091
-Uganda,From RDC,RDC,Air,60,589,4435,7,0.13,33,-253,India,5524
-Uganda,From RDC,RDC,Air,60,10372,119900,11,0.19,1312,13569, Nashik,4961
-South Africa,Direct Drop,DDP,Air,60,52379,132518,2,0.04,2512,3116,India,8074
-Uganda,From RDC,RDC,Air,30,867,8427,9,0.32,76,954, Nashik,4961
-Zambia,From RDC,RDC,Truck,60,15718,47154,3,0.05,3622,9181,India,6906
-Nigeria,From RDC,RDC,Air Charter,60,191230,1550875,8,0.14,27094,69210, Nashik,7134
-Nigeria,From RDC,RDC,Air,90,400,6400,16,0.18,48,260,India,7633
-South Africa,Direct Drop,DDP,Truck,60,161,1063,6,0.11,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,60,2600,16744,6,0.11,3622,9181,South Africa,0
-Uganda,From RDC,RDC,Air,30,90,2362,26,0.88,3622,9181, Port Elizabeth,3989
-Rwanda,Direct Drop,CIP,Air,60,9270,179189,19,0.32,1010,15847,India,5921
-Uganda,From RDC,RDC,Air,30,3273,44250,13,0.45,389,1786,India,5524
-Haiti,From RDC,RDC,Air,60,59952,525179,8,0.15,6967,74688,India,14446
-Zambia,From RDC,RDC,Truck,60,3600,27900,7,0.13,750,-187,India,6906
-Uganda,From RDC,RDC,Air,60,88,1038,11,0.2,10,2,India,5524
-Nigeria,From RDC,RDC,Air Charter,60,50000,386000,7,0.13,6201,11082,India,7633
-Haiti,From RDC,RDC,Air,60,120,903,7,0.13,3622,9181,India,14446
-Vietnam,Direct Drop,EXW,Air,60,14142,119075,8,0.14,1741,2821,India,3157
-Haiti,From RDC,RDC,Air,240,4810,8898,1,0.01,3622,9181,India,14446
-Uganda,Direct Drop,EXW,Air,30,1665,37462,22,0.75,420,2900, Nashik,4961
-Zimbabwe,From RDC,RDC,Truck,90,1000,9300,9,0.1,68,4,India,6980
-Côte d'Ivoire,From RDC,RDC,Air,90,1680,25636,15,0.17,3337,8936,India,9091
-Rwanda,From RDC,RDC,Air,60,3813,7435,1,0.03,3622,9181,India,5921
-Haiti,From RDC,RDC,Air,60,500,875,1,0.03,3622,9181,India,14446
-Uganda,From RDC,RDC,Truck,60,8988,100845,11,0.19,3622,9181, Nashik,4961
-Vietnam,Direct Drop,EXW,Air,60,13444,34954,2,0.04,3622,9181, Nashik,3641
-Haiti,From RDC,RDC,Air,90,1176,11842,10,0.11,3622,9181,India,14446
-Mozambique,Direct Drop,CIP,Air,60,100,5400,54,0.9,3622,9181, Latina,7096
-Côte d'Ivoire,From RDC,RDC,Air,30,1620,36450,22,0.75,3622,9181, Nashik,8608
-Zimbabwe,Direct Drop,EXW,Ocean,60,42500,341700,8,0.13,3868,15210,India,6980
-Zimbabwe,From RDC,RDC,Truck,60,69990,540322,7,0.13,6408,9181,India,6980
-Nigeria,From RDC,RDC,Air,60,40080,454908,11,0.19,4498,18480,India,7633
-Tanzania,From RDC,RDC,Air,60,2292,17694,7,0.13,617,647,India,5659
-"Congo, DRC",From RDC,RDC,Air,60,800,6608,8,0.14,3622,9181, Nashik,6020
-Côte d'Ivoire,From RDC,RDC,Truck,30,1764,6262,3,0.12,110,-293, Nashik,8608
-Rwanda,Direct Drop,EXW,Air,60,607,4880,8,0.13,66,26,India,5921
-Zimbabwe,From RDC,RDC,Truck,30,8000,16000,2,0.07,483,1947,India,6980
-Haiti,Direct Drop,EXW,Ocean,240,300,2049,6,0.03,3622,9181,India,14446
-South Africa,Direct Drop,DDP,Truck,60,240,4860,20,0.34,3622,9181,India,8074
-Mozambique,From RDC,RDC,Air,30,2933,49127,16,0.56,3622,9181,India,6624
-Uganda,From RDC,RDC,Truck,60,2368,9685,4,0.07,3622,9181,India,5524
-Rwanda,From RDC,RDC,Truck,60,26540,219220,8,0.14,3622,9181,India,5921
-Rwanda,Direct Drop,CIP,Air,30,32510,381992,11,0.39,2791,27336,India,5921
-Zimbabwe,From RDC,RDC,Truck,30,150468,1468567,9,0.33,3622,9181, Nashik,6420
-Nigeria,From RDC,RDC,Air Charter,30,62611,1247211,19,0.66,7190,12398, Nashik,7134
-Tanzania,From RDC,RDC,Truck,30,51763,884112,17,0.57,1645,9181, Nashik,5091
-South Africa,Direct Drop,DDP,Air,60,6840,73256,10,0.18,3622,9181,France,8670
-Haiti,From RDC,RDC,Air,30,1428,3198,2,0.07,83,6789,India,14446
-Côte d'Ivoire,From RDC,RDC,Truck,60,50700,391404,7,0.13,3622,9181, Nashik,8608
-Vietnam,Direct Drop,EXW,Air,60,3500,39025,11,0.19,3622,9181,India,3157
-Tanzania,From RDC,RDC,Air,60,9367,72594,7,0.13,1955,5923,India,5659
-Côte d'Ivoire,From RDC,RDC,Truck,240,5000,10500,2,0.01,3622,9181,India,9091
-Mozambique,From RDC,RDC,Truck,60,75535,492488,6,0.11,6237,4443, Nashik,6074
-Haiti,Direct Drop,CIP,Air,120,22,1465,66,0.55,3622,9181,Puerto Rico,627
-Zimbabwe,From RDC,RDC,Truck,60,1900,6460,3,0.06,3622,9181,India,6980
-South Africa,Direct Drop,DDP,Ocean,30,42131,280171,6,0.22,3622,9181,India,8074
-Rwanda,Direct Drop,CIP,Air,240,9565,18651,1,0.01,6490,2010,India,5921
-South Africa,Direct Drop,DDP,Air,60,1500,15150,10,0.17,3622,9181,France,8670
-Vietnam,Direct Drop,FCA,Air,120,434,35674,82,0.68,113,1709,Germany,9157
-South Africa,Direct Drop,DDP,Truck,60,203,1855,9,0.15,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,30,5,71,14,0.47,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air,60,1132,8716,7,0.13,3622,9181,India,7633
-Vietnam,Direct Drop,EXW,Air,60,1200,13308,11,0.18,128,69, Nashik,3641
-Zimbabwe,From RDC,RDC,Truck,30,43715,202400,4,0.15,3622,9181,India,6980
-South Africa,Direct Drop,DDP,Truck,30,3,57,19,0.64,3622,9181, Nashik,7527
-South Africa,Direct Drop,DDP,Ocean,60,1033,7571,7,0.12,52,3295,India,8074
-Rwanda,Direct Drop,CIP,Air,60,38736,348624,9,0.15,3080,32235, Nashik,5355
-Haiti,From RDC,RDC,Air,180,98,1662,16,0.09,28,-12, Haarlem,7467
-Côte d'Ivoire,Direct Drop,EXW,Air,60,3136,94080,30,0.5,492,4150, Nashik,8608
-Tanzania,Direct Drop,FCA,Air,120,2855,103236,36,0.3,3622,9181,Germany,6837
-Nigeria,From RDC,RDC,Air Charter,120,17497,512837,29,0.24,4898,17461,India,7633
-Zimbabwe,From RDC,RDC,Truck,60,71030,333841,4,0.08,3622,9181,India,6980
-South Africa,Direct Drop,DDP,Truck,60,320,1475,4,0.08,3622,9181,France,8670
-Uganda,From RDC,RDC,Truck,60,4466,11522,2,0.04,3622,9181,India,5524
-Zambia,From RDC,RDC,Truck,30,66075,592692,8,0.3,5727,13325, Nashik,6339
-South Africa,Direct Drop,DDP,Truck,120,1473,36814,24,0.21,3622,9181,Germany,8973
-Nigeria,From RDC,RDC,Air Charter,60,1722,19320,11,0.19,202,9181,India,7633
-Nigeria,From RDC,RDC,Air Charter,90,16,203,12,0.14,3622,9181,India,7633
-South Africa,Direct Drop,DDP,Ocean,30,55000,131450,2,0.08,3099,6321,India,8074
-Uganda,Direct Drop,DDP,Air,120,165,15140,91,0.76,24,-703, Port Elizabeth,3989
-Nigeria,From RDC,RDC,Air Charter,90,1220,11821,9,0.11,169,12398,India,7633
-Haiti,Direct Drop,CIP,Air,60,120,6660,55,0.92,11,-740, Haarlem,7467
-South Africa,Direct Drop,DDP,Truck,120,3,209,69,0.58,3622,9181, Latina,7877
-Haiti,Direct Drop,FCA,Air,60,80,475,5,0.1,8,-263,Germany,7877
-Côte d'Ivoire,From RDC,RDC,Air,60,10000,118000,11,0.2,1456,4048,India,9091
-Mozambique,From RDC,RDC,Air,90,720,10987,15,0.17,3622,9181,India,6624
-Tanzania,From RDC,RDC,Truck,60,233630,1929783,8,0.14,21394,12590,India,5659
-Nigeria,From RDC,RDC,Air Charter,60,15944,181761,11,0.19,1793,10492,India,7633
-Nigeria,From RDC,RDC,Air,60,9483,108106,11,0.19,1079,9823,India,7633
-Uganda,From RDC,RDC,Truck,120,3663,69230,18,0.16,3622,9181,Germany,5868
-Haiti,From RDC,RDC,Air,60,4305,6543,1,0.03,3622,9181,India,14446
-Nigeria,From RDC,RDC,Air Charter,60,145235,1177855,8,0.14,3622,9181,India,7633
-Haiti,From RDC,RDC,Air,90,105,1680,16,0.18,14,15,India,14446
-Haiti,From RDC,RDC,Air,60,4860,7241,1,0.02,2034,22441,India,14446
-Zimbabwe,From RDC,RDC,Truck,30,78082,432574,5,0.18,3622,9181, Nashik,6420
-South Africa,Direct Drop,DDP,Truck,90,12,264,22,0.25,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air,30,24799,132922,5,0.18,3622,9181,India,7633
-South Africa,Direct Drop,DDP,Truck,240,8,141,17,0.07,3622,9181,India,8074
-Rwanda,Direct Drop,CIP,Air,60,26100,424125,16,0.27,2586,170, Nashik,5355
-"Congo, DRC",From RDC,RDC,Air,240,620,1209,1,0.01,3622,9181,India,6583
-Nigeria,From RDC,RDC,Air,60,969,3779,3,0.06,71,181, Nashik,7134
-South Africa,Direct Drop,DDP,Truck,60,10,123,12,0.21,3622,9181,France,8670
-Côte d'Ivoire,From RDC,RDC,Truck,60,145000,1119400,7,0.13,16614,23788,India,9091
-Côte d'Ivoire,From RDC,RDC,Air,30,4080,107100,26,0.88,3622,9181, Port Elizabeth,5690
-Nigeria,Direct Drop,EXW,Air,30,1200,1836,1,0.05,52,-572,India,7633
-Zambia,Direct Drop,EXW,Air,30,60784,1018132,16,0.56,11179,48824,India,6906
-Rwanda,Direct Drop,CIP,Air,60,100000,700000,7,0.12,10303,34034,India,5921
-Tanzania,From RDC,RDC,Air,240,2335,29187,12,0.05,9523,9181,India,5659
-Zimbabwe,From RDC,RDC,Truck,60,1883,6025,3,0.05,3622,9181,India,6980
-South Africa,Direct Drop,DDP,Air,60,100,371,3,0.06,3622,9181,France,8670
-Zambia,From RDC,RDC,Truck,30,27941,307351,11,0.37,1970,5759,India,6906
-South Africa,Direct Drop,DDP,Air,240,30,323,10,0.04,3622,9181,Germany,8973
-South Africa,Direct Drop,DDP,Truck,60,35,1874,53,0.89,3622,9181,India,8074
-Mozambique,From RDC,RDC,Truck,240,4000,8400,2,0.01,1137,3711,India,6624
-Mozambique,Direct Drop,CIP,Air,60,52,2886,55,0.92,3622,9181, Haarlem,8465
-Nigeria,From RDC,RDC,Air Charter,30,361,2317,6,0.21,40,14322, Nashik,7134
-Nigeria,From RDC,RDC,Air Charter,60,54125,607282,11,0.19,7050,5147,India,7633
-Haiti,From RDC,RDC,Air,240,9187,19292,2,0.01,3435,39301,India,14446
-Zimbabwe,From RDC,RDC,Truck,90,819,7616,9,0.1,58,551,India,6980
-Haiti,From RDC,RDC,Air,240,8768,18412,2,0.01,10030,95669,India,14446
-Tanzania,From RDC,RDC,Truck,60,42141,157185,3,0.06,3622,9181, Nashik,5091
-Nigeria,From RDC,RDC,Air Charter,60,52378,404358,7,0.13,7666,15532,India,7633
-"Congo, DRC",From RDC,RDC,Air,30,2955,9485,3,0.11,3622,9181,India,6583
-Côte d'Ivoire,From RDC,RDC,Truck,60,7273,60074,8,0.14,650,3029,India,9091
-Nigeria,From RDC,RDC,Air Charter,90,2067,17858,8,0.1,307,16090,India,7633
-Zimbabwe,From RDC,RDC,Truck,30,97100,856422,8,0.29,14340,15222, Nashik,6420
-Côte d'Ivoire,From RDC,RDC,Air,240,2345,4455,1,0.01,3622,9181,India,9091
-Nigeria,From RDC,RDC,Air,60,1747,15303,8,0.15,148,12, Nashik,7134
-Zambia,From RDC,RDC,Air,30,22260,244860,11,0.37,1921,1448,India,6906
-Vietnam,Direct Drop,EXW,Air,60,15040,86329,5,0.1,1481,5390,India,3157
-"Congo, DRC",From RDC,RDC,Air,60,1850,6937,3,0.06,3622,9181,India,6583
-Zambia,From RDC,RDC,Truck,30,61059,352921,5,0.19,4305,8935,India,6906
-Nigeria,From RDC,RDC,Air,60,4674,40944,8,0.15,376,9181, Nashik,7134
-Mozambique,Direct Drop,CIP,Air,60,54,2997,55,0.92,3622,9181, Haarlem,8465
-Côte d'Ivoire,From RDC,RDC,Air,60,17621,59911,3,0.06,1650,2428,India,9091
-South Africa,Direct Drop,DDP,Truck,30,6,100,16,0.56,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air Charter,120,41943,781817,18,0.16,10322,13266,Germany,4614
-South Africa,Direct Drop,DDP,Air,60,200,2998,14,0.25,3622,9181,India,8074
-Haiti,Direct Drop,EXW,Ocean,30,3260,9714,2,0.1,3622,9181,India,14446
-Zimbabwe,From RDC,RDC,Air,60,37240,275576,7,0.12,3622,9181,India,6980
-Nigeria,From RDC,RDC,Air Charter,60,10000,93500,9,0.16,905,14128,India,7633
-Zambia,From RDC,RDC,Truck,60,50000,472500,9,0.16,3622,9181,India,6906
-Mozambique,From RDC,RDC,Truck,60,538,753,1,0.02,43,-112,India,6624
-Zambia,From RDC,RDC,Truck,60,21678,50509,2,0.04,1084,3471,India,6906
-Côte d'Ivoire,From RDC,RDC,Air Charter,60,57061,471323,8,0.14,3622,9181,India,9091
-Côte d'Ivoire,From RDC,RDC,Air,60,6930,176368,25,0.42,687,854, Nashik,8608
-South Africa,Direct Drop,DDP,Ocean,30,52516,236847,4,0.15,3622,9181,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,30,45108,214263,4,0.16,9863,18150,India,9091
-Vietnam,Direct Drop,EXW,Air,60,20651,227161,11,0.18,2367,9648,India,3157
-Côte d'Ivoire,From RDC,RDC,Air,60,2313,34787,15,0.25,3622,9181, Nashik,8608
-Uganda,From RDC,RDC,Truck,30,192,775,4,0.13,3622,9181, Nashik,4961
-Haiti,Direct Drop,CIP,Air,180,192,3256,16,0.09,54,-710, Haarlem,7467
-Uganda,From RDC,RDC,Air,120,100,4110,41,0.34,23,152,Germany,5868
-Côte d'Ivoire,From RDC,RDC,Truck,60,92352,1036189,11,0.19,10832,2641,India,9091
-Zimbabwe,From RDC,RDC,Truck,60,3453,6560,1,0.03,687,2403,India,6980
-Vietnam,Direct Drop,EXW,Air,240,136,251,1,0.01,173,79,India,3157
-Rwanda,Direct Drop,EXW,Air,30,1728,34560,20,0.67,3622,9181,India,5921
-Nigeria,From RDC,RDC,Air Charter,60,1500,11250,7,0.12,120,9181, Nashik,7134
-Zimbabwe,From RDC,RDC,Truck,60,4669,14940,3,0.05,3622,9181,India,6980
-South Africa,Direct Drop,DDP,Truck,60,189,1248,6,0.11,3622,9181,India,8074
-Zambia,From RDC,RDC,Truck,60,41768,92307,2,0.04,2599,2427,India,6906
-South Africa,Direct Drop,DDP,Truck,200,120,733,6,0.03,3622,9181,Canada,15035
-Zimbabwe,From RDC,RDC,Truck,30,810,11307,13,0.47,52,600, Nashik,6420
-South Africa,Direct Drop,DDP,Truck,240,300,2040,6,0.03,3622,9181,Canada,15035
-South Africa,Direct Drop,DDP,Ocean,30,57577,404766,7,0.23,3950,5639,India,8074
-Uganda,Direct Drop,CIP,Air,120,108,3888,36,0.3,22,-735, Latina,4823
-Rwanda,From RDC,RDC,Truck,240,2216,4121,1,0.01,1412,3609,India,5921
-Côte d'Ivoire,Direct Drop,CIP,Air,180,1000,50000,50,0.28,254,-119, Haarlem,5009
-Mozambique,From RDC,RDC,Truck,60,3386,38024,11,0.19,15942,3768, Nashik,6074
-South Africa,Direct Drop,DDP,Truck,30,6,102,17,0.57,3622,9181,India,8074
-Zimbabwe,From RDC,RDC,Truck,240,435,5254,12,0.05,116,2100,India,6980
-Nigeria,From RDC,RDC,Air,200,36,50,1,0.01,4,-143,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,60,12169,136536,11,0.19,7916,20397,India,9091
-Tanzania,Direct Drop,EXW,Air,60,28663,74523,2,0.04,3380,16603,India,5659
-Uganda,From RDC,RDC,Air,60,36000,87840,2,0.04,2026,9095,India,5524
-South Africa,Direct Drop,DDP,Truck,60,121,2368,19,0.33,3622,9181,India,8074
-Nigeria,From RDC,RDC,Air Charter,60,45,109,2,0.04,3622,9181,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,30,12446,51277,4,0.14,3622,9181,India,9091
-South Africa,Direct Drop,DDP,Truck,240,40,557,13,0.06,3622,9181,Germany,8973
-Vietnam,Direct Drop,EXW,Air,30,16800,171192,10,0.34,1224,3686, Nashik,3641
-South Africa,Direct Drop,DDP,Ocean,30,17701,79831,4,0.15,1552,17114,India,8074
-Côte d'Ivoire,From RDC,RDC,Air,60,3847,28467,7,0.12,408,514,India,9091
-Haiti,From RDC,RDC,Air,60,120,180,1,0.02,3622,9181,India,14446
-Zambia,From RDC,RDC,Air,60,6000,46260,7,0.13,341,1219,India,6906
-Rwanda,Direct Drop,CIP,Air,30,22347,390625,17,0.58,3622,9181, Nashik,5355
-Mozambique,From RDC,RDC,Truck,60,1890,4573,2,0.04,4145,6433,India,6624
-South Africa,Direct Drop,DDP,Truck,30,39,471,12,0.4,3622,9181,India,8074
-Mozambique,From RDC,RDC,Air,60,32067,230882,7,0.12,2382,2671,India,6624
-Côte d'Ivoire,From RDC,RDC,Air,240,819,1556,1,0.01,284,668,India,9091
-Côte d'Ivoire,From RDC,RDC,Air,60,6200,70432,11,0.19,3622,9181,India,9091
-Tanzania,From RDC,RDC,Air,60,11807,42150,3,0.06,1050,2291,India,5659
-Nigeria,From RDC,RDC,Air Charter,30,188,893,4,0.16,17,8736,India,7633
-Mozambique,From RDC,RDC,Truck,30,23450,101304,4,0.14,2068,2936,India,6624
-Tanzania,From RDC,RDC,Truck,120,16114,472301,29,0.24,4256,5052, Nashik,5091
-Côte d'Ivoire,From RDC,RDC,Truck,60,9577,92130,9,0.16,6889,23138,India,9091
-Nigeria,From RDC,RDC,Air,60,30,225,7,0.12,2,9181,India,7633
-South Africa,Direct Drop,DDP,Air,240,32000,320640,10,0.04,12264,9277,Canada,15035
-Haiti,Direct Drop,EXW,Air,30,48,960,20,0.67,4,-30,India,14446
-South Africa,Direct Drop,DDP,Truck,120,12,425,35,0.3,3622,9181, Latina,7877
-Vietnam,Direct Drop,EXW,Air,60,5700,36993,6,0.11,498,477, Nashik,3641
-Côte d'Ivoire,From RDC,RDC,Air,30,7140,119452,16,0.56,779,3646, Nashik,8608
-Zambia,From RDC,RDC,Truck,30,10000,167300,16,0.56,1133,5079, Nashik,6339
-Nigeria,From RDC,RDC,Air Charter,30,671,17613,26,0.88,59,6445, Port Elizabeth,5168
-Vietnam,Direct Drop,EXW,Air,60,10080,29232,2,0.05,507,3159,India,3157
-Zimbabwe,Direct Drop,EXW,Air,60,814,0,0,0.0,60,344, Nashik,6420
-Côte d'Ivoire,From RDC,RDC,Air,60,11994,39340,3,0.05,3622,9181, Nashik,8608
-Uganda,From RDC,RDC,Air,60,1650,22275,13,0.22,197,637,India,5524
-Haiti,Direct Drop,EXW,Air,100,15,6000,400,4.0,36,195,Thailand,16167
-Zimbabwe,From RDC,RDC,Truck,30,8000,16000,2,0.07,8855,28883,India,6980
-Haiti,Direct Drop,FCA,Air,60,300,2712,9,0.15,44,75,Germany,7877
-Zambia,From RDC,RDC,Air,30,69811,423752,6,0.2,7632,49626, Nashik,6339
-Côte d'Ivoire,From RDC,RDC,Truck,60,55995,365087,6,0.11,4899,18497,India,9091
-Nigeria,From RDC,RDC,Air Charter,60,70000,272300,3,0.06,3376,28674,India,7633
-Tanzania,Direct Drop,EXW,Air,60,426,11114,26,0.43,45,13,India,5659
-Mozambique,From RDC,RDC,Truck,60,2484,21759,8,0.15,2078,1400,India,6624
-Nigeria,From RDC,RDC,Air,60,6002,20406,3,0.06,3622,9181,India,7633
-Vietnam,Direct Drop,EXW,Air,30,252,3276,13,0.43,1553,12320,India,3157
-South Africa,Direct Drop,DDP,Air,200,1320,1504,1,0.01,3622,9181,France,8670
-Vietnam,Direct Drop,FCA,Air,30,400,9304,23,0.78,3622,9181,Germany,9157
-South Africa,Direct Drop,DDP,Truck,60,1000,4890,4,0.08,3622,9181,France,8670
-Zambia,From RDC,RDC,Truck,30,53787,697079,12,0.43,6342,41040,India,6906
-Haiti,Direct Drop,EXW,Air,30,29908,89125,2,0.1,2423,13650,India,14446
-Nigeria,From RDC,RDC,Air,30,31560,418801,13,0.44,3856,14459, Nashik,7134
-Côte d'Ivoire,From RDC,RDC,Truck,120,15119,305706,20,0.17,7541,26875,Germany,5008
-Zambia,From RDC,RDC,Truck,30,61060,251567,4,0.14,3718,18949,India,6906
-"Congo, DRC",From RDC,RDC,Air,240,6172,12035,1,0.01,3622,9181,India,6583
-South Africa,Direct Drop,DDP,Air,240,350,1781,5,0.02,3622,9181,Canada,15035
-Tanzania,From RDC,RDC,Truck,30,43040,283633,6,0.22,3622,9181, Nashik,5091
-Zambia,Direct Drop,EXW,Air,60,40000,240000,6,0.1,3533,19188,India,6906
-South Africa,Direct Drop,DDP,Truck,60,24,329,13,0.23,3622,9181,India,8074
-Côte d'Ivoire,From RDC,RDC,Truck,30,38160,506383,13,0.44,3622,9181, Nashik,8608
-South Africa,Direct Drop,DDP,Truck,30,13,438,33,1.12,3622,9181,India,8074
-Vietnam,Direct Drop,EXW,Air,30,300,3900,13,0.43,21,2657,India,3157
-Nigeria,From RDC,RDC,Air,60,2000,11460,5,0.1,3622,9181,India,7633
-South Africa,Direct Drop,DDP,Ocean,60,185954,459306,2,0.04,9019,12677,India,8074
-Nigeria,From RDC,RDC,Air Charter,90,15,190,12,0.14,3622,9181,India,7633
-Haiti,Direct Drop,EXW,Air,30,75000,768000,10,0.34,9057,54886, Nashik,14325
-Tanzania,Direct Drop,EXW,Air,30,20867,32552,1,0.05,1337,7403,India,5659
-South Africa,Direct Drop,DDP,Truck,30,3,8,3,0.1,3622,9181,India,8074
-Zambia,From RDC,RDC,Truck,30,60000,862800,14,0.48,3622,9181, Nashik,6339
-Vietnam,Direct Drop,EXW,Air,30,22500,277425,12,0.41,2895,17045,India,3157
-Zimbabwe,From RDC,RDC,Air,30,1860,23101,12,0.41,3622,9181,India,6980
-Uganda,From RDC,RDC,Air,60,1524,4876,3,0.05,3622,9181,India,5524
-Vietnam,Direct Drop,EXW,Air,60,10000,81000,8,0.13,3622,9181, Nashik,3641
-South Africa,Direct Drop,DDP,Ocean,30,12346,84693,6,0.23,820,8177,India,8074
-Vietnam,Direct Drop,FCA,Air,120,560,46032,82,0.68,83,-564,Germany,9157
-Rwanda,From RDC,RDC,Air,30,3234,42915,13,0.44,3622,9181, Nashik,5355
-Rwanda,From RDC,RDC,Air,30,50400,197064,3,0.13,3090,15603,India,5921
-Rwanda,From RDC,RDC,Air,60,29880,232466,7,0.13,2699,15152,India,5921
-Mozambique,From RDC,RDC,Truck,30,1040,3338,3,0.11,3622,9181,India,6624
-Nigeria,From RDC,RDC,Air,240,965,5983,6,0.03,3622,9181,India,7633
-South Africa,Direct Drop,DDP,Ocean,240,2244,20824,9,0.04,870,2755,Canada,15035
-Tanzania,Direct Drop,EXW,Air,60,7255,58983,8,0.14,917,3676,India,5659
-Uganda,From RDC,RDC,Truck,120,5337,100869,18,0.16,1089,2730,Germany,5868
-Zambia,From RDC,RDC,Truck,60,4200,32550,7,0.13,867,1938,India,6906
-Rwanda,From RDC,RDC,Truck,60,64000,144640,2,0.04,3887,20032,India,5921
-Haiti,From RDC,RDC,Air,60,990,7454,7,0.13,109,9331,India,14446
-Zimbabwe,From RDC,RDC,Truck,60,11574,127314,11,0.18,3622,9181,India,6980
-Zambia,From RDC,RDC,Truck,60,61154,133315,2,0.04,7957,9181,India,6906
-Côte d'Ivoire,Direct Drop,EXW,Air,60,2432,72960,30,0.5,403,4714, Nashik,8608
-South Africa,Direct Drop,DDP,Air,240,1000,3550,3,0.01,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Truck,60,22,543,24,0.41,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Ocean,30,118537,534601,4,0.15,10373,-370,India,8074
-Mozambique,From RDC,RDC,Air,60,69685,781865,11,0.19,3622,9181, Nashik,6074
-Zambia,From RDC,RDC,Truck,30,78787,1021079,12,0.43,9347,9181, Nashik,6339
-Nigeria,From RDC,RDC,Air Charter,30,2200,13684,6,0.21,3622,9181,India,7633
-Mozambique,From RDC,RDC,Truck,120,12960,262051,20,0.17,3622,9181,Germany,8163
-Nigeria,From RDC,RDC,Air,30,6,157,26,0.88,3622,9181, Port Elizabeth,5168
-Uganda,From RDC,RDC,Truck,60,42717,366511,8,0.14,5732,24118,India,5524
-Uganda,Direct Drop,EXW,Air,60,6349,21269,3,0.06,369,1623,India,5524
-Côte d'Ivoire,From RDC,RDC,Truck,60,8100,18873,2,0.04,387,2296,India,9091
-Nigeria,From RDC,RDC,Air Charter,60,40000,448800,11,0.19,4693,8736,India,7633
-Mozambique,From RDC,RDC,Air,30,25913,434042,16,0.56,3622,9181,India,6624
-Vietnam,Direct Drop,EXW,Air,60,24349,267839,11,0.18,2799,10838,India,3157
-South Africa,Direct Drop,DDP,Truck,60,24,551,23,0.38,3622,9181,India,8074
-South Africa,Direct Drop,DDP,Air,60,11672,35016,3,0.05,3622,9181,India,8074
-Rwanda,Direct Drop,EXW,Air,30,24666,443988,18,0.6,3622,9181,India,5921
-South Africa,Direct Drop,DDP,Air,60,5000,27450,5,0.09,3622,9181,India,8074
-Uganda,From RDC,RDC,Air,60,16,152,9,0.16,3622,9181,India,5524
-South Africa,Direct Drop,DDP,Truck,240,42,870,20,0.09,3622,9181,Canada,15035
-Mozambique,From RDC,RDC,Truck,60,440,765,1,0.03,27,-200,India,6624
-Haiti,From RDC,RDC,Air,30,1446,3239,2,0.07,83,608,India,14446
-Vietnam,Direct Drop,FCA,Air,120,3885,236285,60,0.51,930,7303,Germany,9157
-South Africa,Direct Drop,DDP,Ocean,30,80381,555432,6,0.23,7503,5147,India,8074
-Nigeria,From RDC,RDC,Air Charter,30,500,4070,8,0.27,28,9181, Nashik,7134
-Nigeria,From RDC,RDC,Air,30,1200,14904,12,0.41,3622,9181,India,7633
-South Africa,Direct Drop,DDP,Ocean,60,131138,323910,2,0.04,6360,11225,India,8074
-Mozambique,From RDC,RDC,Air,60,10808,127534,11,0.2,1320,5759, Nashik,6074
-Vietnam,Direct Drop,EXW,Air,60,591,6737,11,0.19,36,-570,India,3157
-Côte d'Ivoire,From RDC,RDC,Air,60,27224,254544,9,0.16,2506,22382,India,9091
-South Africa,Direct Drop,DDP,Truck,90,3,14,4,0.06,3622,9181,France,8670
-Rwanda,Direct Drop,CIP,Air,60,34464,310176,9,0.15,2768,28603, Nashik,5355
-Haiti,Direct Drop,EXW,Air,60,384,1121,2,0.05,20,-50,India,14446
-South Africa,Direct Drop,DDP,Truck,60,10,162,16,0.27,3622,9181,France,8670
-Mozambique,From RDC,RDC,Truck,60,35533,153502,4,0.07,7654,6928,India,6624
-Nigeria,From RDC,RDC,Air Charter,60,14000,108080,7,0.13,1983,3065,India,7633
-Nigeria,From RDC,RDC,Air,30,75159,751590,10,0.33,6773,9181, Nashik,7134
-Côte d'Ivoire,From RDC,RDC,Truck,240,4000,7960,1,0.01,10413,38599,India,9091
-Mozambique,From RDC,RDC,Air,200,165,239,1,0.01,15,-650,India,6624
-Uganda,Direct Drop,EXW,Air,60,60678,491491,8,0.13,8402,27304, Nashik,4961
-Vietnam,Direct Drop,EXW,Air,60,23355,54884,2,0.04,1073,4221,India,3157
-Zimbabwe,From RDC,RDC,Truck,60,35061,237012,6,0.11,2247,7194,India,6980
-Nigeria,From RDC,RDC,Air,60,200000,484000,2,0.04,12028,14459,India,7633
-Côte d'Ivoire,From RDC,RDC,Air,30,300,5976,19,0.66,3622,9181, Nashik,8608
-Nigeria,From RDC,RDC,Air,60,1500,2280,1,0.03,178,621,India,7633
-"Congo, DRC",From RDC,RDC,Air,240,151,294,1,0.01,3622,9181,India,6583
-South Africa,Direct Drop,DDP,Truck,200,6,78,13,0.07,3622,9181,France,8670
-Nigeria,From RDC,RDC,Air Charter,60,150000,1158000,7,0.13,3622,9181,India,7633
-South Africa,Direct Drop,DDP,Ocean,30,32083,144694,4,0.15,2808,-370,India,8074
-Vietnam,Direct Drop,EXW,Air,60,16800,43680,2,0.04,3622,9181, Nashik,3641
-Uganda,From RDC,RDC,Air,30,3000,13350,4,0.15,3622,9181,India,5524
-Zimbabwe,From RDC,RDC,Truck,60,166571,599655,3,0.06,3622,9181,India,6980
-South Africa,Direct Drop,DDP,Truck,30,300,7080,23,0.79,3622,9181, Port Elizabeth,573
-Haiti,From RDC,RDC,Air,60,4000,26400,6,0.11,305,2282, Nashik,14325
-Rwanda,Direct Drop,CIP,Air,30,276,2362,8,0.29,26,1187,India,5921
-Tanzania,Direct Drop,EXW,Air,30,11912,18582,1,0.05,802,4740,India,5659
-Côte d'Ivoire,From RDC,RDC,Air,60,214,1874,8,0.15,19,133,India,9091
-Uganda,From RDC,RDC,Air,30,328,8610,26,0.88,3622,9181, Port Elizabeth,3989
-South Africa,Direct Drop,DDP,Truck,60,20,256,12,0.21,3622,9181,India,8074
-Rwanda,Direct Drop,EXW,Air,30,1008,20160,20,0.67,213,2024,India,5921
-Nigeria,Direct Drop,EXW,Air,540,30,1207,40,0.07,1295,7423,Switzerland,4123
-Zambia,From RDC,RDC,Truck,60,4000,7960,1,0.03,312,-726,India,6906
-Zambia,From RDC,RDC,Truck,60,5410,70113,12,0.22,3622,9181,India,6906
-Zimbabwe,From RDC,RDC,Air,60,37240,275576,7,0.12,7806,44047,India,6980
-"Congo, DRC",From RDC,RDC,Air,60,3000,16500,5,0.09,3622,9181, Nashik,6020
-Zambia,From RDC,RDC,Truck,30,220002,2585023,11,0.39,20364,30373, Nashik,6339
-South Africa,Direct Drop,DDP,Air,200,140,833,5,0.03,3622,9181,Canada,15035
-Rwanda,From RDC,RDC,Air,60,12548,165006,13,0.22,1297,20520, Nashik,5355
-Côte d'Ivoire,Direct Drop,EXW,Air,30,827,9097,11,0.37,72,721,India,9091
-Vietnam,Direct Drop,EXW,Air,60,9030,95718,10,0.18,1054,4726,India,3157
-Tanzania,From RDC,RDC,Truck,60,46163,436240,9,0.16,4237,2482,India,5659
+country,vendor,shipment_mode,unit_of_measure,line_item_quantity,line_item_value,pack_price,unit_price,weight,freight_cost,location,distance
+South Africa,DDP,Ocean,30,91772,390948,4,0.14,7797,6292,India,8074
+Nigeria,RDC,Air Charter,30,249986,2787343,11,0.37,3622,9181, Nashik,7134
+Zimbabwe,RDC,Truck,60,53733,148303,2,0.05,2232,5933, Nashik,6420
+Haiti,RDC,Air,60,1057,3593,3,0.06,100,651,India,14446
+South Africa,DDP,Truck,200,1200,2796,2,0.01,3622,9181,India,8074
+South Africa,DDP,Truck,240,8,141,17,0.07,3622,9181,India,8074
+Côte d'Ivoire,RDC,Air,240,5527,11606,2,0.01,5317,10005,India,9091
+Nigeria,RDC,Air Charter,60,234519,1810486,7,0.13,51833,106573,India,7633
+"Congo, DRC",RDC,Air,60,715,8029,11,0.19,116,-109, Nashik,6020
+Nigeria,RDC,Air Charter,30,29349,258858,8,0.29,2808,12398, Nashik,7134
+Tanzania,CIP,Air,30,2597,61470,23,0.79,117,-355,France,6771
+Zambia,RDC,Truck,30,5000,60050,12,0.4,4247,7231, Nashik,6339
+South Africa,DDP,Truck,240,40,656,16,0.07,3622,9181,Canada,15035
+"Congo, DRC",RDC,Air,60,820,4173,5,0.08,3622,9181,India,6583
+Haiti,RDC,Air,240,2135,4205,1,0.01,3622,9181,India,14446
+Haiti,EXW,Air,60,1217,8239,6,0.11,124,-24,India,14446
+Côte d'Ivoire,CIP,Air,60,546,3822,7,0.12,108,9181,France,4338
+Vietnam,EXW,Air,60,800,1400,1,0.03,3622,9181,India,3157
+Nigeria,RDC,Air Charter,120,56260,1137577,20,0.17,12427,19225,Germany,4614
+South Africa,DDP,Truck,30,42,507,12,0.4,3622,9181,India,8074
+Uganda,RDC,Truck,60,6384,22982,3,0.06,382,587, Nashik,4961
+Zimbabwe,RDC,Truck,60,11574,119096,10,0.17,3622,9181, Nashik,6420
+Haiti,RDC,Air,60,32850,95265,2,0.05,3917,38223,India,14446
+Vietnam,FCA,Air,30,450,10467,23,0.78,3622,9181,Germany,9157
+Rwanda,EXW,Air,60,912,18240,20,0.33,102,600,India,5921
+South Africa,DDP,Air,30,54247,424211,7,0.26,3728,2646,India,8074
+Vietnam,EXW,Air,30,150,1950,13,0.43,30,3111,India,3157
+South Africa,DDP,Air,200,40,48,1,0.01,3622,9181,France,8670
+Uganda,FCA,Air,60,1000,5940,5,0.1,116,105,Germany,5868
+Côte d'Ivoire,CIP,Air,60,5721,145885,25,0.42,1232,9181,France,4338
+Nigeria,RDC,Air Charter,30,240,2820,11,0.39,22,8341, Nashik,7134
+Tanzania,FCA,Air,120,7145,258363,36,0.3,1604,8915,Germany,6837
+Uganda,RDC,Truck,60,4226,34906,8,0.14,8,9891,India,5524
+Zambia,RDC,Truck,30,100000,2625000,26,0.88,88190,10519, Port Elizabeth,2162
+Tanzania,RDC,Truck,120,25024,733453,29,0.24,30606,8601, Nashik,5091
+Nigeria,RDC,Air Charter,30,18354,151053,8,0.27,1794,20326, Nashik,7134
+Vietnam,EXW,Air,60,1416,10266,7,0.12,3622,9181, Nashik,3641
+Tanzania,RDC,Truck,30,75000,900750,12,0.4,15566,8330,India,5659
+Uganda,RDC,Air,60,2084,19798,9,0.16,237,154,India,5524
+Tanzania,RDC,Air,120,3000,123300,41,0.34,1422,3198,Germany,6837
+Nigeria,EXW,Air,30,10717,192906,18,0.6,1400,10732,India,7633
+Vietnam,EXW,Air,60,4000,9000,2,0.04,3622,9181,India,3157
+Côte d'Ivoire,RDC,Truck,60,4800,10704,2,0.04,216,3017,India,9091
+South Africa,DDP,Air,30,500,8820,17,0.59,3622,9181, Port Elizabeth,573
+South Africa,DDP,Truck,240,3,15,5,0.02,3622,9181,India,8074
+Rwanda,RDC,Truck,90,2900,23954,8,0.09,5621,9640,India,5921
+South Africa,DDP,Truck,60,16,499,31,0.52,3622,9181,India,8074
+Tanzania,EXW,Air,60,6934,18028,2,0.04,820,17044,India,5659
+Côte d'Ivoire,RDC,Air,240,5536,10629,1,0.01,3622,9181,India,9091
+Uganda,EXW,Air,100,10368,13478,1,0.01,3622,9181,India,5524
+Haiti,FCA,Air,60,200,1900,9,0.16,94,-243,France,7294
+Vietnam,FCA,Air,120,1435,117957,82,0.68,355,4101,Germany,9157
+Vietnam,EXW,Air,60,20000,129800,6,0.11,1748,2868, Nashik,3641
+Nigeria,RDC,Air Charter,60,306992,2369978,7,0.13,3622,9181,India,7633
+Vietnam,FCA,Air,30,450,10467,23,0.78,56,-480,Germany,9157
+Mozambique,RDC,Truck,240,9400,18988,2,0.01,3642,4678,India,6624
+Mozambique,RDC,Air,60,17618,126849,7,0.12,3622,9181,India,6624
+Vietnam,EXW,Air,240,500,950,1,0.01,3622,9181,India,3157
+Côte d'Ivoire,RDC,Air,30,39144,174190,4,0.15,3622,9181,India,9091
+Rwanda,FCA,Air,60,1395,10755,7,0.13,188,2035,Germany,6174
+Côte d'Ivoire,RDC,Air,60,7744,297059,38,0.64,3622,9181,India,9091
+Vietnam,EXW,Air,240,1000,2100,2,0.01,3622,9181,India,3157
+"Congo, DRC",RDC,Air,60,22,56,2,0.04,3622,9181,India,6583
+Haiti,EXW,Air,60,19835,160663,8,0.13,2866,16036,India,14446
+Tanzania,RDC,Truck,60,13499,58045,4,0.07,3622,9181,India,5659
+Rwanda,RDC,Air,30,720,3470,4,0.16,49,110, Nashik,5355
+Vietnam,FCA,Air,120,4800,291936,60,0.51,1175,779,Germany,9157
+Côte d'Ivoire,RDC,Air,120,403,16563,41,0.34,88,603,Germany,5008
+South Africa,DDP,Ocean,30,128467,581955,4,0.15,11033,10203,India,8074
+Nigeria,RDC,Air Charter,60,64995,163137,2,0.04,4618,12398,India,7633
+Uganda,RDC,Truck,60,6000,11520,1,0.03,11732,9181,India,5524
+Zimbabwe,RDC,Truck,60,20000,48800,2,0.04,3622,9181,India,6980
+Nigeria,RDC,Air Charter,30,41665,296238,7,0.24,5110,17461,India,7633
+South Africa,DDP,Truck,60,1,61,61,1.02,3622,9181, Haarlem,9211
+Côte d'Ivoire,RDC,Truck,30,9920,108326,10,0.36,3622,9181, Nashik,8608
+South Africa,DDP,Air,60,20213,50734,2,0.04,3622,9181,India,8074
+Côte d'Ivoire,RDC,Air,240,7284,14713,2,0.01,3622,9181,India,9091
+Vietnam,EXW,Air,30,19000,323000,17,0.57,1520,18044,India,3157
+Tanzania,EXW,Air,60,33022,268468,8,0.14,4190,15066,India,5659
+Uganda,CIP,Air,180,153,7650,50,0.28,34,-605, Haarlem,6190
+South Africa,DDP,Truck,60,300,6758,22,0.38,3622,9181,India,8074
+Nigeria,RDC,Air Charter,60,40000,440000,11,0.18,3622,9181,India,7633
+Nigeria,RDC,Air,60,11837,153407,12,0.22,1319,14459, Nashik,7134
+Côte d'Ivoire,RDC,Air,60,3564,55242,15,0.26,3622,9181, Nashik,8608
+Vietnam,FCA,Air,120,5200,316264,60,0.51,1272,2824,Germany,9157
+South Africa,DDP,Truck,30,60,2368,39,1.32,3622,9181, Port Elizabeth,573
+Nigeria,RDC,Air Charter,60,95000,214700,2,0.04,12686,40332,India,7633
+South Africa,DDP,Truck,120,18,1254,69,0.58,3622,9181, Latina,7877
+Zambia,RDC,Air,30,66667,828004,12,0.41,5253,17856, Nashik,6339
+Côte d'Ivoire,RDC,Truck,30,2095,7583,3,0.12,3622,9181, Nashik,8608
+Uganda,RDC,Air,60,1155,13109,11,0.19,147,848, Nashik,4961
+Côte d'Ivoire,EXW,Air,60,7228,33248,4,0.08,338,2845,India,9091
+Nigeria,RDC,Air,30,2063,24178,11,0.39,176,2680,India,7633
+South Africa,DDP,Truck,30,560,10506,18,0.63,3622,9181,India,8074
+South Africa,DDP,Truck,30,6,66,11,0.37,3622,9181,India,8074
+South Africa,DDP,Ocean,30,86843,577505,6,0.22,8106,9748,India,8074
+Tanzania,RDC,Air,30,5000,60050,12,0.4,379,188, Nashik,5091
+Zambia,EXW,Air,30,100000,735000,7,0.24,9389,50294,India,6906
+Zimbabwe,RDC,Truck,60,7150,21092,2,0.05,3622,9181,India,6980
+Tanzania,FCA,Air,60,5273,31321,5,0.1,668,3835,Germany,6837
+Tanzania,RDC,Air,60,40000,109200,2,0.05,6240,26922,India,5659
+Zimbabwe,RDC,Truck,30,4000,20520,5,0.17,3622,9181,India,6980
+Nigeria,RDC,Air Charter,60,8820,21520,2,0.04,420,9181,India,7633
+South Africa,DDP,Truck,30,40,678,16,0.57,3622,9181,France,8670
+Haiti,RDC,Air,60,58,110,1,0.03,3622,9181,India,14446
+Haiti,EXW,Air,60,482,2410,5,0.08,50,342,India,14446
+Zambia,RDC,Truck,30,25511,303325,11,0.4,3041,2526,India,6906
+Haiti,EXW,Air,60,4095,16380,4,0.07,176,2456,India,14446
+Côte d'Ivoire,RDC,Air,60,45000,347400,7,0.13,4050,10592,India,9091
+Nigeria,RDC,Air Charter,60,3190,36366,11,0.19,361,6329,India,7633
+Nigeria,RDC,Air Charter,30,7500,35625,4,0.16,662,8736,India,7633
+South Africa,DDP,Truck,90,10,170,17,0.19,3622,9181,India,8074
+South Africa,DDP,Truck,90,6,47,7,0.09,3622,9181,France,8670
+Côte d'Ivoire,RDC,Truck,30,2600,35152,13,0.45,235,-186,India,9091
+Haiti,RDC,Air,240,1760,3696,2,0.01,3622,9181,India,14446
+Zimbabwe,RDC,Truck,60,10893,21677,1,0.03,735,5331,India,6980
+South Africa,DDP,Truck,60,1500,7965,5,0.09,3622,9181,South Africa,0
+South Africa,DDP,Truck,30,1,19,19,0.64,3622,9181,India,8074
+South Africa,DDP,Ocean,30,79250,527012,6,0.22,7397,7809,India,8074
+Zambia,RDC,Truck,60,3480,7864,2,0.04,424,10941,India,6906
+South Africa,DDP,Air,240,19098,60158,3,0.01,7367,2444,India,8074
+South Africa,DDP,Truck,60,7,174,24,0.42,3622,9181,India,8074
+Mozambique,RDC,Air,60,7044,83119,11,0.2,3622,9181, Nashik,6074
+Haiti,EXW,Air,90,2440,22692,9,0.1,163,659,India,14446
+Tanzania,RDC,Truck,60,926,1759,1,0.03,3622,9181,India,5659
+Zambia,RDC,Truck,30,167825,1105966,6,0.22,26199,33356, Nashik,6339
+Tanzania,RDC,Air,30,15331,68222,4,0.15,4729,17390,India,5659
+Haiti,EXW,Ocean,60,3300,13035,3,0.07,16350,15028, Nashik,14325
+Côte d'Ivoire,RDC,Air,60,10480,39824,3,0.06,786,10032,India,9091
+South Africa,DDP,Ocean,30,127904,579405,4,0.15,10980,14331,India,8074
+Côte d'Ivoire,RDC,Air,30,576,15120,26,0.88,3622,9181, Port Elizabeth,5690
+Uganda,RDC,Air,60,5000,56000,11,0.19,690,4410, Nashik,4961
+Côte d'Ivoire,RDC,Truck,60,10620,119262,11,0.19,3622,9181,India,9091
+Haiti,CIP,Air,60,17,943,55,0.92,3622,9181, Haarlem,7467
+South Africa,DDP,Truck,30,9,21,2,0.08,3622,9181,India,8074
+Rwanda,CIP,Air,240,2468,7231,2,0.01,907,-350,India,5921
+Mozambique,RDC,Truck,60,648,1127,1,0.03,39,-970,India,6624
+South Africa,DDP,Ocean,90,19271,192324,9,0.11,2555,1347,India,8074
+Nigeria,RDC,Air Charter,30,36390,121178,3,0.11,17455,19666,India,7633
+Zimbabwe,RDC,Truck,60,23090,52183,2,0.04,394,10133,India,6980
+South Africa,DDP,Truck,30,400,1468,3,0.12,3622,9181,India,8074
+Nigeria,RDC,Air Charter,60,1140,3306,2,0.05,3622,9181,India,7633
+Mozambique,RDC,Air,60,30000,222000,7,0.12,3622,9181,India,6624
+South Africa,DDP,Air,60,24150,59892,2,0.04,3622,9181,India,8074
+Vietnam,EXW,Air,60,14500,24940,1,0.03,3622,9181,India,3157
+South Africa,DDP,Air,60,1325,3339,2,0.04,3622,9181,India,8074
+South Africa,DDP,Truck,240,171,4623,27,0.11,3622,9181,India,8074
+Zambia,EXW,Air,60,20000,43000,2,0.04,1044,4145,India,6906
+Mozambique,RDC,Truck,60,85490,693323,8,0.14,3622,9181,India,6624
+Côte d'Ivoire,RDC,Air,60,560,840,1,0.02,3622,9181,India,9091
+Côte d'Ivoire,FCA,Air,120,6000,216960,36,0.3,1523,9051,Germany,5008
+Zimbabwe,RDC,Truck,30,4000,48040,12,0.4,342,648,India,6980
+Tanzania,EXW,Air,30,216755,2653081,12,0.41,28678,117541, Nashik,5091
+Haiti,RDC,Air,240,4704,9031,1,0.01,3622,9181,India,14446
+Vietnam,FCA,Air,120,1785,146727,82,0.68,266,5937,Germany,9157
+Uganda,RDC,Truck,60,30000,336600,11,0.19,4050,14759,India,5524
+Uganda,CIP,Air,60,223,20404,91,1.52,21,-239, Haarlem,6190
+Uganda,EXW,Air,30,16716,76893,4,0.15,1874,6487,India,5524
+South Africa,DDP,Truck,240,89,2406,27,0.11,3622,9181,India,8074
+South Africa,DDP,Ocean,30,100591,455677,4,0.15,8635,10203,India,8074
+Côte d'Ivoire,RDC,Air,120,12107,497597,41,0.34,2647,8307,Germany,5008
+Vietnam,EXW,Air,30,5451,76859,14,0.47,1675,2401, Nashik,3641
+Zimbabwe,RDC,Truck,60,35000,148750,4,0.07,2032,3428, Nashik,6420
+Zambia,RDC,Air,240,10000,18000,1,0.01,3637,8499,India,6906
+South Africa,DDP,Truck,30,7,137,19,0.66,3622,9181,India,8074
+Zambia,RDC,Truck,30,120000,960000,8,0.27,9022,3506, Nashik,6339
+South Africa,DDP,Truck,90,46,1196,26,0.29,3622,9181,India,8074
+"Congo, DRC",RDC,Air,30,27,111,4,0.14,3622,9181,India,6583
+Zimbabwe,RDC,Truck,60,1884,6123,3,0.05,3622,9181,India,6980
+Côte d'Ivoire,RDC,Air,60,1059,1588,1,0.02,3622,9181,India,9091
+Vietnam,EXW,Air,240,300,555,1,0.01,3622,9181,India,3157
+Tanzania,EXW,Air,60,20172,109533,5,0.09,1104,4765,India,5659
+Nigeria,RDC,Air,30,3392,89040,26,0.88,298,1922, Port Elizabeth,5168
+Zambia,RDC,Truck,60,96800,223608,2,0.04,11808,16650,India,6906
+Vietnam,EXW,Air,60,168,1260,7,0.12,9,1793, Nashik,3641
+Vietnam,FCA,Air,120,7067,429814,60,0.51,3622,9181,Germany,9157
+Rwanda,EXW,Air,240,9690,14631,1,0.01,3790,65260,India,5921
+South Africa,DDP,Truck,30,60,1147,19,0.64,3622,9181, Nashik,7527
+Zimbabwe,RDC,Air,30,1600,3200,2,0.07,3622,9181,India,6980
+Uganda,RDC,Air,60,2250,6525,2,0.05,3622,9181,India,5524
+South Africa,DDP,Air,60,6000,32520,5,0.09,3622,9181,India,8074
+Uganda,FCA,Air,60,2565,15236,5,0.1,304,1808,Germany,5868
+South Africa,DDP,Truck,60,97,6627,68,1.14,3622,9181,India,8074
+Haiti,EXW,Air,100,200,70000,350,3.5,480,8334,Thailand,16167
+Zambia,RDC,Air,60,50000,170000,3,0.06,4733,5002,India,6906
+Vietnam,EXW,Air,60,1123,4660,4,0.07,3622,9181, Nashik,3641
+"Congo, DRC",RDC,Air,30,897,4314,4,0.16,3622,9181,India,6583
+South Africa,DDP,Truck,60,3000,16350,5,0.09,3622,9181,South Africa,0
+Zimbabwe,RDC,Truck,60,3600,26172,7,0.12,3622,9181,India,6980
+Côte d'Ivoire,RDC,Air,240,672,9139,13,0.06,2979,2365,India,9091
+Côte d'Ivoire,RDC,Truck,60,1700,3791,2,0.04,75,556,India,9091
+Zambia,RDC,Truck,60,17045,270845,15,0.26,20752,16520,India,6906
+South Africa,DDP,Ocean,30,105278,740104,7,0.23,7225,5038,India,8074
+South Africa,DDP,Truck,60,57,1123,19,0.33,3622,9181,India,8074
+South Africa,DDP,Truck,60,11,198,18,0.3,3622,9181,India,8074
+South Africa,DDP,Truck,120,1,27,27,0.23,3622,9181, Latina,7877
+Zimbabwe,RDC,Truck,60,4136,9347,2,0.04,394,7600,India,6980
+Rwanda,CIP,Air,30,599,7966,13,0.44,41,-283,India,5921
+Rwanda,CIP,Air,60,10620,205284,19,0.32,1050,17475,India,5921
+Nigeria,RDC,Air,60,215,2296,10,0.18,3622,9181,India,7633
+South Africa,DDP,Truck,30,4,78,19,0.66,3622,9181,India,8074
+South Africa,DDP,Truck,30,2000,25040,12,0.42,3622,9181,India,8074
+Vietnam,EXW,Air,60,21000,50400,2,0.04,3622,9181,India,3157
+Vietnam,EXW,Air,240,1000,1920,1,0.01,960,12762,India,3157
+Vietnam,EXW,Air,60,1440,10440,7,0.12,128,1147,India,3157
+Nigeria,RDC,Air Charter,30,168,971,5,0.19,15,10637,India,7633
+Haiti,RDC,Air,60,190,5230,27,0.46,3622,9181, Nashik,14325
+Zimbabwe,RDC,Air,60,37240,275576,7,0.12,3622,9181,India,6980
+Vietnam,EXW,Air,60,10762,87172,8,0.13,1485,1702,India,3157
+Zimbabwe,RDC,Air,120,2390,56762,23,0.2,533,4623,Germany,7939
+Nigeria,RDC,Air Charter,60,42751,374498,8,0.15,3409,10637, Nashik,7134
+Zimbabwe,RDC,Truck,60,70000,376600,5,0.09,5154,11956,India,6980
+South Africa,DDP,Air,60,300,1212,4,0.07,3622,9181,France,8670
+South Africa,DDP,Ocean,30,32280,146228,4,0.15,7017,10372,India,8074
+Zimbabwe,RDC,Truck,60,3345,26024,7,0.13,3622,9181, Nashik,6420
+Côte d'Ivoire,RDC,Air,100,2352,11760,5,0.05,3189,211,India,9091
+Uganda,EXW,Air,120,102,9180,90,0.75,15,-155, Port Elizabeth,3989
+Zambia,RDC,Truck,30,42768,85536,2,0.07,2493,3887,India,6906
+Uganda,RDC,Air,30,1685,9267,5,0.18,137,834,India,5524
+South Africa,DDP,Truck,30,11,240,21,0.73,3622,9181,India,8074
+South Africa,DDP,Air,30,83238,650921,7,0.26,5663,4298,India,8074
+Uganda,RDC,Truck,60,15107,124783,8,0.14,1409,9928,India,5524
+South Africa,DDP,Truck,90,59,1535,26,0.29,3622,9181,India,8074
+South Africa,DDP,Air,60,294346,756469,2,0.04,14550,19706,India,8074
+Uganda,RDC,Air,30,1000,5130,5,0.17,95,2549,India,5524
+South Africa,DDP,Truck,30,11,332,30,1.01,3622,9181,India,8074
+Rwanda,RDC,Air,240,2125,4462,2,0.01,796,4603,India,5921
+South Africa,DDP,Truck,30,140,3996,28,0.95,3622,9181,France,8670
+Nigeria,RDC,Air Charter,60,1268,14455,11,0.19,143,6445,India,7633
+Uganda,RDC,Air,30,24966,88878,3,0.12,5391,27382,India,5524
+South Africa,DDP,Air,240,1800,10512,5,0.02,3622,9181,Canada,15035
+Uganda,RDC,Truck,30,52500,168525,3,0.11,10119,5852,India,5524
+Zimbabwe,RDC,Air,30,1900,9747,5,0.17,4000,2302,India,6980
+Tanzania,EXW,Air,30,4779,107527,22,0.75,643,3142, Nashik,5091
+Zimbabwe,RDC,Truck,60,14217,59000,4,0.07,3622,9181, Nashik,6420
+Côte d'Ivoire,RDC,Air,120,479,19686,41,0.34,421,4947,Germany,5008
+Mozambique,RDC,Truck,30,4837,65396,13,0.45,1102,7406, Nashik,6074
+Uganda,RDC,Air,30,20201,111913,5,0.18,3865,18667,India,5524
+Zimbabwe,RDC,Truck,30,4000,48040,12,0.4,8523,34673,India,6980
+Mozambique,RDC,Truck,30,66956,704377,10,0.35,5810,12649, Nashik,6074
+Tanzania,FCA,Air,120,10680,438948,41,0.34,2724,11620,Germany,6837
+Haiti,EXW,Ocean,30,43065,128333,2,0.1,3622,9181,India,14446
+"Congo, DRC",EXW,Air,1000,1370,37401,27,0.03,1125,8693,China,9399
+Zambia,RDC,Truck,30,150000,2509500,16,0.56,17001,7510, Nashik,6339
+Nigeria,RDC,Air Charter,60,85722,221162,2,0.04,3622,9181,India,7633
+Uganda,RDC,Air,30,280,2800,10,0.33,3622,9181, Nashik,4961
+Uganda,RDC,Truck,30,5147,56617,11,0.37,3622,9181,India,5524
+South Africa,DDP,Truck,30,132,1487,11,0.38,3622,9181,India,8074
+South Africa,DDP,Ocean,30,120,541,4,0.15,10,18518,India,8074
+Haiti,RDC,Air,240,3635,6979,1,0.01,1345,13489,India,14446
+Mozambique,RDC,Air,60,16990,229365,13,0.22,3622,9181,India,6624
+Haiti,RDC,Air,30,26712,154395,5,0.19,2342,11016,India,14446
+South Africa,DDP,Air,240,8474,25422,3,0.01,3206,1154,India,8074
+Tanzania,RDC,Truck,30,80,440,5,0.18,841,2549, Nashik,5091
+Mozambique,RDC,Truck,60,25312,216417,8,0.14,4988,6960,India,6624
+Vietnam,EXW,Air,30,3686,25802,7,0.23,255,5518, Nashik,3641
+Côte d'Ivoire,RDC,Air,60,2000,2820,1,0.02,98,1201,India,9091
+Uganda,RDC,Air,60,10453,30313,2,0.05,1001,2228,India,5524
+Mozambique,RDC,Air,200,500,700,1,0.01,3622,9181,India,6624
+Haiti,RDC,Air,240,1440,3024,2,0.01,538,6100,India,14446
+Uganda,RDC,Truck,60,750,1830,2,0.04,3622,9181,India,5524
+Vietnam,EXW,Air,60,10780,15631,1,0.02,502,6575,India,3157
+Vietnam,EXW,Air,30,40890,175827,4,0.14,3329,9455, Nashik,3641
+Uganda,RDC,Air,60,240,1680,7,0.12,23,173,India,5524
+Haiti,RDC,Air,60,3690,5387,1,0.02,177,5036,India,14446
+Vietnam,EXW,Air,60,28496,39894,1,0.02,3622,9181,India,3157
+Tanzania,RDC,Truck,60,163735,695873,4,0.07,9208,2825, Nashik,5091
+Côte d'Ivoire,RDC,Air,100,284,1420,5,0.05,22,211,India,9091
+South Africa,DDP,Truck,30,90,369,4,0.14,3622,9181,India,8074
+Nigeria,RDC,Air Charter,60,100000,1122000,11,0.19,11725,9181,India,7633
+Nigeria,RDC,Air Charter,30,170780,1639488,9,0.32,3622,9181, Nashik,7134
+Uganda,RDC,Air,30,36007,119903,3,0.11,19158,105022,India,5524
+Rwanda,RDC,Air,30,59989,796054,13,0.44,7242,4825, Nashik,5355
+Vietnam,EXW,Air,30,6720,77145,11,0.38,522,2796, Nashik,3641
+Vietnam,FCA,Air,120,5600,340592,60,0.51,1368,3489,Germany,9157
+Zambia,RDC,Truck,60,9474,89529,9,0.16,3622,9181,India,6906
+Côte d'Ivoire,RDC,Air,100,2604,12603,4,0.05,675,702,India,9091
+Côte d'Ivoire,RDC,Truck,30,56228,204669,3,0.12,6242,16129,India,9091
+Vietnam,EXW,Air,60,380,8930,23,0.39,3622,9181,India,3157
+Côte d'Ivoire,RDC,Truck,30,2160,11880,5,0.18,1122,5009, Nashik,8608
+Vietnam,EXW,Air,60,10416,15103,1,0.02,3622,9181,India,3157
+Nigeria,RDC,Air Charter,60,61,87,1,0.02,4,9181,India,7633
+"Congo, DRC",RDC,Air,60,450,3717,8,0.14,3622,9181,India,6583
+Haiti,EXW,Ocean,60,1080,4266,3,0.07,3622,9181, Nashik,14325
+South Africa,DDP,Ocean,240,50000,103000,2,0.01,3622,9181,India,8074
+Côte d'Ivoire,EXW,Air,60,4448,133440,30,0.5,693,4066, Nashik,8608
+South Africa,DDP,Truck,60,268,18310,68,1.14,3622,9181,India,8074
+South Africa,DDP,Air,60,10,94,9,0.16,3622,9181,France,8670
+South Africa,DDP,Truck,60,14,270,19,0.32,3622,9181,India,8074
+Vietnam,EXW,Air,60,16300,181745,11,0.19,2011,10648,India,3157
+South Africa,DDP,Truck,30,5,55,11,0.37,3622,9181,India,8074
+South Africa,DDP,Truck,30,6715,127912,19,0.64,3622,9181,India,8074
+Tanzania,RDC,Truck,30,18732,41959,2,0.07,1090,698,India,5659
+Zambia,RDC,Truck,30,88000,968000,11,0.37,7579,5759,India,6906
+South Africa,DDP,Truck,120,2,51,25,0.21,3622,9181, Latina,7877
+Haiti,EXW,Air,100,25,8750,350,3.5,60,2097,Thailand,16167
+Mozambique,RDC,Truck,120,10040,189756,18,0.16,3622,9181,Germany,8163
+Côte d'Ivoire,RDC,Air,240,5000,10500,2,0.01,1841,8447,India,9091
+Haiti,RDC,Air,240,128,2112,16,0.07,3622,9181,India,14446
+South Africa,DDP,Ocean,30,3619,25007,6,0.23,338,5147,India,8074
+Côte d'Ivoire,RDC,Air,60,69684,542141,7,0.13,6798,25205, Nashik,8608
+Zambia,EXW,Air,60,42813,96329,2,0.04,4369,21508,India,6906
+South Africa,DDP,Ocean,60,122743,303175,2,0.04,3622,9181,India,8074
+Haiti,RDC,Air,90,420,6409,15,0.17,199,2133,India,14446
+Côte d'Ivoire,RDC,Truck,30,9800,31262,3,0.11,622,3958,India,9091
+Haiti,RDC,Air,30,10065,97831,9,0.32,3622,9181,India,14446
+Zimbabwe,RDC,Truck,60,36100,220571,6,0.1,3955,12208,India,6980
+Zambia,RDC,Truck,30,70156,267294,3,0.13,6022,17219,India,6906
+Tanzania,RDC,Truck,60,25836,55547,2,0.04,5467,2567, Nashik,5091
+Haiti,RDC,Air,240,3168,6336,2,0.01,1765,17473,India,14446
+Vietnam,EXW,Air,60,20520,49248,2,0.04,3622,9181,India,3157
+Zambia,RDC,Truck,30,176213,2283720,12,0.43,19962,30401, Nashik,6339
+Nigeria,RDC,Air Charter,60,25712,198496,7,0.13,3622,9181,India,7633
+Zambia,RDC,Truck,60,120000,1026000,8,0.14,11057,11049,India,6906
+South Africa,DDP,Truck,30,20,723,36,1.21,3622,9181, Port Elizabeth,573
+Côte d'Ivoire,RDC,Air,30,1571,35347,22,0.75,151,2545, Nashik,8608
+Zimbabwe,RDC,Air,60,1973,7892,4,0.07,8894,-898,India,6980
+South Africa,DDP,Truck,120,150,6083,40,0.34,3622,9181,Germany,8973
+Uganda,RDC,Air,60,4200,11466,2,0.05,3622,9181,India,5524
+Nigeria,RDC,Air,30,15000,393750,26,0.88,1309,6463, Port Elizabeth,5168
+Uganda,RDC,Air,30,2060,25585,12,0.41,196,381,India,5524
+Mozambique,RDC,Air,60,16524,144750,8,0.15,1488,3764,India,6624
+South Africa,DDP,Truck,60,39,746,19,0.32,3622,9181,Poland,8994
+Nigeria,RDC,Air Charter,30,87744,370279,4,0.14,7194,11601, Nashik,7134
+Mozambique,RDC,Truck,240,7150,15015,2,0.01,2778,18730,India,6624
+Uganda,RDC,Truck,30,3330,66333,19,0.66,370,1886, Nashik,4961
+Côte d'Ivoire,RDC,Air,60,4140,68061,16,0.27,3622,9181, Nashik,8608
+Côte d'Ivoire,CIP,Air,60,6000,57000,9,0.16,1278,742,France,4338
+Nigeria,RDC,Air,90,2548,21046,8,0.09,370,14459,India,7633
+Rwanda,CIP,Air,30,31,185,5,0.2,4,-111,India,5921
+Zambia,RDC,Truck,60,20000,54600,2,0.05,1946,2379,India,6906
+Zambia,RDC,Truck,60,5432,61001,11,0.19,506,-365, Nashik,6339
+Côte d'Ivoire,RDC,Truck,60,75000,735750,9,0.16,14413,10874, Nashik,8608
+Vietnam,FCA,Air,120,500,41095,82,0.68,117,767,Germany,9157
+Nigeria,RDC,Air Charter,30,52000,1035840,19,0.66,5701,8736, Nashik,7134
+South Africa,DDP,Truck,30,11,332,30,1.01,3622,9181,India,8074
+Zambia,RDC,Truck,60,4636,52664,11,0.19,458,3130,India,6906
+Uganda,EXW,Air,60,384,10018,26,0.43,40,-10,India,5524
+South Africa,DDP,Truck,240,44,311,7,0.03,3622,9181,India,8074
+Zimbabwe,RDC,Truck,30,78082,432574,5,0.18,14314,14219, Nashik,6420
+South Africa,DDP,Ocean,30,12722,89435,7,0.23,875,5038,India,8074
+Uganda,EXW,Air,30,56,112,2,0.07,3622,9181,India,5524
+Tanzania,RDC,Truck,60,112191,1060204,9,0.16,10453,7831,India,5659
+Vietnam,EXW,Air,30,3696,24948,6,0.22,314,3885, Nashik,3641
+"Congo, DRC",RDC,Air,120,11,371,33,0.28,3622,9181,India,6583
+Nigeria,RDC,Air Charter,60,189393,1462113,7,0.13,24904,50677, Nashik,7134
+South Africa,DDP,Air,240,30,312,10,0.04,3622,9181,Germany,8973
+Nigeria,RDC,Air,30,12304,322980,26,0.88,5197,20895, Port Elizabeth,5168
+Nigeria,RDC,Air Charter,60,140000,1570800,11,0.19,16424,9181,India,7633
+Côte d'Ivoire,RDC,Air,60,5184,77760,15,0.25,1103,2296,India,9091
+Zimbabwe,RDC,Truck,60,7150,21092,2,0.05,3622,9181,India,6980
+Tanzania,EXW,Air,30,5000,28700,5,0.19,449,1865, Nashik,5091
+Haiti,CIP,Air,180,6705,113716,16,0.09,1979,-147,Canada,5426
+Nigeria,RDC,Air Charter,60,488,4274,8,0.15,39,8736, Nashik,7134
+Côte d'Ivoire,RDC,Air,60,20000,175200,8,0.15,1807,20347,India,9091
+Haiti,EXW,Ocean,90,3680,20240,5,0.06,6385,7768,India,14446
+Nigeria,RDC,Air Charter,30,156,1024,6,0.22,9,11601, Nashik,7134
+Nigeria,RDC,Air,90,500,4855,9,0.11,60,9181,India,7633
+Haiti,EXW,Ocean,60,2550,5074,1,0.03,199,4215,India,14446
+Côte d'Ivoire,RDC,Truck,90,3400,28084,8,0.09,3622,9181,India,9091
+"Congo, DRC",RDC,Air,60,4355,15678,3,0.06,3622,9181, Nashik,6020
+Côte d'Ivoire,RDC,Truck,240,156,327,2,0.01,100,-604,India,9091
+Nigeria,RDC,Air,60,2100,6090,2,0.05,153,280,India,7633
+"Congo, DRC",RDC,Air,100,1330,1729,1,0.01,416,4347,India,6583
+"Congo, DRC",RDC,Air,30,1540,5821,3,0.13,3622,9181, Nashik,6020
+Uganda,CIP,Air,60,231,21136,91,1.52,23,-750, Haarlem,6190
+Zimbabwe,RDC,Truck,30,36,396,11,0.37,3622,9181,India,6980
+Nigeria,RDC,Air,60,12984,266172,20,0.34,3286,17208,India,7633
+Nigeria,RDC,Air Charter,60,200000,1622000,8,0.14,51698,27812,India,7633
+Tanzania,CIP,Air,30,24963,1258135,50,1.68,2462,2451, Haarlem,7164
+Côte d'Ivoire,RDC,Truck,30,7640,27809,3,0.12,3622,9181,India,9091
+Nigeria,EXW,Air,240,416,2579,6,0.03,3622,9181,India,7633
+South Africa,DDP,Truck,60,118,8980,76,1.27,3622,9181,India,8074
+Mozambique,RDC,Truck,30,8283,26588,3,0.11,3622,9181,India,6624
+Vietnam,FCA,Air,60,104,1581,15,0.25,18,-388,Germany,9157
+Zambia,RDC,Truck,60,13535,88248,6,0.11,3704,3562,India,6906
+Nigeria,RDC,Air,60,645,2134,3,0.06,3622,9181,India,7633
+Uganda,EXW,Air,60,4250,34170,8,0.13,424,488,India,5524
+Zambia,RDC,Air,60,8251,227150,27,0.46,822,2303,India,6906
+Nigeria,RDC,Air Charter,30,3000,19710,6,0.22,263,12398,India,7633
+Tanzania,RDC,Truck,30,19086,112034,5,0.2,3622,9181,India,5659
+Nigeria,RDC,Air,60,9180,67932,7,0.12,3622,9181,India,7633
+Zambia,RDC,Truck,30,13154,262027,19,0.66,1456,2949, Nashik,6339
+Côte d'Ivoire,RDC,Air,30,22400,105280,4,0.16,3622,9181,India,9091
+South Africa,DDP,Truck,60,3000,19702,6,0.11,3622,9181,South Africa,0
+Tanzania,RDC,Truck,60,32544,94703,2,0.05,1608,700,India,5659
+Mozambique,RDC,Truck,60,26700,66483,2,0.04,1307,482,India,6624
+Zambia,RDC,Truck,30,129998,1419578,10,0.36,11115,15482, Nashik,6339
+Côte d'Ivoire,RDC,Air,60,9300,106578,11,0.19,3622,9181,India,9091
+Nigeria,RDC,Air Charter,30,799,7990,10,0.33,65,9181, Nashik,7134
+Vietnam,EXW,Air,60,1700,17850,10,0.18,356,13982,India,3157
+Vietnam,EXW,Air,60,20500,228575,11,0.19,2904,13223,India,3157
+South Africa,DDP,Truck,200,500,3894,7,0.04,3622,9181,Canada,15035
+South Africa,DDP,Truck,200,600,870,1,0.01,3622,9181,France,8670
+Haiti,EXW,Air,100,55,19250,350,3.5,132,2013,Thailand,16167
+Vietnam,EXW,Air,30,10080,103219,10,0.34,3622,9181, Nashik,3641
+Zimbabwe,RDC,Air,60,5287,17447,3,0.06,357,1001,India,6980
+Nigeria,RDC,Air,30,44295,203757,4,0.15,3045,9181,India,7633
+South Africa,DDP,Truck,60,5000,41300,8,0.14,3622,9181,India,8074
+Uganda,RDC,Air,30,2000,20000,10,0.33,168,1990, Nashik,4961
+Côte d'Ivoire,RDC,Truck,30,74064,269592,3,0.12,3622,9181,India,9091
+South Africa,DDP,Truck,30,400,8416,21,0.7,3622,9181,France,8670
+Zimbabwe,RDC,Truck,240,442,5339,12,0.05,118,7600,India,6980
+Nigeria,RDC,Air,120,9980,204590,20,0.17,2846,12873, Port Elizabeth,5168
+Tanzania,RDC,Air,60,60332,446456,7,0.12,3622,9181,India,5659
+Uganda,RDC,Air,240,13993,27286,1,0.01,5262,26823,India,5524
+Nigeria,RDC,Air Charter,60,1697,12778,7,0.13,6725,32279,India,7633
+Uganda,RDC,Air,30,200,2000,10,0.33,44,483, Nashik,4961
+Uganda,RDC,Air,30,11852,198283,16,0.56,1342,5340, Nashik,4961
+Côte d'Ivoire,CIP,Air,60,4245,40327,9,0.16,833,134,France,4338
+Côte d'Ivoire,FCA,Air,60,3000,20550,6,0.11,385,2765,Germany,5008
+Vietnam,EXW,Air,90,1000,7000,7,0.08,3622,9181,India,3157
+Uganda,RDC,Air,120,42,1726,41,0.34,123,-155,Germany,5868
+Côte d'Ivoire,RDC,Air,240,2000,3800,1,0.01,688,211,India,9091
+Nigeria,RDC,Air Charter,60,99999,243997,2,0.04,13437,20347, Nashik,7134
+Tanzania,RDC,Truck,60,9301,21392,2,0.04,3622,9181,India,5659
+Zambia,RDC,Truck,30,10015,89834,8,0.3,819,1882, Nashik,6339
+Zimbabwe,RDC,Truck,30,51,561,11,0.37,6,-91,India,6980
+Uganda,EXW,Air,120,1270,26670,21,0.18,201,262, Port Elizabeth,3989
+Zambia,RDC,Truck,60,6258,40802,6,0.11,3622,9181, Nashik,6339
+South Africa,DDP,Truck,30,80,1830,22,0.76,3622,9181, Port Elizabeth,573
+South Africa,DDP,Truck,30,4292,17235,4,0.13,3622,9181,India,8074
+Côte d'Ivoire,RDC,Air,240,1200,2520,2,0.01,448,1605,India,9091
+Côte d'Ivoire,RDC,Truck,30,2832,13650,4,0.16,159,984, Nashik,8608
+Zambia,RDC,Truck,60,60000,432000,7,0.12,3622,9181,India,6906
+Côte d'Ivoire,RDC,Air,60,5800,22562,3,0.06,248,1431,India,9091
+Uganda,FCA,Air,120,160,5785,36,0.3,47,238,Germany,5868
+South Africa,DDP,Truck,120,36,2509,69,0.58,3622,9181, Latina,7877
+"Congo, DRC",RDC,Air,120,9,303,33,0.28,3622,9181,India,6583
+Nigeria,RDC,Air Charter,60,10383,19727,1,0.03,767,2963,India,7633
+Nigeria,RDC,Air Charter,60,50,73,1,0.02,3622,9181,India,7633
+Haiti,FCA,Air,120,1470,60417,41,0.34,362,1490,Germany,7877
+Nigeria,RDC,Air Charter,60,1000,5560,5,0.09,3622,9181,India,7633
+Côte d'Ivoire,RDC,Truck,60,5624,18446,3,0.05,3622,9181, Nashik,8608
+Haiti,RDC,Air,240,4000,8400,2,0.01,1587,15163,India,14446
+Vietnam,EXW,Air,60,15360,113664,7,0.12,1360,4412,India,3157
+South Africa,DDP,Truck,60,91,6925,76,1.27,3622,9181,India,8074
+Uganda,RDC,Truck,60,3173,22211,7,0.12,3622,9181,India,5524
+Rwanda,RDC,Air,60,600,21480,35,0.6,55,-87,India,5921
+Haiti,EXW,Ocean,60,34080,318648,9,0.16,4726,6208, Nashik,14325
+Zimbabwe,RDC,Truck,30,10114,61493,6,0.2,3622,9181, Nashik,6420
+Côte d'Ivoire,RDC,Air,60,50000,561000,11,0.19,5997,7379,India,9091
+Mozambique,RDC,Truck,30,1000,10520,10,0.35,3622,9181, Nashik,6074
+Côte d'Ivoire,RDC,Air,60,6000,14640,2,0.04,3622,9181, Nashik,8608
+Côte d'Ivoire,RDC,Air,240,4340,8376,1,0.01,3622,9181,India,9091
+Haiti,RDC,Air,120,2000,40960,20,0.17,3622,9181, Nashik,14325
+Tanzania,RDC,Air,60,4776,170980,35,0.6,3622,9181,India,5659
+Côte d'Ivoire,RDC,Air,240,3181,6043,1,0.01,3622,9181,India,9091
+Haiti,RDC,Air,240,2304,4423,1,0.01,3622,9181,India,14446
+Nigeria,RDC,Air Charter,60,6,48,8,0.14,6589,25731,India,7633
+Côte d'Ivoire,RDC,Air,240,5700,11970,2,0.01,2845,9943,India,9091
+Nigeria,FCA,Air,60,448,3068,6,0.11,68,123,Germany,4614
+Mozambique,RDC,Truck,240,10070,19636,1,0.01,3787,1451,India,6624
+Vietnam,EXW,Air,60,8500,94775,11,0.19,3099,4018,India,3157
+South Africa,DDP,Truck,200,60,360,6,0.03,3622,9181,Canada,15035
+Nigeria,RDC,Air,30,196,2677,13,0.46,12,-100, Nashik,7134
+Mozambique,RDC,Air,60,570,20235,35,0.59,3622,9181,India,6624
+South Africa,DDP,Truck,60,14,300,21,0.36,3622,9181,India,8074
+Zambia,RDC,Air,60,40245,382327,9,0.16,3254,12267,India,6906
+Mozambique,RDC,Air,60,630,976,1,0.03,42,217,India,6624
+Mozambique,RDC,Truck,30,3400,47464,13,0.47,315,981, Nashik,6074
+Uganda,EXW,Air,60,6349,12380,1,0.03,3622,9181,India,5524
+Tanzania,RDC,Air,60,75318,114483,1,0.03,5040,21965,India,5659
+Zambia,RDC,Truck,60,7130,38787,5,0.09,3622,9181,India,6906
+Nigeria,RDC,Air Charter,30,51140,221947,4,0.14,3622,9181,India,7633
+"Congo, DRC",RDC,Air,60,17,248,14,0.24,3622,9181, Nashik,6020
+Nigeria,RDC,Air Charter,60,21765,154966,7,0.12,1984,6329,India,7633
+Tanzania,RDC,Truck,120,4389,148084,33,0.28,880,2175,Germany,6837
+Côte d'Ivoire,RDC,Truck,120,10000,267000,26,0.22,3622,9181, Nashik,8608
+Zimbabwe,RDC,Truck,60,3687,7005,1,0.03,212,1143,India,6980
+Côte d'Ivoire,RDC,Air,60,12833,94964,7,0.12,1316,2056,India,9091
+Côte d'Ivoire,RDC,Truck,60,75235,610155,8,0.14,9080,33551,India,9091
+Nigeria,RDC,Air Charter,60,5000,43800,8,0.15,452,9181,India,7633
+Uganda,RDC,Truck,30,47312,199656,4,0.14,20230,78938, Nashik,4961
+Vietnam,EXW,Air,30,18616,188952,10,0.34,2101,3384, Nashik,3641
+South Africa,DDP,Ocean,30,125247,567368,4,0.15,3622,9181,India,8074
+South Africa,DDP,Ocean,30,108677,722702,6,0.22,10144,7809,India,8074
+South Africa,DDP,Truck,30,200,9382,46,1.56,3622,9181, Port Elizabeth,573
+Rwanda,EXW,Air,30,4011,72198,18,0.6,3622,9181,India,5921
+Vietnam,EXW,Air,60,3434,7726,2,0.04,876,1183, Nashik,3641
+Mozambique,RDC,Air,30,23035,385836,16,0.56,3622,9181,India,6624
+South Africa,DDP,Ocean,60,37870,103006,2,0.05,4121,3957,India,8074
+Côte d'Ivoire,RDC,Air,60,4149,11326,2,0.05,394,83,India,9091
+Mozambique,RDC,Truck,240,4584,8526,1,0.01,3622,9181,India,6624
+Haiti,RDC,Air,60,8520,19851,2,0.04,3622,9181,India,14446
+South Africa,DDP,Truck,60,86,6545,76,1.27,3622,9181,India,8074
+"Congo, DRC",RDC,Air,60,1296,9421,7,0.12,3622,9181, Nashik,6020
+Zimbabwe,RDC,Truck,60,37963,136666,3,0.06,3622,9181,India,6980
+Nigeria,RDC,Air Charter,60,10340,37224,3,0.06,3622,9181, Nashik,7134
+"Congo, DRC",RDC,Air,60,170,392,2,0.04,3622,9181,India,6583
+"Congo, DRC",RDC,Air,60,3460,28060,8,0.14,3622,9181, Nashik,6020
+Nigeria,RDC,Air Charter,60,41949,478218,11,0.19,4724,6445,India,7633
+Côte d'Ivoire,RDC,Air,30,1235,13585,11,0.37,649,191,India,9091
+Zambia,RDC,Truck,30,100000,2625000,26,0.88,9000,13036, Port Elizabeth,2162
+Mozambique,RDC,Truck,60,39096,284227,7,0.12,3591,6733,India,6624
+South Africa,DDP,Ocean,60,130828,316603,2,0.04,6525,9984,India,8074
+Côte d'Ivoire,RDC,Truck,120,228,4788,21,0.18,3622,9181,India,9091
+Vietnam,EXW,Air,30,20142,99702,4,0.16,6142,12850, Nashik,3641
+Vietnam,EXW,Air,90,702,3102,4,0.05,3622,9181,India,3157
+Uganda,RDC,Truck,60,19705,50838,2,0.04,1095,3405,India,5524
+South Africa,DDP,Truck,30,26,777,29,1.0,3622,9181,India,8074
+Côte d'Ivoire,CIP,Air,60,1389,7833,5,0.09,3622,9181,France,4338
+Zimbabwe,RDC,Truck,60,76000,562400,7,0.12,3622,9181,India,6980
+Nigeria,RDC,Air,240,1622,10056,6,0.03,3622,9181,India,7633
+Zimbabwe,RDC,Truck,60,9262,18431,1,0.03,3622,9181,India,6980
+Nigeria,RDC,Air,60,2000,11120,5,0.09,209,1136,India,7633
+Nigeria,RDC,Air Charter,60,20518,230211,11,0.19,2407,9181,India,7633
+South Africa,DDP,Truck,60,220,2011,9,0.15,3622,9181,India,8074
+"Congo, DRC",EXW,Air,60,150,322,2,0.04,25,765,India,6583
+Nigeria,RDC,Air Charter,60,105160,1179895,11,0.19,28277,20326,India,7633
+Côte d'Ivoire,CIP,Air,60,1577,14981,9,0.16,309,9181,France,4338
+Vietnam,EXW,Air,30,14119,46592,3,0.11,3622,9181,India,3157
+Haiti,RDC,Air,240,2112,4055,1,0.01,3622,9181,India,14446
+South Africa,DDP,Truck,60,12,212,17,0.3,3622,9181,India,8074
+Zimbabwe,EXW,Air,60,813,2845,3,0.06,60,344, Nashik,6420
+Zambia,RDC,Truck,30,99714,410821,4,0.14,6005,4447,India,6906
+Haiti,FCA,Air,60,46,472,10,0.17,10,-107,Germany,7877
+Tanzania,RDC,Truck,30,20000,341600,17,0.57,2302,9181, Nashik,5091
+Mozambique,CIP,Air,30,44,859,19,0.65,3622,9181,France,8017
+Haiti,FCA,Air,60,612,3635,5,0.1,76,259,Germany,7877
+Uganda,RDC,Truck,60,14893,123016,8,0.14,3622,9181,India,5524
+South Africa,DDP,Truck,30,7,99,14,0.47,3622,9181,India,8074
+Nigeria,RDC,Air Charter,90,10230,56265,5,0.06,1505,9060,India,7633
+Uganda,RDC,Air,60,46113,332474,7,0.12,2534,15629,India,5524
+Nigeria,RDC,Air,30,56404,748481,13,0.44,6886,14459, Nashik,7134
+Mozambique,RDC,Truck,60,145400,1247532,8,0.14,10673,14392, Nashik,6074
+Côte d'Ivoire,RDC,Truck,120,20000,420000,21,0.18,5633,16548,India,9091
+Nigeria,RDC,Air Charter,90,1050,10174,9,0.11,3622,9181,India,7633
+Côte d'Ivoire,RDC,Truck,60,36240,310939,8,0.14,13509,35857,India,9091
+South Africa,DDP,Truck,30,9,137,15,0.51,3622,9181,India,8074
+Haiti,EXW,Ocean,30,46500,499410,10,0.36,5342,8195, Nashik,14325
+Zimbabwe,RDC,Air,60,5900,19352,3,0.05,3622,9181,India,6980
+South Africa,DDP,Truck,30,4,119,29,1.0,3622,9181,India,8074
+Vietnam,EXW,Air,30,46802,537754,11,0.38,5281,12625, Nashik,3641
+South Africa,DDP,Air,60,16000,85280,5,0.09,3622,9181,India,8074
+Rwanda,EXW,Air,30,8249,185602,22,0.75,2800,11595,India,5921
+Nigeria,RDC,Air Charter,240,806,1531,1,0.01,3622,9181,India,7633
+Mozambique,FCA,Air,60,400,2740,6,0.11,62,-358,Germany,8163
+Zimbabwe,RDC,Truck,60,560,4905,8,0.15,3622,9181,India,6980
+Nigeria,RDC,Air,60,20000,150000,7,0.12,1096,9181,India,7633
+Côte d'Ivoire,RDC,Air,240,3119,0,0,0.0,1088,1951,India,9091
+Vietnam,EXW,Air,30,1344,18359,13,0.46,1537,12507, Nashik,3641
+Uganda,RDC,Air,30,1166,30607,26,0.88,145,742, Port Elizabeth,3989
+Haiti,RDC,Air Charter,180,123,2086,16,0.09,3622,9181, Haarlem,7467
+Vietnam,EXW,Air,60,112,1618,14,0.24,1701,3288,India,3157
+Côte d'Ivoire,RDC,Truck,60,2050,57400,28,0.47,312,1128, Nashik,8608
+South Africa,DDP,Truck,240,30,328,10,0.05,3622,9181,India,8074
+Côte d'Ivoire,RDC,Air,60,1481,3184,2,0.04,141,400,India,9091
+South Africa,DDP,Truck,30,228,7598,33,1.11,3622,9181,India,8074
+Vietnam,FCA,Air,120,5000,304000,60,0.51,3622,9181,Germany,9157
+Côte d'Ivoire,RDC,Air,60,99957,1121517,11,0.19,3622,9181,India,9091
+Vietnam,FCA,Air,120,3434,208855,60,0.51,826,2315,Germany,9157
+South Africa,DDP,Truck,30,98,2214,22,0.75,3622,9181,India,8074
+Nigeria,RDC,Air,90,400,6400,16,0.18,38,161,India,7633
+Uganda,RDC,Air,30,71991,320359,4,0.15,7187,15285,India,5524
+Nigeria,RDC,Air,60,3000,17550,5,0.1,419,9181,India,7633
+South Africa,DDP,Truck,200,12,150,12,0.06,3622,9181,France,8670
+Nigeria,RDC,Air Charter,60,137900,1139054,8,0.14,12766,11601,India,7633
+South Africa,DDP,Truck,200,500,1303,2,0.01,3622,9181,India,8074
+Vietnam,EXW,Air,30,2865,32918,11,0.38,332,5973, Nashik,3641
+Uganda,RDC,Air,60,15584,174852,11,0.19,6843,14170,India,5524
+Vietnam,EXW,Air,60,23040,146995,6,0.11,9,3620,India,3157
+Nigeria,RDC,Air Charter,60,155,1357,8,0.15,14,9181,India,7633
+Côte d'Ivoire,RDC,Truck,60,2085,8340,4,0.07,699,7127, Nashik,8608
+Nigeria,RDC,Air Charter,60,213502,1648235,7,0.13,31271,61693,India,7633
+Nigeria,RDC,Air Charter,60,98,737,7,0.13,3622,9181,India,7633
+Mozambique,RDC,Truck,60,45000,384750,8,0.14,4171,2936,India,6624
+Côte d'Ivoire,RDC,Truck,60,1512,1995,1,0.02,360,2274,India,9091
+Nigeria,RDC,Air,90,1132,18112,16,0.18,3622,9181,India,7633
+Côte d'Ivoire,RDC,Air,60,29593,281133,9,0.16,10877,29167,India,9091
+Mozambique,EXW,Air,30,800,6064,7,0.25,77,-21,India,6624
+"Congo, DRC",RDC,Air,60,147,2150,14,0.24,3622,9181, Nashik,6020
+South Africa,DDP,Ocean,30,77473,515195,6,0.22,7228,7809,India,8074
+Nigeria,RDC,Air,60,4500,36000,8,0.13,3622,9181,India,7633
+Rwanda,RDC,Truck,30,2381,11047,4,0.15,3703,7469,India,5921
+Zimbabwe,RDC,Truck,60,76000,506160,6,0.11,8280,14328,India,6980
+Nigeria,RDC,Air Charter,60,820,2238,2,0.05,79,9181,India,7633
+South Africa,DDP,Ocean,60,75000,181500,2,0.04,2915,5012,India,8074
+Nigeria,RDC,Air Charter,30,28839,159768,5,0.18,3622,9181, Nashik,7134
+Vietnam,FCA,Air,120,1114,67753,60,0.51,266,5568,Germany,9157
+Nigeria,RDC,Air,30,4,105,26,0.88,1,-538, Port Elizabeth,5168
+South Africa,DDP,Truck,30,14,472,33,1.12,3622,9181,India,8074
+South Africa,DDP,Air,30,64771,506509,7,0.26,4398,4298,India,8074
+South Africa,DDP,Ocean,30,58143,386650,6,0.22,5427,6905,India,8074
+South Africa,DDP,Air,60,25637,63323,2,0.04,3622,9181,India,8074
+Uganda,RDC,Truck,30,5403,73048,13,0.45,490,1016, Nashik,4961
+Vietnam,EXW,Air,60,100,894,8,0.15,6,1794,India,3157
+Uganda,RDC,Truck,30,3680,36800,10,0.33,328,2522, Nashik,4961
+Mozambique,RDC,Truck,60,135900,1524798,11,0.19,3622,9181,India,6624
+Zimbabwe,RDC,Truck,60,60096,135816,2,0.04,3622,9181,India,6980
+Côte d'Ivoire,RDC,Air,200,3229,4520,1,0.01,3622,9181,India,9091
+Nigeria,RDC,Air,30,16,420,26,0.88,3622,9181, Port Elizabeth,5168
+Uganda,RDC,Air,60,72107,707369,9,0.16,9348,80100, Nashik,4961
+Tanzania,RDC,Truck,60,17600,40480,2,0.04,3526,7977,India,5659
+Haiti,EXW,Ocean,30,11194,51380,4,0.15,3622,9181,India,14446
+Uganda,RDC,Air,60,39792,356934,8,0.15,4658,40595,India,5524
+Uganda,EXW,Air,30,1262,28395,22,0.75,173,-65, Nashik,4961
+Côte d'Ivoire,RDC,Truck,120,16000,336000,21,0.18,3893,16548,India,9091
+Nigeria,RDC,Air,60,20000,54600,2,0.05,1370,9181,India,7633
+South Africa,DDP,Truck,60,4553,13659,3,0.05,3622,9181,India,8074
+Haiti,EXW,Ocean,240,675,4610,6,0.03,3622,9181,India,14446
+Haiti,RDC,Air,100,504,2766,5,0.05,3622,9181,India,14446
+Mozambique,RDC,Air,60,11980,46722,3,0.06,3622,9181, Nashik,6074
+Tanzania,EXW,Air,30,5925,9243,1,0.05,394,2245,India,5659
+South Africa,DDP,Ocean,60,515000,1251450,2,0.04,23655,36401,India,8074
+South Africa,DDP,Truck,30,8,241,30,1.01,3622,9181,India,8074
+Haiti,RDC,Air,30,60,242,4,0.13,6528,62922, Nashik,14325
+Zambia,RDC,Truck,60,50000,122000,2,0.04,7567,15697, Nashik,6339
+South Africa,DDP,Ocean,60,25000,210500,8,0.14,2303,2790,India,8074
+Zambia,RDC,Truck,30,109226,450011,4,0.14,6636,9598,India,6906
+Zambia,RDC,Truck,60,3926,8558,2,0.04,477,-465,India,6906
+"Congo, DRC",RDC,Air,120,23,776,33,0.28,3622,9181,India,6583
+Côte d'Ivoire,RDC,Truck,30,8250,37867,4,0.15,821,5695,India,9091
+South Africa,DDP,Truck,60,94,6070,64,1.08,3622,9181,India,8074
+Tanzania,RDC,Truck,240,2176,27200,12,0.05,821,698,India,5659
+Mozambique,RDC,Truck,30,44840,499966,11,0.37,5065,4419, Nashik,6074
+Haiti,RDC,Air,60,3850,5390,1,0.02,230,1936,India,14446
+South Africa,DDP,Air,60,1000,2920,2,0.05,3622,9181,India,8074
+Vietnam,EXW,Air,30,3000,6720,2,0.07,436,238,India,3157
+Uganda,RDC,Truck,60,157,1540,9,0.16,836,3911,India,5524
+"Congo, DRC",RDC,Air,120,50,1687,33,0.28,3622,9181,India,6583
+Uganda,RDC,Truck,120,27048,504174,18,0.16,3622,9181,Germany,5868
+Uganda,RDC,Air,60,4730,35616,7,0.13,260,898,India,5524
+South Africa,DDP,Ocean,240,20000,185600,9,0.04,7293,5560,Canada,15035
+South Africa,DDP,Ocean,60,19836,167019,8,0.14,1820,-302,India,8074
+Vietnam,EXW,Air,60,1300,10075,7,0.13,270,2850,India,3157
+South Africa,DDP,Ocean,60,57925,157556,2,0.05,6220,6175,India,8074
+Tanzania,FCA,Air,60,407,2592,6,0.11,68,264,Germany,6837
+Nigeria,RDC,Air Charter,30,32562,127317,3,0.13,3622,9181,India,7633
+South Africa,DDP,Truck,60,7,126,18,0.3,3622,9181,India,8074
+Nigeria,RDC,Air Charter,60,3322,9069,2,0.05,377,5147,India,7633
+Nigeria,EXW,Air,60,2221,13192,5,0.1,252,1969,Germany,4614
+Haiti,RDC,Air,60,180,968,5,0.09,37,221,India,14446
+Uganda,EXW,Air,30,252,504,2,0.07,9,26,India,5524
+Nigeria,RDC,Air,60,1672,5684,3,0.06,3622,9181,India,7633
+Côte d'Ivoire,RDC,Air,60,3000,76740,25,0.43,187,4110, Nashik,8608
+Uganda,RDC,Truck,60,8193,15730,1,0.03,3622,9181,India,5524
+Vietnam,FCA,Air,120,6,493,82,0.68,9,1709,Germany,9157
+Nigeria,RDC,Air,30,2500,18250,7,0.24,3622,9181, Nashik,7134
+Uganda,RDC,Truck,30,2950,12449,4,0.14,3622,9181, Nashik,4961
+Haiti,RDC,Air,120,6160,152521,24,0.21,3622,9181, Nashik,14325
+Zimbabwe,RDC,Air,60,5880,42394,7,0.12,3622,9181,India,6980
+"Congo, DRC",RDC,Air,240,7003,13655,1,0.01,3622,9181,India,6583
+South Africa,DDP,Truck,30,240,6944,28,0.96,3622,9181, Port Elizabeth,573
+Côte d'Ivoire,RDC,Air,60,15000,173400,11,0.19,3622,9181,India,9091
+Rwanda,RDC,Air,30,1883,31069,16,0.55,752,3436,India,5921
+Vietnam,EXW,Air,30,8388,54522,6,0.22,544,8141, Nashik,3641
+Vietnam,EXW,Air,30,435,974,2,0.07,25,3,India,3157
+Tanzania,RDC,Truck,240,24977,48705,1,0.01,9174,6185,India,5659
+Rwanda,RDC,Air,240,1965,26920,13,0.06,724,3520,India,5921
+Tanzania,RDC,Truck,60,9312,21417,2,0.04,1221,3847,India,5659
+Rwanda,CIP,Air,30,558,8174,14,0.49,1297,22760,India,5921
+South Africa,DDP,Truck,30,34,383,11,0.38,3622,9181,India,8074
+Nigeria,RDC,Air Charter,60,30415,346731,11,0.19,3415,14128,India,7633
+Mozambique,RDC,Truck,240,60968,118887,1,0.01,53692,28683,India,6624
+Côte d'Ivoire,RDC,Air,60,24765,200844,8,0.14,2666,10186,India,9091
+Tanzania,EXW,Air,60,11500,62445,5,0.09,632,3168,India,5659
+Nigeria,RDC,Air Charter,30,50040,500400,10,0.33,4161,10637, Nashik,7134
+Côte d'Ivoire,RDC,Truck,60,15120,41731,2,0.05,959,3424, Nashik,8608
+South Africa,DDP,Ocean,60,5360,14579,2,0.05,583,4824,India,8074
+Uganda,RDC,Air,120,13164,266176,20,0.17,2722,7604,Germany,5868
+Côte d'Ivoire,RDC,Air,60,2200,8250,3,0.06,192,2649,India,9091
+Tanzania,RDC,Truck,120,7995,174131,21,0.18,1946,11382,India,5659
+Vietnam,EXW,Air,200,1000,1450,1,0.01,3622,9181,India,3157
+Nigeria,RDC,Air Charter,60,100000,858000,8,0.14,38992,48199,India,7633
+Côte d'Ivoire,RDC,Truck,60,5701,23659,4,0.07,338,2487, Nashik,8608
+South Africa,DDP,Ocean,60,77143,565458,7,0.12,3894,2161,India,8074
+Nigeria,RDC,Air,60,957,2775,2,0.05,3622,9181,India,7633
+Vietnam,EXW,Air,90,400,3128,7,0.09,3622,9181,India,3157
+Uganda,DDP,Air,120,100,6660,66,0.55,14,-473, Port Elizabeth,3989
+Côte d'Ivoire,RDC,Truck,120,21497,422631,19,0.16,21,21007, Nashik,8608
+Haiti,RDC,Air,60,7560,10659,1,0.02,2027,18372,India,14446
+South Africa,DDP,Truck,60,13,328,25,0.42,3622,9181,India,8074
+Côte d'Ivoire,RDC,Air,60,1437,4167,2,0.05,138,211,India,9091
+Uganda,RDC,Air,120,12022,243084,20,0.17,3622,9181,Germany,5868
+Rwanda,CIP,Air,30,768,4369,5,0.19,55,-607,India,5921
+South Africa,DDP,Truck,30,250,5315,21,0.71,3622,9181, Port Elizabeth,573
+South Africa,DDP,Air,60,2160,23133,10,0.18,3622,9181,France,8670
+Rwanda,RDC,Air,240,10401,15705,1,0.01,3880,27001,India,5921
+Nigeria,RDC,Air,30,1000,50400,50,1.68,108,12353, Haarlem,4754
+Vietnam,EXW,Air,60,18000,43200,2,0.04,3622,9181,India,3157
+South Africa,DDP,Air,60,8366,62159,7,0.12,458,697,India,8074
+Côte d'Ivoire,RDC,Air,240,628,1224,1,0.01,232,794,India,9091
+Nigeria,RDC,Air,30,17933,470741,26,0.88,1564,15864, Port Elizabeth,5168
+Nigeria,RDC,Air Charter,30,59615,772610,12,0.43,7722,13547,India,7633
+Tanzania,RDC,Air,120,32294,610356,18,0.16,20132,96918,Germany,6837
+Nigeria,RDC,Air Charter,240,833,1582,1,0.01,3622,9181,India,7633
+"Congo, DRC",RDC,Air,60,489,5555,11,0.19,2045,15083,India,6583
+Mozambique,RDC,Truck,60,17500,68250,3,0.06,1292,588, Nashik,6074
+Côte d'Ivoire,RDC,Air,240,1417,2593,1,0.01,538,1195,India,9091
+Uganda,RDC,Truck,30,22872,139061,6,0.2,3622,9181, Nashik,4961
+South Africa,DDP,Air,60,10000,56800,5,0.09,3622,9181,South Africa,0
+Nigeria,RDC,Air Charter,60,4050,5913,1,0.02,3622,9181,India,7633
+South Africa,DDP,Truck,30,6,85,14,0.47,3622,9181,India,8074
+Uganda,RDC,Air,30,5000,25650,5,0.17,3622,9181, Nashik,4961
+Uganda,RDC,Air,30,3014,79117,26,0.88,291,755, Port Elizabeth,3989
+Tanzania,RDC,Truck,60,36576,94366,2,0.04,4145,647,India,5659
+Vietnam,EXW,Air,30,42392,597727,14,0.47,3622,9181, Nashik,3641
+South Africa,DDP,Truck,60,50,2492,49,0.83,3622,9181,India,8074
+Zambia,RDC,Truck,60,60000,237000,3,0.07,2484,2613, Nashik,6339
+Côte d'Ivoire,RDC,Air,240,352,5280,15,0.06,125,328,India,9091
+Haiti,RDC,Air,60,4725,7182,1,0.03,1154,11508,India,14446
+Vietnam,EXW,Air,60,7600,15808,2,0.03,1292,1800,India,3157
+Uganda,RDC,Air,60,105,809,7,0.13,6,53,India,5524
+Uganda,RDC,Air,60,12974,31656,2,0.04,3622,9181, Nashik,4961
+Zambia,RDC,Air,30,84,1043,12,0.41,3622,9181,India,6906
+Zimbabwe,RDC,Air,60,34732,257016,7,0.12,3622,9181,India,6980
+Vietnam,EXW,Air,30,27608,389272,14,0.47,3622,9181, Nashik,3641
+Nigeria,RDC,Air,30,20000,200000,10,0.33,1801,9181, Nashik,7134
+South Africa,DDP,Ocean,30,128620,547921,4,0.14,10643,6292,India,8074
+Rwanda,RDC,Air,60,8766,21389,2,0.04,447,3257,India,5921
+Mozambique,RDC,Air,60,27150,105885,3,0.06,3622,9181, Nashik,6074
+Côte d'Ivoire,CIP,Air,180,3559,60360,16,0.09,1061,1454, Haarlem,5009
+Mozambique,RDC,Truck,60,660,4798,7,0.12,3622,9181,India,6624
+Nigeria,RDC,Air Charter,120,13130,244743,18,0.16,3232,3495,Germany,4614
+Zambia,RDC,Truck,60,14653,96709,6,0.11,1413,325,India,6906
+South Africa,DDP,Truck,60,1,24,24,0.42,3622,9181,India,8074
+Haiti,RDC,Air,30,19656,71547,3,0.12,1679,17028,India,14446
+Haiti,RDC,Air,60,960,6921,7,0.12,3622,9181,India,14446
+Nigeria,RDC,Air Charter,60,60000,681000,11,0.19,6949,10637,India,7633
+Mozambique,RDC,Truck,60,150000,1216500,8,0.14,3622,9181, Nashik,6074
+Nigeria,RDC,Air Charter,30,80000,266400,3,0.11,4847,13547,India,7633
+Côte d'Ivoire,RDC,Air,30,3859,15590,4,0.13,242,2128, Nashik,8608
+Vietnam,EXW,Air,60,400,3352,8,0.14,23,1149,India,3157
+Côte d'Ivoire,RDC,Air,30,4269,44995,10,0.35,3622,9181, Nashik,8608
+Uganda,RDC,Air,60,5919,69844,11,0.2,3622,9181,India,5524
+Nigeria,RDC,Air,240,35,217,6,0.03,3622,9181,India,7633
+Côte d'Ivoire,RDC,Truck,60,4200,16338,3,0.06,180,965,India,9091
+Nigeria,RDC,Air Charter,60,88433,730456,8,0.14,8935,20326,India,7633
+Zambia,RDC,Air,60,11209,145268,12,0.22,1143,876, Nashik,6339
+Uganda,CIP,Air,60,274,25071,91,1.52,28,-499, Haarlem,6190
+Vietnam,EXW,Air,60,1247,3167,2,0.04,71,3035,India,3157
+"Congo, DRC",RDC,Air,90,710,6624,9,0.1,3622,9181,India,6583
+South Africa,DDP,Truck,240,6,42,7,0.03,3622,9181,India,8074
+Rwanda,RDC,Air,60,10530,25693,2,0.04,544,4029,India,5921
+Uganda,EXW,Air,60,7445,16676,2,0.04,574,2868,India,5524
+Mozambique,RDC,Truck,60,6275,71911,11,0.19,3622,9181, Nashik,6074
+South Africa,DDP,Truck,90,3,51,17,0.19,3622,9181,India,8074
+Mozambique,RDC,Air,60,19000,256500,13,0.22,3622,9181,India,6624
+Nigeria,RDC,Air Charter,30,60756,640368,10,0.35,5481,11601, Nashik,7134
+Uganda,RDC,Truck,60,14476,57180,3,0.07,839,7402,India,5524
+Mozambique,RDC,Truck,30,720,2908,4,0.13,52,-496, Nashik,6074
+Haiti,EXW,Ocean,60,960,1651,1,0.03,8385,11336,India,14446
+Uganda,RDC,Truck,60,19942,223749,11,0.19,3622,9181,India,5524
+Zimbabwe,RDC,Truck,60,4451,13130,2,0.05,228,6423,India,6980
+Nigeria,RDC,Air Charter,60,63,91,1,0.02,3622,9181,India,7633
+Rwanda,RDC,Air,60,10000,36000,3,0.06,558,2989, Nashik,5355
+Tanzania,RDC,Truck,60,9243,235234,25,0.42,936,1233,India,5659
+Zambia,RDC,Truck,60,13127,32948,2,0.04,1252,5079,India,6906
+Côte d'Ivoire,RDC,Truck,60,2200,8800,4,0.07,105,1151,India,9091
+Mozambique,RDC,Truck,60,43020,302000,7,0.12,22479,5483, Nashik,6074
+Haiti,RDC,Air,240,5216,10014,1,0.01,3622,9181,India,14446
+Zambia,RDC,Air,90,1093,16679,15,0.17,133,759,India,6906
+Uganda,RDC,Air,30,5277,63904,12,0.4,1366,7507, Nashik,4961
+Rwanda,RDC,Air,90,2434,22636,9,0.1,3622,9181,India,5921
+Côte d'Ivoire,RDC,Truck,240,3000,6300,2,0.01,1159,4405,India,9091
+Rwanda,RDC,Truck,60,288,921,3,0.05,28,-104,India,5921
+Tanzania,EXW,Air,60,39360,281424,7,0.12,3421,14241,India,5659
+Zimbabwe,CIP,Air,60,579,14764,25,0.42,3622,9181,France,7729
+Zimbabwe,RDC,Truck,60,22074,122731,5,0.09,3622,9181,India,6980
+Nigeria,RDC,Air Charter,60,15000,97800,6,0.11,1547,2410,India,7633
+Mozambique,RDC,Truck,60,30630,175509,5,0.1,3622,9181,India,6624
+Zimbabwe,RDC,Truck,30,10114,83238,8,0.27,3622,9181, Nashik,6420
+South Africa,DDP,Truck,30,600,11761,19,0.65,3622,9181,India,8074
+Vietnam,EXW,Air,60,672,940,1,0.02,32,701,India,3157
+Zambia,RDC,Truck,60,29011,98637,3,0.06,2717,3060,India,6906
+Côte d'Ivoire,RDC,Air,60,14000,24500,1,0.03,989,2452,India,9091
+Uganda,RDC,Air,30,3713,40843,11,0.37,3622,9181,India,5524
+Nigeria,RDC,Air Charter,60,5426,61856,11,0.19,610,9181,India,7633
+Mozambique,FCA,Air,60,168,1150,6,0.11,23,-149,Germany,8163
+Vietnam,EXW,Air,60,12816,103809,8,0.13,3622,9181, Nashik,3641
+Nigeria,FCA,Air,120,159,6534,41,0.34,3622,9181,Germany,4614
+Mozambique,RDC,Truck,60,232476,1885380,8,0.14,3622,9181,India,6624
+South Africa,DDP,Truck,200,600,858,1,0.01,3622,9181,France,8670
+Côte d'Ivoire,RDC,Truck,240,4157,5944,1,0.01,1385,5437,India,9091
+Haiti,CIP,Air,200,32,402,12,0.06,3622,9181,France,7294
+Nigeria,RDC,Air Charter,60,6000,67320,11,0.19,789,5147,India,7633
+Vietnam,EXW,Air,30,46749,560520,11,0.4,7500,18116, Nashik,3641
+Haiti,FCA,Air,60,272,1863,6,0.11,37,-278,Germany,7877
+Uganda,RDC,Air,30,667,2968,4,0.15,3622,9181, Nashik,4961
+"Congo, DRC",RDC,Air,120,17,573,33,0.28,3622,9181,India,6583
+Rwanda,RDC,Truck,60,157062,347107,2,0.04,15302,11757,India,5921
+Tanzania,RDC,Air,30,80000,1593600,19,0.66,3622,9181, Nashik,5091
+Côte d'Ivoire,RDC,Air,90,2520,32079,12,0.14,3622,9181,India,9091
+Nigeria,EXW,Air,30,10150,228375,22,0.75,1360,6665, Nashik,7134
+Vietnam,EXW,Air,60,16645,39115,2,0.04,742,4440,India,3157
+Vietnam,EXW,Air,60,3500,39025,11,0.19,1804,5341,India,3157
+Zambia,RDC,Truck,60,20000,77800,3,0.06,117,4900, Nashik,6339
+Vietnam,EXW,Air,30,14500,166605,11,0.38,1640,1503, Nashik,3641
+Côte d'Ivoire,RDC,Truck,30,611,8260,13,0.45,55,335, Nashik,8608
+Zimbabwe,RDC,Truck,60,76000,506160,6,0.11,8701,14332,India,6980
+Tanzania,RDC,Truck,30,90000,400500,4,0.15,7397,27022, Nashik,5091
+South Africa,DDP,Truck,120,76,5844,76,0.64,3622,9181, Latina,7877
+Zambia,CIP,Air,60,545,3815,7,0.12,3622,9181,France,7240
+South Africa,DDP,Truck,30,100,2733,27,0.91,3622,9181, Port Elizabeth,573
+Uganda,RDC,Air,60,5131,60545,11,0.2,691,7252,India,5524
+Vietnam,FCA,Air,30,100,2326,23,0.78,3622,9181,Germany,9157
+"Congo, DRC",RDC,Air,120,1156,22726,19,0.16,2187,23532, Nashik,6020
+South Africa,DDP,Air,60,3675,9371,2,0.04,3622,9181,India,8074
+South Africa,DDP,Truck,30,4,60,15,0.51,3622,9181,India,8074
+Nigeria,RDC,Air Charter,60,4026,29269,7,0.12,410,9181,India,7633
+Tanzania,RDC,Truck,30,26000,152620,5,0.2,3888,7057, Nashik,5091
+Uganda,RDC,Air,60,4564,13235,2,0.05,847,3999,India,5524
+Haiti,RDC,Air,60,1680,12650,7,0.13,3622,9181, Nashik,14325
+Zimbabwe,RDC,Truck,60,20451,47037,2,0.04,10118,8251,India,6980
+Rwanda,RDC,Air,60,15000,131400,8,0.15,1364,20215,India,5921
+Nigeria,RDC,Air Charter,120,3831,83439,21,0.18,1094,19761,India,7633
+Côte d'Ivoire,RDC,Air,240,2976,5713,1,0.01,209,4463,India,9091
+Zambia,RDC,Truck,30,107180,857440,8,0.27,7995,9181, Nashik,6339
+South Africa,DDP,Ocean,30,116000,815480,7,0.23,7965,12688,India,8074
+Nigeria,RDC,Air Charter,60,17000,193800,11,0.19,1914,8341,India,7633
+Uganda,CIP,Air,30,8215,110820,13,0.45,805,3, Nashik,4961
+Côte d'Ivoire,EXW,Air,30,2245,51635,23,0.77,226,1911,India,9091
+South Africa,DDP,Truck,60,20,428,21,0.36,3622,9181,India,8074
+South Africa,DDP,Truck,60,18,561,31,0.52,3622,9181,India,8074
+South Africa,DDP,Truck,60,22,433,19,0.33,3622,9181,India,8074
+Uganda,RDC,Air,120,2427,72033,29,0.25,647,6263, Nashik,4961
+Zambia,RDC,Truck,60,132000,871200,6,0.11,10615,21520, Nashik,6339
+Tanzania,RDC,Truck,30,68235,1359241,19,0.66,3622,9181, Nashik,5091
+Tanzania,RDC,Air,60,155319,1149360,7,0.12,28334,79239,India,5659
+Haiti,RDC,Air,120,240,9864,41,0.34,52,422,Germany,7877
+Zimbabwe,RDC,Truck,30,42444,366291,8,0.29,1423,5623, Nashik,6420
+South Africa,DDP,Truck,60,48,4062,84,1.41,3622,9181, Haarlem,9211
+"Congo, DRC",RDC,Air,90,312,2277,7,0.08,3622,9181,India,6583
+Côte d'Ivoire,RDC,Air,60,864,1296,1,0.02,3622,9181,India,9091
+Nigeria,RDC,Air,60,37742,246077,6,0.11,3322,20533, Nashik,7134
+Zimbabwe,RDC,Truck,60,112100,642333,5,0.1,3622,9181,India,6980
+Côte d'Ivoire,CIP,Air,60,300,2850,9,0.16,3622,9181,France,4338
+Mozambique,RDC,Truck,240,2047,3684,1,0.01,3622,9181,India,6624
+South Africa,DDP,Air,60,2000,10460,5,0.09,3622,9181,South Africa,0
+Tanzania,RDC,Truck,30,2178,12784,5,0.2,2304,4989,India,5659
+South Africa,DDP,Air,240,6395,19185,3,0.01,3622,9181,India,8074
+South Africa,DDP,Ocean,240,10603,23962,2,0.01,3818,10234,India,8074
+Nigeria,RDC,Air Charter,60,15000,108150,7,0.12,823,11601,India,7633
+Vietnam,FCA,Air,120,5000,304000,60,0.51,3622,9181,Germany,9157
+South Africa,DDP,Air,60,1140,4286,3,0.06,3622,9181,France,8670
+South Africa,DDP,Air,240,1200,7248,6,0.03,3622,9181,India,8074
+South Africa,DDP,Truck,60,537,14023,26,0.44,3622,9181,India,8074
+Haiti,RDC,Air,60,2610,3680,1,0.02,3622,9181,India,14446
+Haiti,CIP,Air,180,2295,38923,16,0.09,687,4293, Haarlem,7467
+Nigeria,RDC,Air Charter,30,1590,31672,19,0.66,174,8736, Nashik,7134
+South Africa,DDP,Truck,60,14,270,19,0.32,3622,9181,India,8074
+Zimbabwe,RDC,Truck,60,66268,490383,7,0.12,6606,21666,India,6980
+Vietnam,FCA,Air,30,429,9978,23,0.78,43,-579,Germany,9157
+South Africa,DDP,Air,30,29380,137204,4,0.16,3622,9181,India,8074
+Tanzania,RDC,Air,30,18451,229161,12,0.41,1636,5195,India,5659
+Nigeria,RDC,Air Charter,30,23000,305210,13,0.44,2437,17461, Nashik,7134
+South Africa,DDP,Air,30,80,2336,29,0.97,3622,9181, Port Elizabeth,573
+Zambia,RDC,Air,60,10000,79000,7,0.13,581,2238,India,6906
+Zambia,RDC,Truck,60,50000,136500,2,0.05,3622,9181,India,6906
+Haiti,RDC,Air,30,13577,78475,5,0.19,3622,9181,India,14446
+Haiti,EXW,Air,240,3528,6526,1,0.01,1296,8230,India,14446
+Zambia,RDC,Truck,60,12873,90111,7,0.12,3622,9181,India,6906
+Côte d'Ivoire,RDC,Air,30,26710,259621,9,0.32,1866,5111,India,9091
+Nigeria,EXW,Air,100,8,3200,400,4.0,3622,9181,Thailand,10046
+South Africa,DDP,Ocean,30,146670,975355,6,0.22,13690,14213,India,8074
+Vietnam,EXW,Air,100,1400,7686,5,0.05,106,1869,India,3157
+South Africa,DDP,Truck,30,132,1823,13,0.46,3622,9181, Nashik,7527
+Zambia,RDC,Truck,60,5125,77080,15,0.25,523,2949, Nashik,6339
+Mozambique,RDC,Truck,60,100000,1122000,11,0.19,3622,9181,India,6624
+Rwanda,RDC,Air,60,25000,280500,11,0.19,2930,41573,India,5921
+Mozambique,RDC,Truck,60,100000,811000,8,0.14,3622,9181,India,6624
+Uganda,CIP,Air,60,786,43623,55,0.92,79,1158, Haarlem,6190
+Vietnam,EXW,Air,60,540,8100,15,0.25,3622,9181, Nashik,3641
+Vietnam,EXW,Air,60,1652,10721,6,0.11,146,-254, Nashik,3641
+Côte d'Ivoire,RDC,Air,60,915,6889,7,0.13,51,702,India,9091
+South Africa,DDP,Truck,30,328,976,2,0.1,3622,9181,India,8074
+Mozambique,RDC,Truck,60,164250,1409265,8,0.14,19164,13509,India,6624
+Zimbabwe,FCA,Air,60,14322,85072,5,0.1,3622,9181,Germany,7939
+"Congo, DRC",RDC,Air,30,1240,5009,4,0.13,3622,9181, Nashik,6020
+Côte d'Ivoire,RDC,Truck,120,20440,418611,20,0.17,5450,22701, Nashik,8608
+Tanzania,CIP,Air,240,132,3300,25,0.1,3622,9181,Canada,13251
+"Congo, DRC",RDC,Air,60,28,308,11,0.18,13,-88, Nashik,6020
+"Congo, DRC",RDC,Air,30,42,462,11,0.37,3622,9181,India,6583
+South Africa,DDP,Truck,60,3,206,68,1.15,3622,9181,India,8074
+Mozambique,RDC,Truck,60,13100,61570,4,0.08,3622,9181,India,6624
+Vietnam,EXW,Air,30,23389,268739,11,0.38,2741,3802, Nashik,3641
+South Africa,DDP,Air,240,26000,392080,15,0.06,3622,6707,Canada,15035
+Vietnam,EXW,Air,60,408,5911,14,0.24,42,3388, Nashik,3641
+South Africa,DDP,Truck,90,8,136,17,0.19,3622,9181,India,8074
+Nigeria,RDC,Air Charter,30,30000,291600,9,0.32,3364,6329,India,7633
+Nigeria,RDC,Air Charter,30,10944,46183,4,0.14,726,14322,India,7633
+Haiti,RDC,Air,60,30000,247800,8,0.14,3622,9181, Nashik,14325
+Mozambique,RDC,Truck,60,5320,34101,6,0.11,273,4496,India,6624
+South Africa,DDP,Truck,120,200,8396,41,0.35,3622,9181,Germany,8973
+Vietnam,CIP,Air,60,520,3640,7,0.12,104,1658,France,9916
+Uganda,EXW,Air,60,22500,52875,2,0.04,2145,7143,India,5524
+South Africa,DDP,Truck,60,18,247,13,0.23,3622,9181,India,8074
+"Congo, DRC",RDC,Air,60,1976,3438,1,0.03,3622,9181,India,6583
+Vietnam,EXW,Air,30,1760,3555,2,0.07,126,-202,India,3157
+"Congo, DRC",RDC,Air,240,10,19,1,0.01,71,334,India,6583
+Côte d'Ivoire,RDC,Air,30,1596,3575,2,0.07,3622,9181,India,9091
+Nigeria,RDC,Air,60,3000,22500,7,0.12,165,9181,India,7633
+Zimbabwe,RDC,Air,60,47390,277231,5,0.1,7112,2833,India,6980
+Mozambique,RDC,Air,60,30000,525000,17,0.29,3622,9181,India,6624
+Nigeria,RDC,Air,60,15000,40950,2,0.05,1444,123350,India,7633
+South Africa,DDP,Truck,60,408,1608,3,0.07,3622,9181,India,8074
+Côte d'Ivoire,RDC,Air Charter,30,2340,52650,22,0.75,263,1330, Nashik,8608
+Nigeria,RDC,Air Charter,60,80,700,8,0.15,8,9181,India,7633
+Vietnam,EXW,Air,30,63421,272710,4,0.14,5101,12241, Nashik,3641
+Vietnam,EXW,Air,60,12937,29755,2,0.04,875,1181,India,3157
+Uganda,EXW,Air,30,205042,2458453,11,0.4,24556,145850, Nashik,4961
+Uganda,RDC,Truck,120,8760,177127,20,0.17,1798,4856,Germany,5868
+South Africa,DDP,Truck,30,7242,148900,20,0.69,3622,9181,India,8074
+Rwanda,RDC,Air,60,373,746,2,0.03,14,284, Nashik,5355
+Haiti,RDC,Air,240,2415,4588,1,0.01,3622,9181,India,14446
+Zambia,RDC,Truck,30,8200,36490,4,0.15,3622,9181,India,6906
+Vietnam,CIP,Air,60,320,2240,7,0.12,3622,9181,France,9916
+Zimbabwe,RDC,Truck,60,15120,135626,8,0.15,5754,9075,India,6980
+Haiti,EXW,Air,240,375,2561,6,0.03,300,1949,India,14446
+South Africa,DDP,Truck,120,41,1049,25,0.21,3622,9181, Latina,7877
+Zambia,RDC,Truck,30,16099,198017,12,0.41,2004,3356, Nashik,6339
+Nigeria,RDC,Air Charter,60,6100,79056,12,0.22,681,15532, Nashik,7134
+Vietnam,EXW,Air,60,1966,4423,2,0.04,91,143, Nashik,3641
+Zambia,CIP,Air,60,5408,68952,12,0.21,1072,9181,France,7240
+South Africa,DDP,Truck,30,5000,185776,37,1.24,3622,9181, Nashik,7527
+Haiti,EXW,Ocean,240,1295,1955,1,0.01,536,893,India,14446
+Haiti,FCA,Air,120,10,411,41,0.34,9,-193,Germany,7877
+Nigeria,EXW,Air,540,34,1547,45,0.08,3622,9181,Switzerland,4123
+Côte d'Ivoire,EXW,Air,30,1461,29950,20,0.68,154780,664,India,9091
+Uganda,RDC,Air,60,589,4435,7,0.13,33,-253,India,5524
+Uganda,RDC,Air,60,10372,119900,11,0.19,1312,13569, Nashik,4961
+South Africa,DDP,Air,60,52379,132518,2,0.04,2512,3116,India,8074
+Uganda,RDC,Air,30,867,8427,9,0.32,76,954, Nashik,4961
+Zambia,RDC,Truck,60,15718,47154,3,0.05,3622,9181,India,6906
+Nigeria,RDC,Air Charter,60,191230,1550875,8,0.14,27094,69210, Nashik,7134
+Nigeria,RDC,Air,90,400,6400,16,0.18,48,260,India,7633
+South Africa,DDP,Truck,60,161,1063,6,0.11,3622,9181,India,8074
+South Africa,DDP,Truck,60,2600,16744,6,0.11,3622,9181,South Africa,0
+Uganda,RDC,Air,30,90,2362,26,0.88,3622,9181, Port Elizabeth,3989
+Rwanda,CIP,Air,60,9270,179189,19,0.32,1010,15847,India,5921
+Uganda,RDC,Air,30,3273,44250,13,0.45,389,1786,India,5524
+Haiti,RDC,Air,60,59952,525179,8,0.15,6967,74688,India,14446
+Zambia,RDC,Truck,60,3600,27900,7,0.13,750,-187,India,6906
+Uganda,RDC,Air,60,88,1038,11,0.2,10,2,India,5524
+Nigeria,RDC,Air Charter,60,50000,386000,7,0.13,6201,11082,India,7633
+Haiti,RDC,Air,60,120,903,7,0.13,3622,9181,India,14446
+Vietnam,EXW,Air,60,14142,119075,8,0.14,1741,2821,India,3157
+Haiti,RDC,Air,240,4810,8898,1,0.01,3622,9181,India,14446
+Uganda,EXW,Air,30,1665,37462,22,0.75,420,2900, Nashik,4961
+Zimbabwe,RDC,Truck,90,1000,9300,9,0.1,68,4,India,6980
+Côte d'Ivoire,RDC,Air,90,1680,25636,15,0.17,3337,8936,India,9091
+Rwanda,RDC,Air,60,3813,7435,1,0.03,3622,9181,India,5921
+Haiti,RDC,Air,60,500,875,1,0.03,3622,9181,India,14446
+Uganda,RDC,Truck,60,8988,100845,11,0.19,3622,9181, Nashik,4961
+Vietnam,EXW,Air,60,13444,34954,2,0.04,3622,9181, Nashik,3641
+Haiti,RDC,Air,90,1176,11842,10,0.11,3622,9181,India,14446
+Mozambique,CIP,Air,60,100,5400,54,0.9,3622,9181, Latina,7096
+Côte d'Ivoire,RDC,Air,30,1620,36450,22,0.75,3622,9181, Nashik,8608
+Zimbabwe,EXW,Ocean,60,42500,341700,8,0.13,3868,15210,India,6980
+Zimbabwe,RDC,Truck,60,69990,540322,7,0.13,6408,9181,India,6980
+Nigeria,RDC,Air,60,40080,454908,11,0.19,4498,18480,India,7633
+Tanzania,RDC,Air,60,2292,17694,7,0.13,617,647,India,5659
+"Congo, DRC",RDC,Air,60,800,6608,8,0.14,3622,9181, Nashik,6020
+Côte d'Ivoire,RDC,Truck,30,1764,6262,3,0.12,110,-293, Nashik,8608
+Rwanda,EXW,Air,60,607,4880,8,0.13,66,26,India,5921
+Zimbabwe,RDC,Truck,30,8000,16000,2,0.07,483,1947,India,6980
+Haiti,EXW,Ocean,240,300,2049,6,0.03,3622,9181,India,14446
+South Africa,DDP,Truck,60,240,4860,20,0.34,3622,9181,India,8074
+Mozambique,RDC,Air,30,2933,49127,16,0.56,3622,9181,India,6624
+Uganda,RDC,Truck,60,2368,9685,4,0.07,3622,9181,India,5524
+Rwanda,RDC,Truck,60,26540,219220,8,0.14,3622,9181,India,5921
+Rwanda,CIP,Air,30,32510,381992,11,0.39,2791,27336,India,5921
+Zimbabwe,RDC,Truck,30,150468,1468567,9,0.33,3622,9181, Nashik,6420
+Nigeria,RDC,Air Charter,30,62611,1247211,19,0.66,7190,12398, Nashik,7134
+Tanzania,RDC,Truck,30,51763,884112,17,0.57,1645,9181, Nashik,5091
+South Africa,DDP,Air,60,6840,73256,10,0.18,3622,9181,France,8670
+Haiti,RDC,Air,30,1428,3198,2,0.07,83,6789,India,14446
+Côte d'Ivoire,RDC,Truck,60,50700,391404,7,0.13,3622,9181, Nashik,8608
+Vietnam,EXW,Air,60,3500,39025,11,0.19,3622,9181,India,3157
+Tanzania,RDC,Air,60,9367,72594,7,0.13,1955,5923,India,5659
+Côte d'Ivoire,RDC,Truck,240,5000,10500,2,0.01,3622,9181,India,9091
+Mozambique,RDC,Truck,60,75535,492488,6,0.11,6237,4443, Nashik,6074
+Haiti,CIP,Air,120,22,1465,66,0.55,3622,9181,Puerto Rico,627
+Zimbabwe,RDC,Truck,60,1900,6460,3,0.06,3622,9181,India,6980
+South Africa,DDP,Ocean,30,42131,280171,6,0.22,3622,9181,India,8074
+Rwanda,CIP,Air,240,9565,18651,1,0.01,6490,2010,India,5921
+South Africa,DDP,Air,60,1500,15150,10,0.17,3622,9181,France,8670
+Vietnam,FCA,Air,120,434,35674,82,0.68,113,1709,Germany,9157
+South Africa,DDP,Truck,60,203,1855,9,0.15,3622,9181,India,8074
+South Africa,DDP,Truck,30,5,71,14,0.47,3622,9181,India,8074
+Nigeria,RDC,Air,60,1132,8716,7,0.13,3622,9181,India,7633
+Vietnam,EXW,Air,60,1200,13308,11,0.18,128,69, Nashik,3641
+Zimbabwe,RDC,Truck,30,43715,202400,4,0.15,3622,9181,India,6980
+South Africa,DDP,Truck,30,3,57,19,0.64,3622,9181, Nashik,7527
+South Africa,DDP,Ocean,60,1033,7571,7,0.12,52,3295,India,8074
+Rwanda,CIP,Air,60,38736,348624,9,0.15,3080,32235, Nashik,5355
+Haiti,RDC,Air,180,98,1662,16,0.09,28,-12, Haarlem,7467
+Côte d'Ivoire,EXW,Air,60,3136,94080,30,0.5,492,4150, Nashik,8608
+Tanzania,FCA,Air,120,2855,103236,36,0.3,3622,9181,Germany,6837
+Nigeria,RDC,Air Charter,120,17497,512837,29,0.24,4898,17461,India,7633
+Zimbabwe,RDC,Truck,60,71030,333841,4,0.08,3622,9181,India,6980
+South Africa,DDP,Truck,60,320,1475,4,0.08,3622,9181,France,8670
+Uganda,RDC,Truck,60,4466,11522,2,0.04,3622,9181,India,5524
+Zambia,RDC,Truck,30,66075,592692,8,0.3,5727,13325, Nashik,6339
+South Africa,DDP,Truck,120,1473,36814,24,0.21,3622,9181,Germany,8973
+Nigeria,RDC,Air Charter,60,1722,19320,11,0.19,202,9181,India,7633
+Nigeria,RDC,Air Charter,90,16,203,12,0.14,3622,9181,India,7633
+South Africa,DDP,Ocean,30,55000,131450,2,0.08,3099,6321,India,8074
+Uganda,DDP,Air,120,165,15140,91,0.76,24,-703, Port Elizabeth,3989
+Nigeria,RDC,Air Charter,90,1220,11821,9,0.11,169,12398,India,7633
+Haiti,CIP,Air,60,120,6660,55,0.92,11,-740, Haarlem,7467
+South Africa,DDP,Truck,120,3,209,69,0.58,3622,9181, Latina,7877
+Haiti,FCA,Air,60,80,475,5,0.1,8,-263,Germany,7877
+Côte d'Ivoire,RDC,Air,60,10000,118000,11,0.2,1456,4048,India,9091
+Mozambique,RDC,Air,90,720,10987,15,0.17,3622,9181,India,6624
+Tanzania,RDC,Truck,60,233630,1929783,8,0.14,21394,12590,India,5659
+Nigeria,RDC,Air Charter,60,15944,181761,11,0.19,1793,10492,India,7633
+Nigeria,RDC,Air,60,9483,108106,11,0.19,1079,9823,India,7633
+Uganda,RDC,Truck,120,3663,69230,18,0.16,3622,9181,Germany,5868
+Haiti,RDC,Air,60,4305,6543,1,0.03,3622,9181,India,14446
+Nigeria,RDC,Air Charter,60,145235,1177855,8,0.14,3622,9181,India,7633
+Haiti,RDC,Air,90,105,1680,16,0.18,14,15,India,14446
+Haiti,RDC,Air,60,4860,7241,1,0.02,2034,22441,India,14446
+Zimbabwe,RDC,Truck,30,78082,432574,5,0.18,3622,9181, Nashik,6420
+South Africa,DDP,Truck,90,12,264,22,0.25,3622,9181,India,8074
+Nigeria,RDC,Air,30,24799,132922,5,0.18,3622,9181,India,7633
+South Africa,DDP,Truck,240,8,141,17,0.07,3622,9181,India,8074
+Rwanda,CIP,Air,60,26100,424125,16,0.27,2586,170, Nashik,5355
+"Congo, DRC",RDC,Air,240,620,1209,1,0.01,3622,9181,India,6583
+Nigeria,RDC,Air,60,969,3779,3,0.06,71,181, Nashik,7134
+South Africa,DDP,Truck,60,10,123,12,0.21,3622,9181,France,8670
+Côte d'Ivoire,RDC,Truck,60,145000,1119400,7,0.13,16614,23788,India,9091
+Côte d'Ivoire,RDC,Air,30,4080,107100,26,0.88,3622,9181, Port Elizabeth,5690
+Nigeria,EXW,Air,30,1200,1836,1,0.05,52,-572,India,7633
+Zambia,EXW,Air,30,60784,1018132,16,0.56,11179,48824,India,6906
+Rwanda,CIP,Air,60,100000,700000,7,0.12,10303,34034,India,5921
+Tanzania,RDC,Air,240,2335,29187,12,0.05,9523,9181,India,5659
+Zimbabwe,RDC,Truck,60,1883,6025,3,0.05,3622,9181,India,6980
+South Africa,DDP,Air,60,100,371,3,0.06,3622,9181,France,8670
+Zambia,RDC,Truck,30,27941,307351,11,0.37,1970,5759,India,6906
+South Africa,DDP,Air,240,30,323,10,0.04,3622,9181,Germany,8973
+South Africa,DDP,Truck,60,35,1874,53,0.89,3622,9181,India,8074
+Mozambique,RDC,Truck,240,4000,8400,2,0.01,1137,3711,India,6624
+Mozambique,CIP,Air,60,52,2886,55,0.92,3622,9181, Haarlem,8465
+Nigeria,RDC,Air Charter,30,361,2317,6,0.21,40,14322, Nashik,7134
+Nigeria,RDC,Air Charter,60,54125,607282,11,0.19,7050,5147,India,7633
+Haiti,RDC,Air,240,9187,19292,2,0.01,3435,39301,India,14446
+Zimbabwe,RDC,Truck,90,819,7616,9,0.1,58,551,India,6980
+Haiti,RDC,Air,240,8768,18412,2,0.01,10030,95669,India,14446
+Tanzania,RDC,Truck,60,42141,157185,3,0.06,3622,9181, Nashik,5091
+Nigeria,RDC,Air Charter,60,52378,404358,7,0.13,7666,15532,India,7633
+"Congo, DRC",RDC,Air,30,2955,9485,3,0.11,3622,9181,India,6583
+Côte d'Ivoire,RDC,Truck,60,7273,60074,8,0.14,650,3029,India,9091
+Nigeria,RDC,Air Charter,90,2067,17858,8,0.1,307,16090,India,7633
+Zimbabwe,RDC,Truck,30,97100,856422,8,0.29,14340,15222, Nashik,6420
+Côte d'Ivoire,RDC,Air,240,2345,4455,1,0.01,3622,9181,India,9091
+Nigeria,RDC,Air,60,1747,15303,8,0.15,148,12, Nashik,7134
+Zambia,RDC,Air,30,22260,244860,11,0.37,1921,1448,India,6906
+Vietnam,EXW,Air,60,15040,86329,5,0.1,1481,5390,India,3157
+"Congo, DRC",RDC,Air,60,1850,6937,3,0.06,3622,9181,India,6583
+Zambia,RDC,Truck,30,61059,352921,5,0.19,4305,8935,India,6906
+Nigeria,RDC,Air,60,4674,40944,8,0.15,376,9181, Nashik,7134
+Mozambique,CIP,Air,60,54,2997,55,0.92,3622,9181, Haarlem,8465
+Côte d'Ivoire,RDC,Air,60,17621,59911,3,0.06,1650,2428,India,9091
+South Africa,DDP,Truck,30,6,100,16,0.56,3622,9181,India,8074
+Nigeria,RDC,Air Charter,120,41943,781817,18,0.16,10322,13266,Germany,4614
+South Africa,DDP,Air,60,200,2998,14,0.25,3622,9181,India,8074
+Haiti,EXW,Ocean,30,3260,9714,2,0.1,3622,9181,India,14446
+Zimbabwe,RDC,Air,60,37240,275576,7,0.12,3622,9181,India,6980
+Nigeria,RDC,Air Charter,60,10000,93500,9,0.16,905,14128,India,7633
+Zambia,RDC,Truck,60,50000,472500,9,0.16,3622,9181,India,6906
+Mozambique,RDC,Truck,60,538,753,1,0.02,43,-112,India,6624
+Zambia,RDC,Truck,60,21678,50509,2,0.04,1084,3471,India,6906
+Côte d'Ivoire,RDC,Air Charter,60,57061,471323,8,0.14,3622,9181,India,9091
+Côte d'Ivoire,RDC,Air,60,6930,176368,25,0.42,687,854, Nashik,8608
+South Africa,DDP,Ocean,30,52516,236847,4,0.15,3622,9181,India,8074
+Côte d'Ivoire,RDC,Air,30,45108,214263,4,0.16,9863,18150,India,9091
+Vietnam,EXW,Air,60,20651,227161,11,0.18,2367,9648,India,3157
+Côte d'Ivoire,RDC,Air,60,2313,34787,15,0.25,3622,9181, Nashik,8608
+Uganda,RDC,Truck,30,192,775,4,0.13,3622,9181, Nashik,4961
+Haiti,CIP,Air,180,192,3256,16,0.09,54,-710, Haarlem,7467
+Uganda,RDC,Air,120,100,4110,41,0.34,23,152,Germany,5868
+Côte d'Ivoire,RDC,Truck,60,92352,1036189,11,0.19,10832,2641,India,9091
+Zimbabwe,RDC,Truck,60,3453,6560,1,0.03,687,2403,India,6980
+Vietnam,EXW,Air,240,136,251,1,0.01,173,79,India,3157
+Rwanda,EXW,Air,30,1728,34560,20,0.67,3622,9181,India,5921
+Nigeria,RDC,Air Charter,60,1500,11250,7,0.12,120,9181, Nashik,7134
+Zimbabwe,RDC,Truck,60,4669,14940,3,0.05,3622,9181,India,6980
+South Africa,DDP,Truck,60,189,1248,6,0.11,3622,9181,India,8074
+Zambia,RDC,Truck,60,41768,92307,2,0.04,2599,2427,India,6906
+South Africa,DDP,Truck,200,120,733,6,0.03,3622,9181,Canada,15035
+Zimbabwe,RDC,Truck,30,810,11307,13,0.47,52,600, Nashik,6420
+South Africa,DDP,Truck,240,300,2040,6,0.03,3622,9181,Canada,15035
+South Africa,DDP,Ocean,30,57577,404766,7,0.23,3950,5639,India,8074
+Uganda,CIP,Air,120,108,3888,36,0.3,22,-735, Latina,4823
+Rwanda,RDC,Truck,240,2216,4121,1,0.01,1412,3609,India,5921
+Côte d'Ivoire,CIP,Air,180,1000,50000,50,0.28,254,-119, Haarlem,5009
+Mozambique,RDC,Truck,60,3386,38024,11,0.19,15942,3768, Nashik,6074
+South Africa,DDP,Truck,30,6,102,17,0.57,3622,9181,India,8074
+Zimbabwe,RDC,Truck,240,435,5254,12,0.05,116,2100,India,6980
+Nigeria,RDC,Air,200,36,50,1,0.01,4,-143,India,7633
+Côte d'Ivoire,RDC,Air,60,12169,136536,11,0.19,7916,20397,India,9091
+Tanzania,EXW,Air,60,28663,74523,2,0.04,3380,16603,India,5659
+Uganda,RDC,Air,60,36000,87840,2,0.04,2026,9095,India,5524
+South Africa,DDP,Truck,60,121,2368,19,0.33,3622,9181,India,8074
+Nigeria,RDC,Air Charter,60,45,109,2,0.04,3622,9181,India,7633
+Côte d'Ivoire,RDC,Air,30,12446,51277,4,0.14,3622,9181,India,9091
+South Africa,DDP,Truck,240,40,557,13,0.06,3622,9181,Germany,8973
+Vietnam,EXW,Air,30,16800,171192,10,0.34,1224,3686, Nashik,3641
+South Africa,DDP,Ocean,30,17701,79831,4,0.15,1552,17114,India,8074
+Côte d'Ivoire,RDC,Air,60,3847,28467,7,0.12,408,514,India,9091
+Haiti,RDC,Air,60,120,180,1,0.02,3622,9181,India,14446
+Zambia,RDC,Air,60,6000,46260,7,0.13,341,1219,India,6906
+Rwanda,CIP,Air,30,22347,390625,17,0.58,3622,9181, Nashik,5355
+Mozambique,RDC,Truck,60,1890,4573,2,0.04,4145,6433,India,6624
+South Africa,DDP,Truck,30,39,471,12,0.4,3622,9181,India,8074
+Mozambique,RDC,Air,60,32067,230882,7,0.12,2382,2671,India,6624
+Côte d'Ivoire,RDC,Air,240,819,1556,1,0.01,284,668,India,9091
+Côte d'Ivoire,RDC,Air,60,6200,70432,11,0.19,3622,9181,India,9091
+Tanzania,RDC,Air,60,11807,42150,3,0.06,1050,2291,India,5659
+Nigeria,RDC,Air Charter,30,188,893,4,0.16,17,8736,India,7633
+Mozambique,RDC,Truck,30,23450,101304,4,0.14,2068,2936,India,6624
+Tanzania,RDC,Truck,120,16114,472301,29,0.24,4256,5052, Nashik,5091
+Côte d'Ivoire,RDC,Truck,60,9577,92130,9,0.16,6889,23138,India,9091
+Nigeria,RDC,Air,60,30,225,7,0.12,2,9181,India,7633
+South Africa,DDP,Air,240,32000,320640,10,0.04,12264,9277,Canada,15035
+Haiti,EXW,Air,30,48,960,20,0.67,4,-30,India,14446
+South Africa,DDP,Truck,120,12,425,35,0.3,3622,9181, Latina,7877
+Vietnam,EXW,Air,60,5700,36993,6,0.11,498,477, Nashik,3641
+Côte d'Ivoire,RDC,Air,30,7140,119452,16,0.56,779,3646, Nashik,8608
+Zambia,RDC,Truck,30,10000,167300,16,0.56,1133,5079, Nashik,6339
+Nigeria,RDC,Air Charter,30,671,17613,26,0.88,59,6445, Port Elizabeth,5168
+Vietnam,EXW,Air,60,10080,29232,2,0.05,507,3159,India,3157
+Zimbabwe,EXW,Air,60,814,0,0,0.0,60,344, Nashik,6420
+Côte d'Ivoire,RDC,Air,60,11994,39340,3,0.05,3622,9181, Nashik,8608
+Uganda,RDC,Air,60,1650,22275,13,0.22,197,637,India,5524
+Haiti,EXW,Air,100,15,6000,400,4.0,36,195,Thailand,16167
+Zimbabwe,RDC,Truck,30,8000,16000,2,0.07,8855,28883,India,6980
+Haiti,FCA,Air,60,300,2712,9,0.15,44,75,Germany,7877
+Zambia,RDC,Air,30,69811,423752,6,0.2,7632,49626, Nashik,6339
+Côte d'Ivoire,RDC,Truck,60,55995,365087,6,0.11,4899,18497,India,9091
+Nigeria,RDC,Air Charter,60,70000,272300,3,0.06,3376,28674,India,7633
+Tanzania,EXW,Air,60,426,11114,26,0.43,45,13,India,5659
+Mozambique,RDC,Truck,60,2484,21759,8,0.15,2078,1400,India,6624
+Nigeria,RDC,Air,60,6002,20406,3,0.06,3622,9181,India,7633
+Vietnam,EXW,Air,30,252,3276,13,0.43,1553,12320,India,3157
+South Africa,DDP,Air,200,1320,1504,1,0.01,3622,9181,France,8670
+Vietnam,FCA,Air,30,400,9304,23,0.78,3622,9181,Germany,9157
+South Africa,DDP,Truck,60,1000,4890,4,0.08,3622,9181,France,8670
+Zambia,RDC,Truck,30,53787,697079,12,0.43,6342,41040,India,6906
+Haiti,EXW,Air,30,29908,89125,2,0.1,2423,13650,India,14446
+Nigeria,RDC,Air,30,31560,418801,13,0.44,3856,14459, Nashik,7134
+Côte d'Ivoire,RDC,Truck,120,15119,305706,20,0.17,7541,26875,Germany,5008
+Zambia,RDC,Truck,30,61060,251567,4,0.14,3718,18949,India,6906
+"Congo, DRC",RDC,Air,240,6172,12035,1,0.01,3622,9181,India,6583
+South Africa,DDP,Air,240,350,1781,5,0.02,3622,9181,Canada,15035
+Tanzania,RDC,Truck,30,43040,283633,6,0.22,3622,9181, Nashik,5091
+Zambia,EXW,Air,60,40000,240000,6,0.1,3533,19188,India,6906
+South Africa,DDP,Truck,60,24,329,13,0.23,3622,9181,India,8074
+Côte d'Ivoire,RDC,Truck,30,38160,506383,13,0.44,3622,9181, Nashik,8608
+South Africa,DDP,Truck,30,13,438,33,1.12,3622,9181,India,8074
+Vietnam,EXW,Air,30,300,3900,13,0.43,21,2657,India,3157
+Nigeria,RDC,Air,60,2000,11460,5,0.1,3622,9181,India,7633
+South Africa,DDP,Ocean,60,185954,459306,2,0.04,9019,12677,India,8074
+Nigeria,RDC,Air Charter,90,15,190,12,0.14,3622,9181,India,7633
+Haiti,EXW,Air,30,75000,768000,10,0.34,9057,54886, Nashik,14325
+Tanzania,EXW,Air,30,20867,32552,1,0.05,1337,7403,India,5659
+South Africa,DDP,Truck,30,3,8,3,0.1,3622,9181,India,8074
+Zambia,RDC,Truck,30,60000,862800,14,0.48,3622,9181, Nashik,6339
+Vietnam,EXW,Air,30,22500,277425,12,0.41,2895,17045,India,3157
+Zimbabwe,RDC,Air,30,1860,23101,12,0.41,3622,9181,India,6980
+Uganda,RDC,Air,60,1524,4876,3,0.05,3622,9181,India,5524
+Vietnam,EXW,Air,60,10000,81000,8,0.13,3622,9181, Nashik,3641
+South Africa,DDP,Ocean,30,12346,84693,6,0.23,820,8177,India,8074
+Vietnam,FCA,Air,120,560,46032,82,0.68,83,-564,Germany,9157
+Rwanda,RDC,Air,30,3234,42915,13,0.44,3622,9181, Nashik,5355
+Rwanda,RDC,Air,30,50400,197064,3,0.13,3090,15603,India,5921
+Rwanda,RDC,Air,60,29880,232466,7,0.13,2699,15152,India,5921
+Mozambique,RDC,Truck,30,1040,3338,3,0.11,3622,9181,India,6624
+Nigeria,RDC,Air,240,965,5983,6,0.03,3622,9181,India,7633
+South Africa,DDP,Ocean,240,2244,20824,9,0.04,870,2755,Canada,15035
+Tanzania,EXW,Air,60,7255,58983,8,0.14,917,3676,India,5659
+Uganda,RDC,Truck,120,5337,100869,18,0.16,1089,2730,Germany,5868
+Zambia,RDC,Truck,60,4200,32550,7,0.13,867,1938,India,6906
+Rwanda,RDC,Truck,60,64000,144640,2,0.04,3887,20032,India,5921
+Haiti,RDC,Air,60,990,7454,7,0.13,109,9331,India,14446
+Zimbabwe,RDC,Truck,60,11574,127314,11,0.18,3622,9181,India,6980
+Zambia,RDC,Truck,60,61154,133315,2,0.04,7957,9181,India,6906
+Côte d'Ivoire,EXW,Air,60,2432,72960,30,0.5,403,4714, Nashik,8608
+South Africa,DDP,Air,240,1000,3550,3,0.01,3622,9181,India,8074
+South Africa,DDP,Truck,60,22,543,24,0.41,3622,9181,India,8074
+South Africa,DDP,Ocean,30,118537,534601,4,0.15,10373,-370,India,8074
+Mozambique,RDC,Air,60,69685,781865,11,0.19,3622,9181, Nashik,6074
+Zambia,RDC,Truck,30,78787,1021079,12,0.43,9347,9181, Nashik,6339
+Nigeria,RDC,Air Charter,30,2200,13684,6,0.21,3622,9181,India,7633
+Mozambique,RDC,Truck,120,12960,262051,20,0.17,3622,9181,Germany,8163
+Nigeria,RDC,Air,30,6,157,26,0.88,3622,9181, Port Elizabeth,5168
+Uganda,RDC,Truck,60,42717,366511,8,0.14,5732,24118,India,5524
+Uganda,EXW,Air,60,6349,21269,3,0.06,369,1623,India,5524
+Côte d'Ivoire,RDC,Truck,60,8100,18873,2,0.04,387,2296,India,9091
+Nigeria,RDC,Air Charter,60,40000,448800,11,0.19,4693,8736,India,7633
+Mozambique,RDC,Air,30,25913,434042,16,0.56,3622,9181,India,6624
+Vietnam,EXW,Air,60,24349,267839,11,0.18,2799,10838,India,3157
+South Africa,DDP,Truck,60,24,551,23,0.38,3622,9181,India,8074
+South Africa,DDP,Air,60,11672,35016,3,0.05,3622,9181,India,8074
+Rwanda,EXW,Air,30,24666,443988,18,0.6,3622,9181,India,5921
+South Africa,DDP,Air,60,5000,27450,5,0.09,3622,9181,India,8074
+Uganda,RDC,Air,60,16,152,9,0.16,3622,9181,India,5524
+South Africa,DDP,Truck,240,42,870,20,0.09,3622,9181,Canada,15035
+Mozambique,RDC,Truck,60,440,765,1,0.03,27,-200,India,6624
+Haiti,RDC,Air,30,1446,3239,2,0.07,83,608,India,14446
+Vietnam,FCA,Air,120,3885,236285,60,0.51,930,7303,Germany,9157
+South Africa,DDP,Ocean,30,80381,555432,6,0.23,7503,5147,India,8074
+Nigeria,RDC,Air Charter,30,500,4070,8,0.27,28,9181, Nashik,7134
+Nigeria,RDC,Air,30,1200,14904,12,0.41,3622,9181,India,7633
+South Africa,DDP,Ocean,60,131138,323910,2,0.04,6360,11225,India,8074
+Mozambique,RDC,Air,60,10808,127534,11,0.2,1320,5759, Nashik,6074
+Vietnam,EXW,Air,60,591,6737,11,0.19,36,-570,India,3157
+Côte d'Ivoire,RDC,Air,60,27224,254544,9,0.16,2506,22382,India,9091
+South Africa,DDP,Truck,90,3,14,4,0.06,3622,9181,France,8670
+Rwanda,CIP,Air,60,34464,310176,9,0.15,2768,28603, Nashik,5355
+Haiti,EXW,Air,60,384,1121,2,0.05,20,-50,India,14446
+South Africa,DDP,Truck,60,10,162,16,0.27,3622,9181,France,8670
+Mozambique,RDC,Truck,60,35533,153502,4,0.07,7654,6928,India,6624
+Nigeria,RDC,Air Charter,60,14000,108080,7,0.13,1983,3065,India,7633
+Nigeria,RDC,Air,30,75159,751590,10,0.33,6773,9181, Nashik,7134
+Côte d'Ivoire,RDC,Truck,240,4000,7960,1,0.01,10413,38599,India,9091
+Mozambique,RDC,Air,200,165,239,1,0.01,15,-650,India,6624
+Uganda,EXW,Air,60,60678,491491,8,0.13,8402,27304, Nashik,4961
+Vietnam,EXW,Air,60,23355,54884,2,0.04,1073,4221,India,3157
+Zimbabwe,RDC,Truck,60,35061,237012,6,0.11,2247,7194,India,6980
+Nigeria,RDC,Air,60,200000,484000,2,0.04,12028,14459,India,7633
+Côte d'Ivoire,RDC,Air,30,300,5976,19,0.66,3622,9181, Nashik,8608
+Nigeria,RDC,Air,60,1500,2280,1,0.03,178,621,India,7633
+"Congo, DRC",RDC,Air,240,151,294,1,0.01,3622,9181,India,6583
+South Africa,DDP,Truck,200,6,78,13,0.07,3622,9181,France,8670
+Nigeria,RDC,Air Charter,60,150000,1158000,7,0.13,3622,9181,India,7633
+South Africa,DDP,Ocean,30,32083,144694,4,0.15,2808,-370,India,8074
+Vietnam,EXW,Air,60,16800,43680,2,0.04,3622,9181, Nashik,3641
+Uganda,RDC,Air,30,3000,13350,4,0.15,3622,9181,India,5524
+Zimbabwe,RDC,Truck,60,166571,599655,3,0.06,3622,9181,India,6980
+South Africa,DDP,Truck,30,300,7080,23,0.79,3622,9181, Port Elizabeth,573
+Haiti,RDC,Air,60,4000,26400,6,0.11,305,2282, Nashik,14325
+Rwanda,CIP,Air,30,276,2362,8,0.29,26,1187,India,5921
+Tanzania,EXW,Air,30,11912,18582,1,0.05,802,4740,India,5659
+Côte d'Ivoire,RDC,Air,60,214,1874,8,0.15,19,133,India,9091
+Uganda,RDC,Air,30,328,8610,26,0.88,3622,9181, Port Elizabeth,3989
+South Africa,DDP,Truck,60,20,256,12,0.21,3622,9181,India,8074
+Rwanda,EXW,Air,30,1008,20160,20,0.67,213,2024,India,5921
+Nigeria,EXW,Air,540,30,1207,40,0.07,1295,7423,Switzerland,4123
+Zambia,RDC,Truck,60,4000,7960,1,0.03,312,-726,India,6906
+Zambia,RDC,Truck,60,5410,70113,12,0.22,3622,9181,India,6906
+Zimbabwe,RDC,Air,60,37240,275576,7,0.12,7806,44047,India,6980
+"Congo, DRC",RDC,Air,60,3000,16500,5,0.09,3622,9181, Nashik,6020
+Zambia,RDC,Truck,30,220002,2585023,11,0.39,20364,30373, Nashik,6339
+South Africa,DDP,Air,200,140,833,5,0.03,3622,9181,Canada,15035
+Rwanda,RDC,Air,60,12548,165006,13,0.22,1297,20520, Nashik,5355
+Côte d'Ivoire,EXW,Air,30,827,9097,11,0.37,72,721,India,9091
+Vietnam,EXW,Air,60,9030,95718,10,0.18,1054,4726,India,3157
+Tanzania,RDC,Truck,60,46163,436240,9,0.16,4237,2482,India,5659
