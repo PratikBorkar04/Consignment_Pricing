@@ -5,11 +5,10 @@ sys.path.append(str(Path(__file__).parent.parent.parent))
 
 import numpy as np 
 import pandas as pd
-from sklearn.compose import ColumnTransformer
-from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import OneHotEncoder,StandardScaler
-
+from sklearn.preprocessing import LabelEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn import preprocessing
 from src.exception import CustomException
 from src.logger import logging
 import os
@@ -24,111 +23,46 @@ class DataTransformation:
     def __init__(self):
         self.data_transformation_config=DataTransformationConfig()
 
-    def get_data_transformer_object(self):
-        try:
-            numerical_columns = ['unit_of_measure', 'line_item_quantity', 'line_item_value', 'pack_price', 'unit_price', 'weight', 'distance']
-            categorical_columns = ['country', 'fulfill_via', 'vendor', 'shipment_mode', 'location']
-
-            num_pipeline= Pipeline(
-                steps=[
-                ("imputer",SimpleImputer(strategy="median")),
-                ("scaler",StandardScaler())
-
-                ]
-            )
-
-            cat_pipeline=Pipeline(
-
-                steps=[
-                ("imputer",SimpleImputer(strategy="most_frequent")),
-                ("one_hot_encoder",OneHotEncoder()),
-                ("scaler",StandardScaler(with_mean=False))
-                ]
-
-            )
-
-            logging.info(f"Categorical columns: {categorical_columns}")
-            logging.info(f"Numerical columns: {numerical_columns}")
-
-            preprocessor=ColumnTransformer(
-                [
-                ("num_pipeline",num_pipeline,numerical_columns),
-                ("cat_pipelines",cat_pipeline,categorical_columns)
-
-                ]
-
-
-            )
-
-            return preprocessor
-        
-        except Exception as e:
-            raise CustomException(e,sys)
-        
+    
     def initiate_data_transformation(self,train_path,test_path):
 
         try:
             train_df=pd.read_csv(train_path)
-            print(train_df.isnull().sum())
             test_df=pd.read_csv(test_path)
-           
+
             logging.info("Read train and test data completed")
 
             logging.info("Obtaining preprocessing object")
 
-            preprocessing_obj=self.get_data_transformer_object()
+            label_encoder = preprocessing.LabelEncoder()
+            categorical_columns = ['country', 'vendor', 'shipment_mode', 'location']
 
+            for i in categorical_columns:
+                train_df[i]= label_encoder.fit_transform(train_df[i])
+
+            for j in categorical_columns:
+                test_df[j]= label_encoder.fit_transform(test_df[j])
+
+            logging.info(f"Perfom label encoding")
+            
             target_column_name="freight_cost"
-            numerical_columns = ['unit_of_measure', 'line_item_quantity', 'line_item_value', 'pack_price', 'unit_price', 'weight', 'distance']
 
-
-            input_feature_train_df=train_df.drop(columns=[target_column_name],axis=1) 
+            input_feature_train_df=train_df.drop(columns=[target_column_name],axis=1)
             target_feature_train_df=train_df[target_column_name]
-           # print("====00000000")
-           
-           
+            
 
             input_feature_test_df=test_df.drop(columns=[target_column_name],axis=1)
             target_feature_test_df=test_df[target_column_name]
-            print(target_feature_test_df.shape)
-            logging.info(
-                f"Applying preprocessing object on training dataframe and testing dataframe."
-            )
+            logging.info(f"Column dropping perform")            
+            train_arr = np.c_[
+                input_feature_train_df, np.array(target_feature_train_df)
+            ]
 
-            input_feature_train_arr=preprocessing_obj.fit_transform(input_feature_train_df)
-            input_feature_test_arr=preprocessing_obj.transform(input_feature_test_df)
-            
+            test_arr = np.c_[input_feature_test_df, np.array(target_feature_test_df)]
 
-            print(input_feature_train_arr)
-            
-            input_feature_test_arr.to_csv("input_feature_test_arr.csv")
-            print(target_feature_train_df.shape)
-            input_feature_train_arr = np.array(input_feature_train_arr)
-           
-
-            #print(input_feature_test_arr.shape)
-            
-            train_arr = np.c_[input_feature_train_arr, np.array(target_feature_train_df)]
-
-            print("+++++++++++")
-
-            test_arr = np.c_[input_feature_test_arr, np.array(target_feature_test_df)]
-
-
-            print(test_arr)
-            logging.info(f"Saved preprocessing object.")
-
-            save_object(
-
-                file_path=self.data_transformation_config.preprocessor_obj_file_path,
-                obj=preprocessing_obj
-
-            )
-
-            return (
+            return (                
                 train_arr,
                 test_arr,
-                self.data_transformation_config.preprocessor_obj_file_path,
             )
         except Exception as e:
             raise CustomException(e,sys)
