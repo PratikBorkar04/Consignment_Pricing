@@ -36,12 +36,13 @@ class DataTransformation:
 
             label_encoder = preprocessing.LabelEncoder()
             categorical_columns = ['country', 'vendor', 'shipment_mode', 'location']
-
+            
             for i in categorical_columns:
                 train_df[i]= label_encoder.fit_transform(train_df[i])
 
             for j in categorical_columns:
                 test_df[j]= label_encoder.fit_transform(test_df[j])
+            
 
             logging.info(f"Perfom label encoding")
             
