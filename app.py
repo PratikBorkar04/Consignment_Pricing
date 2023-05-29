@@ -6,11 +6,10 @@ from src.exception import CustomException
 import sys
 import pickle
 
-
 app = Flask(__name__)
 
 # Load the ML model
-model = pickle.load(open("artifacts\model.pkl","rb"))
+model = pickle.load(open("model_copy_2.pkl","rb"))
 
 @app.route('/')
 def home():
