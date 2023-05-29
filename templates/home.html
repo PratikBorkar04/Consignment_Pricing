@@ -68,6 +68,38 @@
       color: #333333;
     }
   </style>
+  <script>
+    function validateForm() {
+      var country = document.getElementById("country").value;
+      var vendor = document.getElementById("vendor").value;
+      var shipmentMode = document.getElementById("shipment_mode").value;
+      var unitOfMeasure = document.getElementById("first").value;
+      var lineItemQuantity = document.getElementById("second").value;
+      var lineItemValue = document.getElementById("third").value;
+      var packPrice = document.getElementById("fourth").value;
+      var unitPrice = document.getElementById("fifth").value;
+      var weight = document.getElementById("sixth").value;
+      var manufacturingSite = document.getElementById("manufacturing_site").value;
+      var distance = document.getElementById("seventh").value;
+      
+      if (
+        country === "" ||
+        vendor === "" ||
+        shipmentMode === "" ||
+        unitOfMeasure === "" ||
+        lineItemQuantity === "" ||
+        lineItemValue === "" ||
+        packPrice === "" ||
+        unitPrice === "" ||
+        weight === "" ||
+        manufacturingSite === "" ||
+        distance === ""
+      ) {
+        alert("Please enter all values.");
+        return false;
+      }
+    }
+  </script>
 </head>
 <body>
   <div class="login">
@@ -75,7 +107,7 @@
     <div class="line">
       <hr>
     </div>
-    <form action="{{ url_for('predict') }}" method="post">
+    <form action="{{ url_for('predict') }}" method="post" onsubmit="return validateForm();">
       <h3>Country</h3>
       <select name="country_name" id="country" required>
         <option value="Vietnam">Vietnam</option>
@@ -112,22 +144,22 @@
       </select>
       
       <h3>Unit of Measure</h3>
-      <input id="first" name="unit_of_measure" type="number">
+      <input id="first" name="unit_of_measure" type="number" required>
       
       <h3>Line Item Quantity</h3>
-      <input id="second" name="Line Item Quantity" type="number">
+      <input id="second" name="line_item_quantity" type="number" required>
       
       <h3>Line Item Value</h3>
-      <input id="third" name="line_item_value" type="number">
+      <input id="third" name="line_item_value" type="number" required>
       
       <h3>Pack Price</h3>
-      <input id="fourth" name="pack_price" type="number">
+      <input id="fourth" name="pack_price" type="number" required>
       
-      <h3>Unit Price</h3>
-      <input id="fifth" name="unit_price" type="number">
+      <h3>Unit Price (0.0 - 1.0)</h3>
+      <input id="fifth" name="unit_price" type="number" step="0.01" required>
       
       <h3>Weight</h3>
-      <input id="sixth" name="weight" type="number">
+      <input id="sixth" name="weight" type="number" required>
       
       <h3>Manufacturing Site</h3>
       <select name="manufacturing_site" id="manufacturing_site" required>
@@ -149,7 +181,7 @@
       </select>
       
       <h3>Distance</h3>
-      <input id="seventh" name="distance" type="number">
+      <input id="seventh" name="distance" type="number" required>
       
       <br><br>
       <input type="submit" value="Predict Consignment Price" style="background-color: #4CAF50;">
@@ -157,7 +189,8 @@
   </div>
   
   <div class="prediction">
-    {{prediction_text}}
+    <span style="font-size: 18px;">The predicted consignment price is:</span><br>
+    <span style="font-size: 24px;">{{prediction_text}}</span>
   </div>
   
 </body>
